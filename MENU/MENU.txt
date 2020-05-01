@@ -5,7 +5,7 @@
 
 <channel>
 <name>[B][COLOR white]TV ONLINE BR[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Geral.html</externallink>
+<externallink>https://raw.githubusercontent.com/neitzke11/NEITZKE/master/TV/A.txt</externallink>
 <fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
-<thumbnail>http://goo.gl/PumvSm</thumbnail>
+<thumbnail></thumbnail>
 </channel>
