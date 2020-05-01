@@ -1,0 +1,11 @@
+<layoutype>thumbnail</layoutype>
+
+<channels>
+
+
+<channel>
+<name>[B][COLOR white]TV ONLINE BR[/COLOR][/B]</name>
+<externallink>https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Tv%20online/Geral.html</externallink>
+<fanart>http://igorlista.at.ua/Logos/Menu_Principal.png</fanart>
+<thumbnail>http://goo.gl/PumvSm</thumbnail>
+</channel>
