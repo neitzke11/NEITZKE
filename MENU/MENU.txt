@@ -1,9 +1,0 @@
-<channels>
-<channel>
-<name>[B][COLOR white]TV ONLINE BR[/COLOR][/B]</name>
-<thumbnail>https://ia801506.us.archive.org/10/items/vintage_202004/Bem%20vindo.jpeg</thumbnail>
-<externallink>https://raw.githubusercontent.com/neitzke11/NEITZKE/master/TV/A.txt</externallink>
-<fanart>https://ia601402.us.archive.org/32/items/filmes-2019_201910/Fanart%20filmes.jpg</fanart>
-<info></info>
-</channel>
-<channels>
