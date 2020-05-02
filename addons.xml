@@ -20,22 +20,35 @@
        version="0.2"
        provider-name="Equipe Neitzke">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="xbmc.python"/>
+    <import addon="script.module.beautifulsoup"/>
+    <import addon="script.module.simple.downloader"/>
     <import addon="script.module.beautifulsoup4"/>
-    <import addon="script.module.requests"/>
-    <import addon="script.module.httplib2"/>
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube"/>
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson"/>
+	<import addon="script.module.httplib2"/>
+	<import addon="script.module.youtube.dl"/>
+	<import addon="plugin.video.youtube"/>
+	<import addon="script.module.urlresolver"/>
+	<import addon="script.module.livestreamer"/>
+	<import addon="script.module.pyamf"/>
+    <import addon="plugin.video.f4mTester" version="3.0.1.1"/>
 	<import addon="script.common.plugin.cache"/>
-    <import addon="script.module.livestreamer" optional="true"/>
-    <import addon="script.module.pyamf" optional="true"/>
-	<import addon="plugin.video.f4mTester" version="3.0.1.1"/>
+	<import addon="script.module.parsedom"/>
+	<import addon="script.module.addon.signals"/>
+	<import addon="script.module.kodi-six"/>
+	<import addon="script.module.six"/>
+	<import addon="script.module.requests"/>
+    <import addon="script.module.inputstreamhelper"/>    
+	<import addon="script.module.t0mm0.common"/>
+    <import addon="script.module.simplejson"/>
+	<import addon="script.module.singledispatch"/>
+    <import addon="script.module.futures"/>
     <import addon="script.video.F4mProxy" version="3.0.1.1"/>
+	<import addon="script.module.urllib3"/>
+	<import addon="script.module.chardet"/>
+	<import addon="script.module.idna"/>
+	<import addon="script.module.certifi"/>
+	<import addon="script.module.pysocks"/>
+	<import addon="script.module.win_inet_pton"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
