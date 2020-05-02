@@ -17,7 +17,7 @@
 
 <addon id="plugin.video.Neitzke"
        name="[B][COLOR gold]N[COLOR blue]E[/COLOR][COLOR lime]I[/COLOR][COLOR red]T[/COLOR][COLOR magenta]Z[/COLOR][COLOR white]KE[/B][/COLOR]"
-       version="0.2"
+       version="0.3"
        provider-name="Equipe Neitzke">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
