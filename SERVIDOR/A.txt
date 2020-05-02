@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1,Globo RJ FHD
-plugin://plugin.video.f4mTester/?name=kkk&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/gabriela/gabriela123/18790
-#EXTINF:-1,Globo RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/rmn58VxaXW/factoryiptv/40263
