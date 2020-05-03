@@ -17,46 +17,29 @@
 
 <addon id="plugin.video.Neitzke"
        name="[B][COLOR gold]N[COLOR blue]E[/COLOR][COLOR lime]I[/COLOR][COLOR red]T[/COLOR][COLOR magenta]Z[/COLOR][COLOR white]KE[/B][/COLOR]"
-       version="0.3"
+       version="0.4"
        provider-name="Equipe Neitzke">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
     <import addon="script.module.simple.downloader" version="0.9.4"/>
     <import addon="script.module.beautifulsoup4"/>
-	<import addon="script.module.httplib2"/>
-	<import addon="script.module.youtube.dl"/>
-	<import addon="plugin.video.youtube"/>
-	<import addon="script.module.urlresolver"/>
-	<import addon="script.module.livestreamer"/>
-	<import addon="script.module.pyamf"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.httplib2"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube"/>
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson"/>	
+	<import addon="script.module.livestreamer" optional="true"/>
     <import addon="plugin.video.f4mTester" version="3.0.1.1"/>
-	<import addon="script.common.plugin.cache"/>
-	<import addon="script.module.parsedom"/>
-	<import addon="script.module.addon.signals"/>
-	<import addon="script.module.kodi-six"/>
-	<import addon="script.module.six"/>
-	<import addon="script.module.requests"/>
-    <import addon="script.module.inputstreamhelper"/>    
-	<import addon="script.module.t0mm0.common"/>
-    <import addon="script.module.simplejson"/>
-	<import addon="script.module.singledispatch"/>
-    <import addon="script.module.futures"/>
-    <import addon="script.video.F4mProxy" version="3.0.1.1"/>
-	<import addon="script.module.urllib3"/>
-	<import addon="script.module.chardet"/>
-	<import addon="script.module.idna"/>
-	<import addon="script.module.certifi"/>
-	<import addon="script.module.pysocks"/>
-	<import addon="script.module.win_inet_pton"/>
+	<import addon="script.video.F4mProxy" version="3.0.1.1"/>	
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">É um plugin de vídeo gratuito para o KODI que agrega links de reprodução de vídeos de vários tipos.
-Levando o lazer e o prazer para vocês assistir e curtir cada momento com a família e amigos.</summary>
-    <description lang="en">Este addon é apenas um redirecionador de links, todo seu conteúdo é de domínio público facilmente encontrado na internet.</description>
+    <summary lang="en"></summary>
+    <description lang="en"></description>
     <platform>all</platform>
   </extension>
 </addon>
