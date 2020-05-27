@@ -1,0 +1,155 @@
+#EXTM3U
+###############################################################  ###########################################################################
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR PSRV.IO[/B][/COLOR]  [COLOR lime]««««[/COLOR] 
+https://127.0.0.19
+#EXTINF:-1 ,A&E
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18738
+#EXTINF:-1 ,AMC
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18736
+#EXTINF:-1 ,AXN
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18730
+#EXTINF:-1 ,CANAL BRASIL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18716
+#EXTINF:-1 ,CINEMAX
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18709
+#EXTINF:-1 ,FOX CHANNEL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18667
+#EXTINF:-1 ,FOX LIFE
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18665
+#EXTINF:-1 ,FOX PREMIUM 1
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18663
+#EXTINF:-1 ,FOX PREMIUM 2
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18661
+#EXTINF:-1 ,FX
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18653
+#EXTINF:-1 ,HBO
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18637
+#EXTINF:-1 ,HBO 2
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18640
+#EXTINF:-1 ,HBO FAMILY
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18638
+#EXTINF:-1 ,HBO MUNDI
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18623
+#EXTINF:-1 ,HBO PLUS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18635
+#EXTINF:-1 ,HBO POP
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/45148
+#EXTINF:-1 ,HBO SIGNATURE
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18633
+#EXTINF:-1 ,HBO XTREME
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/45144
+#EXTINF:-1 ,MEGAPIX
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18617
+#EXTINF:-1 ,PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18596
+#EXTINF:-1 ,PRIME BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18581
+#EXTINF:-1 ,SONY CHANNEL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18714
+#EXTINF:-1 ,SPACE
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18564
+#EXTINF:-1 ,STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18556
+#EXTINF:-1 ,SYFY
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18566
+#EXTINF:-1 ,TBS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18554
+#EXTINF:-1 ,TCM
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18553
+#EXTINF:-1 ,TELECINE ACTION
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18551
+#EXTINF:-1 ,TELECINE CULT
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18549
+#EXTINF:-1 ,TELECINE FUN
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18547
+#EXTINF:-1 ,TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18545
+#EXTINF:-1 ,TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18543
+#EXTINF:-1 ,TELECINE TOUCH
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18541
+#EXTINF:-1 ,TNT
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18536
+#EXTINF:-1 ,TNT SERIES
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18534
+#EXTINF:-1 ,UNIVERSAL TV
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18520
+#EXTINF:-1 ,WARNER TV
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18513
+###############################################################  ###########################################################################
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR VIPTV2.DYNDNS.TV[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+https://127.0.0.19 
+#EXTINF:-1 ,A&E
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/158
+#EXTINF:-1 ,AMC
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/4
+#EXTINF:-1 ,AXN
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/182
+#EXTINF:-1 ,CANAL BRASIL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/16
+#EXTINF:-1 ,CINEMAX [COLOR lime][OFF][/COLOR]
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 ,FOX CHANNEL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/163
+#EXTINF:-1 ,FOX LIFE
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/165
+#EXTINF:-1 ,FOX PREMIUM 1
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/167
+#EXTINF:-1 ,FOX PREMIUM 2
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/169
+#EXTINF:-1 ,FX
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/114
+#EXTINF:-1 ,HBO
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/186
+#EXTINF:-1 ,HBO 2
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/188
+#EXTINF:-1 ,HBO FAMILY
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/194
+#EXTINF:-1 ,HBO MUNDI
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/196
+#EXTINF:-1 ,HBO PLUS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/190
+#EXTINF:-1 ,HBO POP
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/198
+#EXTINF:-1 ,HBO SIGNATURE
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/192
+#EXTINF:-1 ,HBO XTREME
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/197
+#EXTINF:-1 ,MEGAPIX
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/183
+#EXTINF:-1 ,PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/10
+#EXTINF:-1 ,PRIME BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/199
+#EXTINF:-1 ,SONY CHANNEL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/161
+#EXTINF:-1 ,SPACE
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/200
+#EXTINF:-1 ,STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/174
+#EXTINF:-1 ,SYFY
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/175
+#EXTINF:-1 ,TBS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/176
+#EXTINF:-1 ,TCM
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/201
+#EXTINF:-1 ,TELECINE ACTION
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/214
+#EXTINF:-1 ,TELECINE CULT
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/204
+#EXTINF:-1 ,TELECINE FUN
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/206
+#EXTINF:-1 ,TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/208
+#EXTINF:-1 ,TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/210
+#EXTINF:-1 ,TELECINE TOUCH
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/212
+#EXTINF:-1 ,TNT
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/202
+#EXTINF:-1 ,TNT SERIES
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/177
+#EXTINF:-1 ,UNIVERSAL TV
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/179
+#EXTINF:-1 ,WARNER TV
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/181

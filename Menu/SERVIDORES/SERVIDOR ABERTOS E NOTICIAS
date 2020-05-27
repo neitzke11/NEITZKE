@@ -1,0 +1,43 @@
+#EXTM3U
+###############################################################  ###########################################################################
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR PSRV.IO[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+https://127.0.0.19
+#EXTINF:-1 ,BAND SP
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18727
+#EXTINF:-1 ,BANDNEWS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18725
+#EXTINF:-1 ,CNN BRASIL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/47358
+#EXTINF:-1 ,GLOBONEWS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18651
+#EXTINF:-1 ,GLOBO RBS TV PORTO ALEGRE
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18419
+#EXTINF:-1 ,RECORDNEWS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18577
+#EXTINF:-1 ,RECORDTV SP
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18575
+#EXTINF:-1 ,REDETV!
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18572
+#EXTINF:-1 ,SBT SP
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/49620
+###############################################################  ###########################################################################
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR VIPTV2.DYNDNS.TV[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+https://127.0.0.19
+#EXTINF:-1 ,BAND
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/14
+#EXTINF:-1 ,BANDNEWS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/86
+#EXTINF:-1 ,CNN BRASIL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/19655
+#EXTINF:-1 ,GLOBONEWS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/85
+#EXTINF:-1 ,GLOBO SP
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/3
+#EXTINF:-1 ,RECORDNEWS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/81
+#EXTINF:-1 ,RECORDTV
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/31
+#EXTINF:-1 ,REDETV!
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/75
+#EXTINF:-1 ,SBT
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/73
