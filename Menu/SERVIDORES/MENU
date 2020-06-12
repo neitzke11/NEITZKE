@@ -1,10 +1,11 @@
 <channels>
 <channel>
-<name>CANAIS</name>
+<name>ATUALIZADO - 11/06/20</name>
 <thumbnail></thumbnail>
 <externallink>https://pastebin.com/raw/s4NGmt4k</externallink>
 <fanart></fanart>
-<info></info>
+<info>[COLOR lawngreen][B]CHANGELOG[/COLOR]
+CANAIS > SERVIDOR 2 EM MANUTENÇÃO</info>
 </channel>
 <channels>
 
@@ -12,7 +13,7 @@
 <channel>
 <name>CANAIS</name>
 <thumbnail>https://raw.githubusercontent.com/neitzke11/NEITZKE/master/Menu/menu-canais.png</thumbnail>
-<externallink>https://pastebin.com/raw/s4NGmt4k</externallink>
+<externallink>https://github.com/neitzke11/NEITZKE/raw/master/Menu/SERVIDORES/SUBMENU</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -22,7 +23,7 @@
 <channel>
 <name>TOPCANAIS</name>
 <thumbnail>https://raw.githubusercontent.com/neitzke11/NEITZKE/master/Menu/menu-topcanais.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/neitzke11/NEITZKE/master/Menu/SERVIDORES/SUBMENU%20FILMES</externallink>
+<externallink></externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -32,7 +33,7 @@
 <channel>
 <name>FILMES</name>
 <thumbnail>https://raw.githubusercontent.com/neitzke11/NEITZKE/master/Menu/menu-filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/neitzke11/NEITZKE/master/Menu/SERVIDORES/FILMES</externallink>
+<externallink>https://raw.githubusercontent.com/neitzke11/NEITZKE/master/Menu/SERVIDORES/SUBMENU%20FILMES</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
