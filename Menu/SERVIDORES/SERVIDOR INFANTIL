@@ -21,10 +21,10 @@ https://127.0.0.19
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/bebe/1234/128
 #EXTINF:-1 ,CARTOON NETWORK
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/bebe/1234/129
-#EXTINF:-1 ,DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yzZhtw.png",,DISNEY CHANNEL
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/bebe/1234/130
 #EXTINF:-1 ,DISNEY XD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/bebe/1234/132
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdn.poptv.vip:80/daniel/daniel/7858
 #EXTINF:-1 ,NICKELODEON
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/bebe/1234/136
 #EXTINF:-1 ,TOONCAST
