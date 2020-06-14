@@ -68,64 +68,64 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.11
 #EXTINF:-1 ,ANIMAL PLANET
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/100
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/14154
 #EXTINF:-1 ,BIS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/141
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13671
 #EXTINF:-1 ,COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/150
-#EXTINF:-1 ,CURTA!
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/21
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/27255
+#EXTINF:-1 ,CURTA! [COLOR lime][OFF][/COLOR]
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/104
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13676
 #EXTINF:-1 ,DISCOVERY HOME & HEALTH
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/102
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13677
 #EXTINF:-1 ,DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/122
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/4809
 #EXTINF:-1 ,DISCOVERY THEATER
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/106
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13679
 #EXTINF:-1 ,DISCOVERY TURBO
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/108
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13680
 #EXTINF:-1 ,DISCOVERY WORLD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/109
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13681
 #EXTINF:-1 ,E!
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/156
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13683
 #EXTINF:-1 ,GNT
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/151
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13799
 #EXTINF:-1 ,HISTORY CHANNEL
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/116
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13709
 #EXTINF:-1 ,H2
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/225
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13703
 #EXTINF:-1 ,INVESTIGAÇÃO DISCOVERY
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/117
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13710
 #EXTINF:-1 ,LIFETIME
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/170
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13711
 #EXTINF:-1 ,MAIS GLOBOSAT
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/152
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13700
 #EXTINF:-1 ,MTV
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/142
-#EXTINF:-1 ,MTV LIVE
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/143
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13716
+#EXTINF:-1 ,MTV LIVE [COLOR lime][OFF][/COLOR]
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,MULTISHOW
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/144
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13717
 #EXTINF:-1 ,MUSIC BOX BRASIL
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/145
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13751
 #EXTINF:-1 ,NAT GEO WILD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/121
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13719
 #EXTINF:-1 ,NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/119
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13718
 #EXTINF:-1 ,OFF
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/60
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13885
 #EXTINF:-1 ,PLAYTV [COLOR lime][OFF][/COLOR]
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,TLC
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/123
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13744
 #EXTINF:-1 ,TRAVEL BOX BRAZIL [COLOR lime][OFF][/COLOR]
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 ,TRUTV [COLOR lime][OFF][/COLOR]
+#EXTINF:-1 ,TRUTV 
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13902
+#EXTINF:-1 ,VH1 [COLOR lime][OFF][/COLOR]
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 ,VH1
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/146
 #EXTINF:-1 ,VH1 MEGAHITS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/147
-#EXTINF:-1 ,VIVA [COLOR lime][OFF][/COLOR]
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13905
+#EXTINF:-1 ,VIVA
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13749

@@ -46,42 +46,42 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.11
 #EXTINF:-1 ,BANDSPORTS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/47
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13670
 #EXTINF:-1 ,COMBATE
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/49
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13675
 #EXTINF:-1 ,ESPN
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/52
-#EXTINF:-1 ,ESPN 2 [COLOR lime][OFF][/COLOR]
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13685
+#EXTINF:-1 ,ESPN 2
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13860
 #EXTINF:-1 ,ESPN BRASIL
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/53
-#EXTINF:-1 ,ESPN EXTRA
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/50
-#EXTINF:-1 ,FOX SPORTS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/56
-#EXTINF:-1 ,FOX SPORTS 2
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/57
-#EXTINF:-1 ,PREMIERE  CLUBES
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/68
-#EXTINF:-1 ,PREMIERE  2
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/61
-#EXTINF:-1 ,PREMIERE  3
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/67
-#EXTINF:-1 ,PREMIERE  4
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/62
-#EXTINF:-1 ,PREMIERE  5 [COLOR lime][OFF][/COLOR]
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/14111
+#EXTINF:-1 ,ESPN EXTRA [COLOR lime][OFF][/COLOR]
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 ,FOX SPORTS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13695
+#EXTINF:-1 ,FOX SPORTS 2
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/14107
+#EXTINF:-1 ,PREMIERE  CLUBES
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13727
+#EXTINF:-1 ,PREMIERE  2
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13725
+#EXTINF:-1 ,PREMIERE  3 [COLOR lime][OFF][/COLOR]
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 ,PREMIERE  4
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13725
+#EXTINF:-1 ,PREMIERE  5 
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13726
 #EXTINF:-1 ,PREMIERE  6
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/64
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13759
 #EXTINF:-1 ,PREMIERE  7
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/63
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13757
 #EXTINF:-1 ,PREMIERE  8 [COLOR lime][OFF][/COLOR]
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,PREMIERE  9 [COLOR lime][OFF][/COLOR]
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,SPORTV
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/69
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13762
 #EXTINF:-1 ,SPORTV 2
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/72
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/14170
 #EXTINF:-1 ,SPORTV 3
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/sandro/1234/74
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/14159
