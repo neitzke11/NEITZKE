@@ -1,8 +1,8 @@
 <channels>
 <channel>
-<name>THE GOOD DOCTOR</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucMdbTpOhV75R0NtxqHEg4hirNl.jpg</thumbnail>
-<externallink></externallink>
+<name>PRIMEIRA TEMPORADA</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/neitzke11/NEITZKE/master/Menu/SERIES/TGD%201</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -10,7 +10,7 @@
 
 <channels>
 <channel>
-<name></name>
+<name>SEGUNDA TEMPORADA</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
@@ -20,7 +20,7 @@
 
 <channels>
 <channel>
-<name></name>
+<name>TERCEIRA TEMPORADA</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
