@@ -1,29 +1,29 @@
 <channels>
 <channel>
-<name>PRIMEIRA TEMPORADA</name>
-<thumbnail></thumbnail>
-<externallink>https://github.com/neitzke11/NEITZKE/raw/master/Menu/SERVIDORES/TGD%201</externallink>
+<name>THE GOOD DOCTOR</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucMdbTpOhV75R0NtxqHEg4hirNl.jpg</thumbnail>
+<externallink>https://github.com/neitzke11/NEITZKE/raw/master/Menu/SERIES/TGD%20SUB</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
-<channels>
+</channels>
 
 <channels>
 <channel>
-<name>SEGUNDA TEMPORADA</name>
+<name></name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info></info>
 </channel>
-<channels>
+</channels>
 
 <channels>
 <channel>
-<name>TERCEIRA TEMPORADA</name>
+<name></name>
 <thumbnail></thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info></info>
 </channel>
-<channels>
+</channels>
