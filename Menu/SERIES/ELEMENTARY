@@ -1,9 +1,10 @@
-
-
+ 
 <item>
-<title></title>
-<link>https://prisma1.azureedge.net/d/RCServer09/ondemand/ELMTRT01EP01.mp4|Referer=https://player.ec.cx/player3/server9hlb.php?</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>Will Turner e Elizabeth Swann unem forças com o Capitão Barbossa para libertarem Jack Sparrow da prisão de Davy Jones. Enquanto isso, a tripulação do barco fantasma O Holandês Voador causa estragos nos Sete Mares. Os amigos devem navegar através de águas perigosas para enfrentarem o pirata chinês São Feng e, finalmente, eles devem escolher em que lado ficar na batalha, pois a vida do pirata está em jogo</info>
+<title>[COLOR white][B]A Vastidão da Noite[/B][/COLOR]</title>
+<link>$doregex[LINK]</link>
+<regex><name>LINK</name><expres>source.*?"(.*?)\n</expres><page>https://player.ec.cx/player3/serverf5hlb.php?vid=AVSTDAODNTE</page><referer>https://player.ec.cx/</referer></regex>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcZb17z4szf7ovmsjTGc2qDmaoQ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/vZYTauClyYFFdx9SA2h3rh6VJa6.jpg</fanart>
+<info>No período da Guerra Fria, enquanto acontece a corrida espacial entre os Estados Unidos e a União Soviética, dois adolescentes de uma cidadezinha americana são obcecados pelo rádio. Quando eles descobrem uma estranha frequência de ondas aéreas, suas vidas e o mundo inteiro podem estar prestes a mudar drasticamente</info>
+<date>2020</date>
 </item>
