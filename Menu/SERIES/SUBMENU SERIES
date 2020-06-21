@@ -20,6 +20,17 @@
 
 <channels>
 <channel>
+<name>LA CASA DE PAPEL</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zd8mxIfGY8SlupYd9XvK3qJL91B.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/b82gqequeam9gc2/LACASADEPAPEL.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg</fanart>
+<info>Um homem misterioso que atende pelo nome de El Profesor, está planejando o maior assalto do século. A fim de realizar o ambicioso plano ele recruta uma gangue de oito pessoas com certas habilidades que não tem nada a perder. O objetivo é infiltrar na Casa da Moeda, de modo que eles possam imprimir 2,4 bilhões de euros. Para fazer isso eles precisam de onze dias de reclusão, durante o qual eles vão ter que lidar com sessenta e sete reféns e as forças da Polícia de Elite, com cenas de muita ação e planos brilhantes de El Profesor.</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
 <name>THE GOOD DOCTOR</name>
 <thumbnail>https://image.tmdb.org/t/p/original/ucMdbTpOhV75R0NtxqHEg4hirNl.jpg</thumbnail>
 <externallink>https://github.com/neitzke11/NEITZKE/raw/master/Menu/SERIES/TGD%20SUB</externallink>
