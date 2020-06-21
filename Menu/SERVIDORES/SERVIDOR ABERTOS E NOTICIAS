@@ -20,6 +20,8 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18572
 #EXTINF:-1 ,SBT SP
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/49620
+#EXTINF:-1 ,TV CULTURA
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18505
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
@@ -41,3 +43,5 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13833
 #EXTINF:-1 ,SBT
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13920
+#EXTINF:-1 ,TV CULTURA
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/13855
