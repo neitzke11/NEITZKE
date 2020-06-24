@@ -10,11 +10,31 @@
 
 <channels>
 <channel>
+<name>DARK</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/aiu8txv4gutuilv/DARK.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/1WNcr2RHIZ6IaQmrSlNRYwtSuCi.jpg</fanart>
+<info>Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>ELEMENTARY</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg</thumbnail>
 <externallink>https://www.dropbox.com/s/snkcfndz0a5ngvn/ELEMENTARY.XML?raw=1</externallink>
 <fanart>https://image.tmdb.org/t/p/original/7sJrNKwzyJWnFPFpDL9wnZ859LZ.jpg</fanart>
 <info>Elementary leva Sherlock Holmes para a Nova York dos dias de hoje. Na história de Elementar o detetive, um homem excêntrico que foi consultor da Scotland Yard, vai para Nova Iorque para passar um período em um centro de reabilitação. Quando deixa a clínica ele decide morar no Brooklyn na companhia de Joan, uma ex-cirurgiã que perdeu sua licença quando um paciente morreu. Na época, ela prestava auxílio para o Departamento de Polícia de Nova Iorque. Joan deverá representar para Sherlcok a pessoa que o manterá sóbrio.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>EXPRESSO DO AMANHÃ</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmONvLG6FCEEXFeevmnJlGRUdDx.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/p5396v7e9myqs60/EXPRESSODOAMANH%C3%83.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/orQs5psoQJGnD6cpWtYkZFaK1Ww.jpg</fanart>
+<info>A Terra congelou. Os últimos sobreviventes vivem em um trem que viaja pelo mundo e se esforçam para manter uma complexa coexistência a bordo.</info>
 </channel>
 </channels>
 
