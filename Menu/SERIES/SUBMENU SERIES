@@ -1,5 +1,15 @@
 <channels>
 <channel>
+<name>13 REASONS WHY</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJh0mEp6HYVG8yje22LpUKoVYX1.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/94ypza55nocpqkd/13REASONSWHY.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/4UqsPBtdIlInKy74gTCsREY6L6I.jpg</fanart>
+<info>Clay Jensen é um estudante que se vê envolvido em uma série de mistérios provocados pelo trágico suicídio de uma amiga.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>BLACK MIRROR</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dw7jYk7EdrkrHozG7F1Yg2eFJTm.jpg</thumbnail>
 <externallink>https://www.dropbox.com/s/t6sllx1s4mj0gie/BLACKMIRROR.xml?raw=1</externallink>
