@@ -70,6 +70,16 @@
 
 <channels>
 <channel>
+<name>STRANGER THINGS</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3nzhHBDTrJ7RWhzozFTYFjvRbd.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/gig8cpqvvfkuf6q/STRANGERTHINGS.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg</fanart>
+<info>Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>THE ALIENIST</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUd4RPbfHuB1zIG2iNI5bdZcQo3.jpg</thumbnail>
 <externallink>https://www.dropbox.com/s/hiu3vrd0vvdfcx2/THEALIENIST.xml?raw=1</externallink>
