@@ -14,6 +14,8 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18676
 #EXTINF:-1 ,ESPN EXTRA
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/25308
+#EXTINF:-1 ,DAZN
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/45095
 #EXTINF:-1 ,FOX SPORTS
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18659
 #EXTINF:-1 ,FOX SPORTS 2
