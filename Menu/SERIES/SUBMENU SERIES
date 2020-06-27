@@ -90,6 +90,16 @@
 
 <channels>
 <channel>
+<name>PRESENÇA DE ANITA</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjs6Ga4wRE3wXyZliuWGmGzV6BN.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/9s5rc8a8ay825gf/PRESEN%C3%87ADEANITA.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/tcaVTsDVi4pYf7aT8x0yBV9Q770.jpg</fanart>
+<info>Para tentar escapar da rotina louca de São Paulo, Lúcia Helena resolve passar as festas de fim de ano com a família, em Florença, cidade do interior de São Paulo. Pensa em aproveitar o clima familiar para reacender a paixão em seu casamento. Nando, seu marido, vê nas férias a possibilidade de escrever um romance. Em busca de inspiração, encontra Anita, uma jovem praticamente da idade de sua filha, que o seduz e desperta a primeira paixão de um adolescente chamado Zezinho. Com os dois, a menina forma um triângulo amoroso que muda para sempre a vida de todos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>STRANGER THINGS</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3nzhHBDTrJ7RWhzozFTYFjvRbd.jpg</thumbnail>
 <externallink>https://www.dropbox.com/s/gig8cpqvvfkuf6q/STRANGERTHINGS.xml?raw=1</externallink>
