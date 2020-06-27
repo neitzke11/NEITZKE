@@ -20,6 +20,16 @@
 
 <channels>
 <channel>
+<name>BREAKING BAD</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/30erzlzIOtOK3k3T3BAl1GiVMP1.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/ozu4u1nv6yx6ln0/BREAKINGBAD.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/wbfg0y8Ptk472rLa9e3TTO9XVNh.jpg</fanart>
+<info>Ao saber que tem câncer, um professor passa a fabricar metanfetamina pelo futuro da família, mudando o destino de todos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>DARK</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
 <externallink>https://www.dropbox.com/s/aiu8txv4gutuilv/DARK.xml?raw=1</externallink>
