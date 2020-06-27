@@ -30,6 +30,16 @@
 
 <channels>
 <channel>
+<name>CHERNOBYL</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/613vbsr63x0up1e/CHERNOBYL.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/uL6Ad12W09L1sfuOE2pcTeak7bt.jpg</fanart>
+<info>Aqui é contada a história da explosão que aconteceu na Usina Nuclear de Chernobyl. Em 1986, na Ucrânia, o acidente dizimou dezenas de pessoas e acabou por se tornar o maior desastre nuclear da história. Enquanto o mundo lamentava o ocorrido, o cientista Valery Legasov, a física Ulana Khomyuk e o vice-presidente do Conselho de Ministros Boris Shcherbina tentam descobrir as causas do acidente.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>DARK</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
 <externallink>https://www.dropbox.com/s/aiu8txv4gutuilv/DARK.xml?raw=1</externallink>
