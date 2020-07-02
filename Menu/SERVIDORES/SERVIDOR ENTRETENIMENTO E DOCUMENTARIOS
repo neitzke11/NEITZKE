@@ -65,7 +65,72 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 #EXTINF:-1 ,VIVA
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/ibqJejmTr5/9Q1kvPkuRn/18515
 ###############################################################  ###########################################################################
-#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR ALTERNATIVO[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+https://127.0.0.11
+#EXTINF:-1 ,ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1902
+#EXTINF:-1 ,BIS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1889
+#EXTINF:-1 ,COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1873
+#EXTINF:-1 ,CURTA!
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1871
+#EXTINF:-1 ,DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1869
+#EXTINF:-1 ,DISCOVERY HOME & HEALTH
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1865
+#EXTINF:-1 ,DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1861
+#EXTINF:-1 ,DISCOVERY THEATER
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1859
+#EXTINF:-1 ,DISCOVERY TURBO*
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/2384
+#EXTINF:-1 ,DISCOVERY WORLD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1855
+#EXTINF:-1 ,E!
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1849
+#EXTINF:-1 ,GNT
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1813
+#EXTINF:-1 ,HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1799
+#EXTINF:-1 ,H2
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1811
+#EXTINF:-1 ,INVESTIGAÇÃO DISCOVERY
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1797
+#EXTINF:-1 ,LIFETIME
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1795
+#EXTINF:-1 ,MAIS GLOBOSAT
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1793
+#EXTINF:-1 ,MTV
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1783
+#EXTINF:-1 ,MTV LIVE
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1676
+#EXTINF:-1 ,MULTISHOW
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1781
+#EXTINF:-1 ,MUSIC BOX BRASIL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1779
+#EXTINF:-1 ,NAT GEO WILD*
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/2347
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC*
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/2349
+#EXTINF:-1 ,OFF
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1766
+#EXTINF:-1 ,PLAYTV SD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/2167
+#EXTINF:-1 ,TLC
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1706
+#EXTINF:-1 ,TRAVEL BOX BRAZIL FHD*
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/25367
+#EXTINF:-1 ,TRUTV FHD*
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/25350
+#EXTINF:-1 ,VH1
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1686
+#EXTINF:-1 ,VH1 MEGAHITS SD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1685
+#EXTINF:-1 ,VIVA
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/ANDINHO13/ANDINHO2020/1683
+###############################################################  ###########################################################################
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 3[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.11
 #EXTINF:-1 ,ANIMAL PLANET
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/djalma/djalma/18734
@@ -130,7 +195,7 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 #EXTINF:-1 ,VIVA
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/djalma/djalma/18515
 ###############################################################  ###########################################################################
-#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 4[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.11
 #EXTINF:-1 ,ANIMAL PLANET
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://toptv.ws:25461/dtv_220310/zfFeHUYY/14154
