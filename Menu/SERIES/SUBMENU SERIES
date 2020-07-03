@@ -90,6 +90,16 @@
 
 <channels>
 <channel>
+<name>GREY'S ANATOMY</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/uicayqqxuvl09sz/GREY%27SANATOMY.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>
+<info>Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte. É um no outro que eles encontram apoio, conforto, amizade e, às vezes, até mais que amizade... Juntos, eles descobrem o quanto a vida profissional e a pessoal podem ser complicadas e se misturarem no meio do caminho.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>LA CASA DE PAPEL</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zd8mxIfGY8SlupYd9XvK3qJL91B.jpg</thumbnail>
 <externallink>https://www.dropbox.com/s/b82gqequeam9gc2/LACASADEPAPEL.xml?raw=1</externallink>
