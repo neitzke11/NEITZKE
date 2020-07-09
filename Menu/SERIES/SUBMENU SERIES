@@ -110,6 +110,16 @@
 
 <channels>
 <channel>
+<name>OS SIMPSONS</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fSGtPOp3MlFfynLEjYjlOfenbk.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/aiiach93lh9smvd/OSSIMPSONS.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/kJVpFSpGzAGF2PMkiONIV9yR9c1.jpg</fanart>
+<info>A família Simpsons mora na cidade de Springfield, uma cidade americana como qualquer outra. Homer trabalha como inspetor de segurança numa usina de energia nuclear. Marge tenta manter a paz em sua família. Bart é um travesso garoto de 10 anos. Lisa, 8, é a inteligente da família, que adora tocar saxofone e é vegetariana. E a pequena Maggie conquista todos enquanto não larga sua chupeta. E a série tem um rico, e muitas vezes estranho, universo de personagens que também habitam Springfield. Com roteiros inteligentes, humor subversivo e divertidamente genial, a série faz piadas de si mesma e de todo mundo que aparecer em seu caminho.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>PRESENÇA DE ANITA</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjs6Ga4wRE3wXyZliuWGmGzV6BN.jpg</thumbnail>
 <externallink>https://www.dropbox.com/s/9s5rc8a8ay825gf/PRESEN%C3%87ADEANITA.xml?raw=1</externallink>
