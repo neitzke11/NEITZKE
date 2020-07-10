@@ -10,6 +10,16 @@
 
 <channels>
 <channel>
+<name>ARROW</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6zknpjyE9NyBj6MCnlZJ1w58Se.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/3sxqfu0qqs0xg3f/ARROW.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/elbLQbocvW9vwrHRjYTSjXr5BX5.jpg</fanart>
+<info>Inspirada nos quadrinhos do Arqueiro Verde, esta série acompanha as aventuras do playboy que se torna super-herói e luta contra vilões armado apenas com arco e flechas.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>BLACK MIRROR</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dw7jYk7EdrkrHozG7F1Yg2eFJTm.jpg</thumbnail>
 <externallink>https://www.dropbox.com/s/t6sllx1s4mj0gie/BLACKMIRROR.xml?raw=1</externallink>
