@@ -186,3 +186,12 @@
 <fanart>https://image.tmdb.org/t/p/original/qji729gwCW88RpIIWidlaLTul3V.jpg</fanart>
 <info>Um adolescente negro do Brooklyn durante a década de 80 que frequenta uma escola onde a maioria dos alunos são brancos.</info>
 </channel>
+
+<channels>
+<channel>
+<name>VIKINGS</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oktTNFM8PzdseiK1X0E0XhB6LvP.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/080rre7gmutkjny/VIKINGS.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/aTWWfOZU2uGvFACBtJzsqsKvwea.jpg</fanart>
+<info>Ragnar Lothbrok, um jovem que se considera descendente de Odin, é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico. Mas para conseguir conquistá-las ele precisa convencer Earl Haraldson, o líder de seu povo, a permitir que ele e seus guerreiros viagem em direção à Inglaterra.</info>
+</channel>
