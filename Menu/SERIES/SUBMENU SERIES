@@ -130,6 +130,16 @@
 
 <channels>
 <channel>
+<name>OUTLANDER</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCTSO32nTmJHkEFAv3qJLhVueEa.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/imrn9u3zb7chd6o/OUTLANDER.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/Ai6HryU8R00XSgiCTeQoF75um84.jpg</fanart>
+<info>Nesse conto épico, um guerreiro e uma enfermeira vivem uma paixão avassaladora, mas 200 anos os separam.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>PRESENÇA DE ANITA</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjs6Ga4wRE3wXyZliuWGmGzV6BN.jpg</thumbnail>
 <externallink>https://www.dropbox.com/s/9s5rc8a8ay825gf/PRESEN%C3%87ADEANITA.xml?raw=1</externallink>
@@ -180,6 +190,16 @@
 
 <channels>
 <channel>
+<name>THE LAST KINGDOM</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUFIEJCSmurmXPX0mP0cEgoltrk.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/gytp03rphs5iu57/THELASTKINGDOM.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/iDDxT73ktoXVP2ed7oXdcOMsKQE.jpg</fanart>
+<info>Enquanto Alfredo, o Grande, defende seu reino de invasões nórdicas, Uhtred - um saxão criado por vikings - planeja reivindicar o que é seu por direito.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>TODO MUNDO ODEIA O CHRIS</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYfvhUtbqMGtd5iV9sj2fdEFN5p.jpg</thumbnail>
 <externallink>https://www.dropbox.com/s/wqmjn72kwyca5he/TODOMUNDOODEIAOCHRIS.xml?raw=1</externallink>
@@ -194,4 +214,13 @@
 <externallink>https://www.dropbox.com/s/080rre7gmutkjny/VIKINGS.xml?raw=1</externallink>
 <fanart>https://image.tmdb.org/t/p/original/aTWWfOZU2uGvFACBtJzsqsKvwea.jpg</fanart>
 <info>Ragnar Lothbrok, um jovem que se considera descendente de Odin, é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico. Mas para conseguir conquistá-las ele precisa convencer Earl Haraldson, o líder de seu povo, a permitir que ele e seus guerreiros viagem em direção à Inglaterra.</info>
+</channel>
+
+<channels>
+<channel>
+<name>WARRIOR NUN</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/77OM9jMJ8nglaolHLwrAW7kvadV.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/ij32j52cjwzdbmk/WARRIORNUN.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/Ai0ulJUD7magrPgMEPJMMk0ZLF1.jpg</fanart>
+<info>Uma jovem acorda no necrotério com superpoderes e descobre que faz parte de uma seita secreta de freiras caçadoras de demônios.</info>
 </channel>
