@@ -10,6 +10,16 @@
 
 <channels>
 <channel>
+<name>ALTERED CARBON</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZg2NUDPJA54AmDs1Y1ZLizBrpd.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/v8go2a4bhsauq6b/ALTEREDCARBON.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/xETbCo8l06poxFUgbtaUeKmLadz.jpg</fanart>
+<info>Após 250 anos no gelo, ele retorna em um novo corpo com uma missão: solucionar um complexo mistério e conquistar sua liberdade.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>ARROW</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6zknpjyE9NyBj6MCnlZJ1w58Se.jpg</thumbnail>
 <externallink>https://www.dropbox.com/s/3sxqfu0qqs0xg3f/ARROW.xml?raw=1</externallink>
@@ -195,6 +205,16 @@
 <externallink>https://www.dropbox.com/s/gytp03rphs5iu57/THELASTKINGDOM.xml?raw=1</externallink>
 <fanart>https://image.tmdb.org/t/p/original/iDDxT73ktoXVP2ed7oXdcOMsKQE.jpg</fanart>
 <info>Enquanto Alfredo, o Grande, defende seu reino de invasões nórdicas, Uhtred - um saxão criado por vikings - planeja reivindicar o que é seu por direito.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>THE WITCHER</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A2oBYUKgjdy0UeIP88kkdyjw8z6.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/fwjuqsb5pcqnd2h/THEWITCHER.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/s56eyXy8rADp5DpZknfe2HXq4u4.jpg</fanart>
+<info>O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar num mundo onde as pessoas muitas vezes são mais perversas que as criaturas selvagens.</info>
 </channel>
 </channels>
 
