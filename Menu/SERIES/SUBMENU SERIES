@@ -160,6 +160,16 @@
 
 <channels>
 <channel>
+<name>RAGNAROK</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/rilw6w2v3jtt63o/RAGNAROK.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/aJTLGbMMRLF53NjuJJWHpSkT0h3.jpg</fanart>
+<info>Em uma cidade norueguesa envenenada pela poluição e abalada por geleiras derretendo, o fim dos tempos parece real. Só uma lenda poderá combater um mal antigo.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>STRANGER THINGS</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3nzhHBDTrJ7RWhzozFTYFjvRbd.jpg</thumbnail>
 <externallink>https://www.dropbox.com/s/gig8cpqvvfkuf6q/STRANGERTHINGS.xml?raw=1</externallink>
