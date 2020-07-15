@@ -110,6 +110,16 @@
 
 <channels>
 <channel>
+<name>FILMES - [COLOR lawngreen]K[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://github.com/neitzke11/NEITZKE/raw/master/Menu/SERVIDORES/CLASSE%20L</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>FILMES - [COLOR lawngreen]L[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/neitzke11/NEITZKE/raw/master/Menu/SERVIDORES/CLASSE%20L</externallink>
