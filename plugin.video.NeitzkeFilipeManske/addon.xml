@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.NeitzkeCarlos1"
-       name="[COLOR yellow][B]--[/B][/COLOR] [COLOR white][B]N[/B][/COLOR][COLOR springgreen][B]EITZKE[/B][/COLOR] [COLOR yellow][B]--[/B][/COLOR] Carlos 1"
+<addon id="plugin.video.NeitzkeFilipeManske"
+       name="[COLOR yellow][B]--[/B][/COLOR] [COLOR white][B]N[/B][/COLOR][COLOR springgreen][B]EITZKE[/B][/COLOR] [COLOR yellow][B]--[/B][/COLOR] Filipe Manske"
        version="1.0"
        provider-name="Equipe Neitzke">
   <requires>
