@@ -35,35 +35,35 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 1**[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
-#EXTINF:-1 ,BABY TV
+#EXTINF:-1 ,BABY TV HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/6
-#EXTINF:-1 ,BOOMERANG
+#EXTINF:-1 ,BOOMERANG HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/13
-#EXTINF:-1 ,CARTOON NETWORK
+#EXTINF:-1 ,CARTOON NETWORK HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/17
-#EXTINF:-1 ,DISCOVERY KIDS
+#EXTINF:-1 ,DISCOVERY KIDS HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/24
-#EXTINF:-1 ,DISNEY CHANNEL
+#EXTINF:-1 ,DISNEY CHANNEL HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/29
-#EXTINF:-1 ,DISNEY JUNIOR
+#EXTINF:-1 ,DISNEY JUNIOR HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/30
-#EXTINF:-1 ,DISNEY XD
+#EXTINF:-1 ,DISNEY XD HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/31
-#EXTINF:-1 ,GLOOB
+#EXTINF:-1 ,GLOOB HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/57
-#EXTINF:-1 ,GLOOBINHO
+#EXTINF:-1 ,GLOOBINHO HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/58
-#EXTINF:-1 ,NAT GEO KIDS
+#EXTINF:-1 ,NAT GEO KIDS HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/78
-#EXTINF:-1 ,NICKELODEON
+#EXTINF:-1 ,NICKELODEON HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/80
-#EXTINF:-1 ,NICK JR
+#EXTINF:-1 ,NICK JR HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/81
-#EXTINF:-1 ,TV RÁ-TIM-BUM
+#EXTINF:-1 ,TV RÁ-TIM-BUM HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/128
-#EXTINF:-1 ,TOONCAST
+#EXTINF:-1 ,TOONCAST HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/125
-#EXTINF:-1 ,ZOOMOO
+#EXTINF:-1 ,ZOOMOO SD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/236
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR]
