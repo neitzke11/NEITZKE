@@ -2,71 +2,6 @@
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 1[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.11
-#EXTINF:-1 ,ANIMAL PLANET
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18734
-#EXTINF:-1 ,BIS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18721
-#EXTINF:-1 ,COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18705
-#EXTINF:-1 ,CURTA!
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18704
-#EXTINF:-1 ,DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18701
-#EXTINF:-1 ,DISCOVERY HOME & HEALTH
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18697
-#EXTINF:-1 ,DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18693
-#EXTINF:-1 ,DISCOVERY THEATER
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18691
-#EXTINF:-1 ,DISCOVERY TURBO
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18689
-#EXTINF:-1 ,DISCOVERY WORLD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18687
-#EXTINF:-1 ,E!
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18681
-#EXTINF:-1 ,GNT
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18645
-#EXTINF:-1 ,HISTORY CHANNEL
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18631
-#EXTINF:-1 ,H2
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18643
-#EXTINF:-1 ,INVESTIGAÇÃO DISCOVERY
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/49283
-#EXTINF:-1 ,LIFETIME
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18627
-#EXTINF:-1 ,MAIS GLOBOSAT
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18625
-#EXTINF:-1 ,MTV
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18615
-#EXTINF:-1 ,MTV LIVE
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18507
-#EXTINF:-1 ,MULTISHOW
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18613
-#EXTINF:-1 ,MUSIC BOX BRASIL
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18612
-#EXTINF:-1 ,NAT GEO WILD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18606
-#EXTINF:-1 ,NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18811
-#EXTINF:-1 ,OFF
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18598
-#EXTINF:-1 ,PLAYTV
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/22288
-#EXTINF:-1 ,TLC
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18538
-#EXTINF:-1 ,TRAVEL BOX BRAZIL
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/25217
-#EXTINF:-1 ,TRUTV
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18523
-#EXTINF:-1 ,VH1
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18518
-#EXTINF:-1 ,VH1 MEGAHITS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/22252
-#EXTINF:-1 ,VIVA
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18515
-###############################################################  ###########################################################################
-#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 1**[/B][/COLOR]  [COLOR lime]««««[/COLOR]
-https://127.0.0.11
 #EXTINF:-1 ,ANIMAL PLANET HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/3
 #EXTINF:-1 ,BIS HD
@@ -131,6 +66,69 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.11
 #EXTINF:-1 ,ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18734
+#EXTINF:-1 ,BIS HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18721
+#EXTINF:-1 ,COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18705
+#EXTINF:-1 ,CURTA! SD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18704
+#EXTINF:-1 ,DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18701
+#EXTINF:-1 ,DISCOVERY HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18697
+#EXTINF:-1 ,DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18693
+#EXTINF:-1 ,DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18691
+#EXTINF:-1 ,DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18689
+#EXTINF:-1 ,DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18687
+#EXTINF:-1 ,E! HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18681
+#EXTINF:-1 ,GNT HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18645
+#EXTINF:-1 ,HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18631
+#EXTINF:-1 ,H2 HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18643
+#EXTINF:-1 ,INVESTIGAÇÃO DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/49283
+#EXTINF:-1 ,LIFETIME HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18627
+#EXTINF:-1 ,MAIS GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18625
+#EXTINF:-1 ,MTV HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18615
+#EXTINF:-1 ,MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18613
+#EXTINF:-1 ,MUSIC BOX BRASIL SD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18612
+#EXTINF:-1 ,NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18606
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC FHD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18811
+#EXTINF:-1 ,OFF HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18598
+#EXTINF:-1 ,PLAYTV SD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/22288
+#EXTINF:-1 ,TLC HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18538
+#EXTINF:-1 ,TRAVEL BOX BRAZIL FHD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/25217
+#EXTINF:-1 ,TRUTV SD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18523
+#EXTINF:-1 ,VH1 HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18518
+#EXTINF:-1 ,VH1 MEGAHITS SD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18517
+#EXTINF:-1 ,VIVA HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18515
+###############################################################  ###########################################################################
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 3[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+https://127.0.0.11
+#EXTINF:-1 ,ANIMAL PLANET HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758308
 #EXTINF:-1 ,BIS HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758353
@@ -191,7 +189,7 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 #EXTINF:-1 ,VIVA HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758392
 ###############################################################  ###########################################################################
-#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 3[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 4[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.11
 #EXTINF:-1 ,ANIMAL PLANET
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/djalma/djalma/18734
@@ -256,7 +254,7 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 #EXTINF:-1 ,VIVA
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/djalma/djalma/18515
 ###############################################################  ###########################################################################
-#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 4[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 5[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.11
 #EXTINF:-1 ,ANIMAL PLANET
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/Vitor_Bl10-Apto22/Mp4uYT3w29T/1902

@@ -2,39 +2,6 @@
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 1[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
-#EXTINF:-1 ,BABY TV
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/49379
-#EXTINF:-1 ,BOOMERANG
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18718
-#EXTINF:-1 ,CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18711
-#EXTINF:-1 ,DISCOVERY KIDS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/22325
-#EXTINF:-1 ,DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18685
-#EXTINF:-1 ,DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18509
-#EXTINF:-1 ,DISNEY XD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/49285
-#EXTINF:-1 ,GLOOB
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18649
-#EXTINF:-1 ,GLOOBINHO
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/50815
-#EXTINF:-1 ,NAT GEO KIDS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18607
-#EXTINF:-1 ,NICKELODEON
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18600
-#EXTINF:-1 ,NICK JR
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18602
-#EXTINF:-1 ,TV RÁ-TIM-BUM
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18524
-#EXTINF:-1 ,TOONCAST
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/49376
-#EXTINF:-1 ,ZOOMOO
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/28199
-###############################################################  ###########################################################################
-#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 1**[/B][/COLOR]  [COLOR lime]««««[/COLOR]
-https://127.0.0.19
 #EXTINF:-1 ,BABY TV HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/6
 #EXTINF:-1 ,BOOMERANG HD
@@ -69,6 +36,39 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
 #EXTINF:-1 ,BABY TV HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/49379
+#EXTINF:-1 ,BOOMERANG HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18718
+#EXTINF:-1 ,CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18711
+#EXTINF:-1 ,DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/22325
+#EXTINF:-1 ,DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18685
+#EXTINF:-1 ,DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18509
+#EXTINF:-1 ,DISNEY XD HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/49285
+#EXTINF:-1 ,GLOOB HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18649
+#EXTINF:-1 ,GLOOBINHO HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/49374
+#EXTINF:-1 ,NAT GEO KIDS HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18607
+#EXTINF:-1 ,NICKELODEON HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18600
+#EXTINF:-1 ,NICK JR HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18602
+#EXTINF:-1 ,TV RÁ-TIM-BUM HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18524
+#EXTINF:-1 ,TOONCAST HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/49376
+#EXTINF:-1 ,ZOOMOO SD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/28199
+###############################################################  ###########################################################################
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 3[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+https://127.0.0.19
+#EXTINF:-1 ,BABY TV HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758035
 #EXTINF:-1 ,BOOMERANG HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758014
@@ -99,7 +99,7 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 #EXTINF:-1 ,ZOOMOO [COLOR lime][OFF][/COLOR]
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 ###############################################################  ###########################################################################
-#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 3[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 4[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
 #EXTINF:-1 ,BABY TV
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/djalma/djalma/49379
@@ -132,7 +132,7 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 #EXTINF:-1 ,ZOOMOO
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/djalma/djalma/28199
 ###############################################################  ###########################################################################
-#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 4[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 5[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
 #EXTINF:-1 ,BABY TV SD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://fsrv.me:80/Vitor_Bl10-Apto22/Mp4uYT3w29T/1897
