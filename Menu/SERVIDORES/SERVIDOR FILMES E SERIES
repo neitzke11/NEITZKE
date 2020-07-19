@@ -79,86 +79,86 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 1**[/B][/COLOR]  [COLOR lime]««««[/COLOR] 
 https://127.0.0.19
-#EXTINF:-1 ,A&E
+#EXTINF:-1 ,A&E HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/1
-#EXTINF:-1 ,AMC
+#EXTINF:-1 ,AMC HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/2
-#EXTINF:-1 ,AXN
+#EXTINF:-1 ,AXN HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/5
-#EXTINF:-1 ,CANAL BRASIL
+#EXTINF:-1 ,CANAL BRASIL HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/14
-#EXTINF:-1 ,CINEMAX
+#EXTINF:-1 ,CINEMAX HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/18
-#EXTINF:-1 ,FOX CHANNEL
+#EXTINF:-1 ,FOX CHANNEL HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/38
-#EXTINF:-1 ,FOX LIFE
+#EXTINF:-1 ,FOX LIFE HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/39
-#EXTINF:-1 ,FOX PREMIUM 1
+#EXTINF:-1 ,FOX PREMIUM 1 HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/40
-#EXTINF:-1 ,FOX PREMIUM 2
+#EXTINF:-1 ,FOX PREMIUM 2 HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/41
-#EXTINF:-1 ,FX
+#EXTINF:-1 ,FX HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/44
-#EXTINF:-1 ,HBO
+#EXTINF:-1 ,HBO HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/63
-#EXTINF:-1 ,HBO 2
+#EXTINF:-1 ,HBO 2 HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/61
-#EXTINF:-1 ,HBO FAMILY
+#EXTINF:-1 ,HBO FAMILY HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/62
 #EXTINF:-1 ,HBO MUNDI [COLOR lime][OFF][/COLOR]
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 ,HBO PLUS
+#EXTINF:-1 ,HBO PLUS FHD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/64
-#EXTINF:-1 ,HBO POP [COLOR lime][OFF][/COLOR]
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 ,HBO SIGNATURE
+#EXTINF:-1 ,HBO POP HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/73
+#EXTINF:-1 ,HBO SIGNATURE HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/65
 #EXTINF:-1 ,HBO XTREME [COLOR lime][OFF][/COLOR]
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 ,MEGAPIX
+#EXTINF:-1 ,MEGAPIX HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/74
-#EXTINF:-1 ,PARAMOUNT CHANNEL
+#EXTINF:-1 ,PARAMOUNT CHANNEL HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/86
 #EXTINF:-1 ,PRIME BOX BRAZIL SD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/264
-#EXTINF:-1 ,SONY CHANNEL
+#EXTINF:-1 ,SONY CHANNEL HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/15
-#EXTINF:-1 ,SPACE
+#EXTINF:-1 ,SPACE HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/107
-#EXTINF:-1 ,STUDIO UNIVERSAL
+#EXTINF:-1 ,STUDIO UNIVERSAL HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/111
-#EXTINF:-1 ,SYFY
+#EXTINF:-1 ,SYFY HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/112
-#EXTINF:-1 ,TBS
+#EXTINF:-1 ,TBS HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/113
-#EXTINF:-1 ,TCM
+#EXTINF:-1 ,TCM HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/114
-#EXTINF:-1 ,TELECINE ACTION
+#EXTINF:-1 ,TELECINE ACTION HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/115
-#EXTINF:-1 ,TELECINE CULT
+#EXTINF:-1 ,TELECINE CULT HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/116
-#EXTINF:-1 ,TELECINE FUN
+#EXTINF:-1 ,TELECINE FUN HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/118
-#EXTINF:-1 ,TELECINE PIPOCA
+#EXTINF:-1 ,TELECINE PIPOCA HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/119
-#EXTINF:-1 ,TELECINE PREMIUM
+#EXTINF:-1 ,TELECINE PREMIUM HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/120
-#EXTINF:-1 ,TELECINE TOUCH
+#EXTINF:-1 ,TELECINE TOUCH HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/121
-#EXTINF:-1 ,TNT
+#EXTINF:-1 ,TNT HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/123
-#EXTINF:-1 ,TNT SERIES
+#EXTINF:-1 ,TNT SERIES HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/124
-#EXTINF:-1 ,UNIVERSAL TV
+#EXTINF:-1 ,UNIVERSAL TV HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/130
-#EXTINF:-1 ,WARNER TV
+#EXTINF:-1 ,WARNER TV HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/133
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR] 
 https://127.0.0.19
 #EXTINF:-1 ,A&E HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758350
-#EXTINF:-1 ,AMC OFF
+#EXTINF:-1 ,AMC [COLOR lime][OFF][/COLOR]
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,AXN HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758092
