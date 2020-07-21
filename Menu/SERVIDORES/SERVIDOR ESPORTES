@@ -96,6 +96,10 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758230
 #EXTINF:-1 ,ESPN EXTRA HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758233
+#EXTINF:-1 ,ESPORTE INTERATIVO HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758237
+#EXTINF:-1 ,ESPORTE INTERATIVO SD2
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758239
 #EXTINF:-1 ,DAZN
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758271
 #EXTINF:-1 ,FOX SPORTS HD
