@@ -140,6 +140,16 @@
 
 <channels>
 <channel>
+<name>LÚCIFER</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkGnVBSNpayJ1oCfyVaMvhrim95.jpg</thumbnail>
+<externallink>https://www.dropbox.com/s/phvb17jeisrgj2b/LUCIFER.xml?raw=1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/cA0PlTcuvKZpRwQQZqCPQ6Cwj1w.jpg</fanart>
+<info>Entediado com a vida nas trevas, o diabo se muda para Los Angeles, abre um piano-bar e empresta sua sabedoria a uma investigadora de assassinatos.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>NARCOS</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MnmkR5KTrFYyBDTGHAlCROzXOZ.jpg</thumbnail>
 <externallink>https://www.dropbox.com/s/zv6wtvj5eemzlz0/NARCOS.xml?raw=1</externallink>
