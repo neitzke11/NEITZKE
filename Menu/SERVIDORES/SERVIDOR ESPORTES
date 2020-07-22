@@ -3,43 +3,47 @@
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 1[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.11
 #EXTINF:-1 ,BANDSPORTS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/11
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/221
 #EXTINF:-1 ,COMBATE HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/19
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/201
 #EXTINF:-1 ,ESPN HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/36
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/167
 #EXTINF:-1 ,ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/33
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/171
 #EXTINF:-1 ,ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/34
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/169
 #EXTINF:-1 ,ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/35
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/165
 #EXTINF:-1 ,DAZN [COLOR lime][OFF][/COLOR]
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1, EI PLUS [COLOR lime][OFF][/COLOR]
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 ,ESPORTE INTERATIVO [COLOR lime][OFF][/COLOR]
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,FOX SPORTS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/43
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/147
 #EXTINF:-1 ,FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/42
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/529
 #EXTINF:-1 ,PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/94
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/86
 #EXTINF:-1 ,PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/88
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/84
 #EXTINF:-1 ,PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/89
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/82
 #EXTINF:-1 ,PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/87
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/80
 #EXTINF:-1 ,PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/90
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/78
 #EXTINF:-1 ,PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/91
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/76
 #EXTINF:-1 ,PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/92
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/74
 #EXTINF:-1 ,SPORTV HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/110
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/49
 #EXTINF:-1 ,SPORTV 2 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/108
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/47
 #EXTINF:-1 ,SPORTV 3 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/109
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/45
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.11
@@ -57,6 +61,10 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18674
 #EXTINF:-1 ,DAZN
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/26195
+#EXTINF:-1, EI PLUS HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/22978
+#EXTINF:-1 ,ESPORTE INTERATIVO [COLOR lime][OFF][/COLOR]
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,FOX SPORTS HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18659
 #EXTINF:-1 ,FOX SPORTS 2 HD
@@ -96,12 +104,12 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758230
 #EXTINF:-1 ,ESPN EXTRA HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758233
-#EXTINF:-1 ,ESPORTE INTERATIVO HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758237
-#EXTINF:-1 ,ESPORTE INTERATIVO SD2
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758239
 #EXTINF:-1 ,DAZN
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758271
+#EXTINF:-1 ,EI PLUS SD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758239
+#EXTINF:-1 ,ESPORTE INTERATIVO HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758237
 #EXTINF:-1 ,FOX SPORTS HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758245
 #EXTINF:-1 ,FOX SPORTS 2 HD

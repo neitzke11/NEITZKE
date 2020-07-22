@@ -3,79 +3,79 @@
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 1[/B][/COLOR]  [COLOR lime]««««[/COLOR] 
 https://127.0.0.19
 #EXTINF:-1 ,A&E HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/1
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/236
 #EXTINF:-1 ,AMC HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/2
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/512
 #EXTINF:-1 ,AXN HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/5
-#EXTINF:-1 ,CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/14
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/535
+#EXTINF:-1 ,CANAL BRASIL [COLOR lime][OFF][/COLOR]
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,CINEMAX HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/18
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/203
 #EXTINF:-1 ,FOX CHANNEL HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/38
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/157
 #EXTINF:-1 ,FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/39
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/156
 #EXTINF:-1 ,FOX PREMIUM 1 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/40
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/528
 #EXTINF:-1 ,FOX PREMIUM 2 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/41
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/526
 #EXTINF:-1 ,FX HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/44
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/145
 #EXTINF:-1 ,HBO HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/63
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/131
 #EXTINF:-1 ,HBO 2 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/61
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/135
 #EXTINF:-1 ,HBO FAMILY HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/62
-#EXTINF:-1 ,HBO MUNDI [COLOR lime][OFF][/COLOR]
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 ,HBO PLUS FHD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/64
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/133
+#EXTINF:-1 ,HBO MUNDI HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/521
+#EXTINF:-1 ,HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/128
 #EXTINF:-1 ,HBO POP HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/73
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/111
 #EXTINF:-1 ,HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/65
-#EXTINF:-1 ,HBO XTREME [COLOR lime][OFF][/COLOR]
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/531
+#EXTINF:-1 ,HBO XTREME HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/520
 #EXTINF:-1 ,MEGAPIX HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/74
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/109
 #EXTINF:-1 ,PARAMOUNT CHANNEL HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/86
-#EXTINF:-1 ,PRIME BOX BRAZIL SD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/264
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/91
+#EXTINF:-1 ,PRIME BOX BRAZIL [COLOR lime][OFF][/COLOR]
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,SONY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/15
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/53
 #EXTINF:-1 ,SPACE HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/107
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/51
 #EXTINF:-1 ,STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/111
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/43
 #EXTINF:-1 ,SYFY HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/112
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/41
 #EXTINF:-1 ,TBS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/113
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/39
 #EXTINF:-1 ,TCM HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/114
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/37
 #EXTINF:-1 ,TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/115
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/35
 #EXTINF:-1 ,TELECINE CULT HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/116
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/33
 #EXTINF:-1 ,TELECINE FUN HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/118
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/31
 #EXTINF:-1 ,TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/119
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/29
 #EXTINF:-1 ,TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/120
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/27
 #EXTINF:-1 ,TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/121
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/25
 #EXTINF:-1 ,TNT HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/123
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/21
 #EXTINF:-1 ,TNT SERIES HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/124
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/517
 #EXTINF:-1 ,UNIVERSAL TV HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/130
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/12
 #EXTINF:-1 ,WARNER TV HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/133
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/4
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR] 
 https://127.0.0.19

@@ -3,35 +3,35 @@
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 1[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
 #EXTINF:-1 ,BABY TV HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/6
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/226
 #EXTINF:-1 ,BOOMERANG HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/13
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/217
 #EXTINF:-1 ,CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/17
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/524
 #EXTINF:-1 ,DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/24
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/189
 #EXTINF:-1 ,DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/29
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/179
 #EXTINF:-1 ,DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/30
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/177
 #EXTINF:-1 ,DISNEY XD HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/31
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/175
 #EXTINF:-1 ,GLOOB HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/57
-#EXTINF:-1 ,GLOOBINHO HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/58
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/530
+#EXTINF:-1 ,GLOOBINHO [COLOR lime][OFF][/COLOR]
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,NAT GEO KIDS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/78
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/518
 #EXTINF:-1 ,NICKELODEON HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/80
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/95
 #EXTINF:-1 ,NICK JR HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/81
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/93
 #EXTINF:-1 ,TV RÁ-TIM-BUM HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/128
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/70
 #EXTINF:-1 ,TOONCAST HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/125
-#EXTINF:-1 ,ZOOMOO SD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cms.eneron-tv.com:2082/samir/tvsamir012s552d4/236
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/17
+#EXTINF:-1 ,ZOOMOO HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/2
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
