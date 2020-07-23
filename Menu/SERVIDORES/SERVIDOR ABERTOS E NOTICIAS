@@ -2,26 +2,26 @@
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 1[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
-#EXTINF:-1 ,BAND SP HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://srv.maxptv.net:8080/jessica01/jessica01/130
+#EXTINF:-1 ,BAND HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758323
 #EXTINF:-1 ,BANDNEWS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://srv.maxptv.net:8080/jessica01/jessica01/224
-#EXTINF:-1 ,CNN BRASIL SD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://srv.maxptv.net:8080/jessica01/jessica01/8890
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758074
+#EXTINF:-1 ,CNN BRASIL HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/772909
 #EXTINF:-1 ,GLOBONEWS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://srv.maxptv.net:8080/jessica01/jessica01/143
-#EXTINF:-1 ,GLOBO SP HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://srv.maxptv.net:8080/jessica01/jessica01/72
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758071
+#EXTINF:-1 ,GLOBO RBS TV PORTO ALEGRE HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/757962
 #EXTINF:-1 ,RECORDNEWS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://srv.maxptv.net:8080/jessica01/jessica01/67
-#EXTINF:-1 ,RECORDTV HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://srv.maxptv.net:8080/jessica01/jessica01/65
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758086
+#EXTINF:-1 ,RECORDTV SP HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758329
 #EXTINF:-1 ,REDETV! HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://srv.maxptv.net:8080/jessica01/jessica01/61
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758344
 #EXTINF:-1 ,SBT HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://srv.maxptv.net:8080/jessica01/jessica01/59
-#EXTINF:-1 ,TV CULTURA HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://srv.maxptv.net:8080/jessica01/jessica01/197
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758347
+#EXTINF:-1 ,TV CULTURA [COLOR lime][OFF][/COLOR]
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
