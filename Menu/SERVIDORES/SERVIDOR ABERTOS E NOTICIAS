@@ -3,9 +3,9 @@
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 1[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
 #EXTINF:-1 ,BAND SP HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/130
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/130|User-Agent=VLC/3.0.11 LibVLC/3.0.11
 #EXTINF:-1 ,BANDNEWS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/224
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/224|User-Agent=VLC/3.0.11 LibVLC/3.0.11
 #EXTINF:-1 ,CNN BRASIL SD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/jessica01/jessica01/8890
 #EXTINF:-1 ,GLOBONEWS HD
