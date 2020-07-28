@@ -17,7 +17,7 @@
 
 <addon id="plugin.video.Neitzke"
        name="[COLOR yellow][B]--[/B][/COLOR] [COLOR white][B]N[/B][/COLOR][COLOR springgreen][B]EITZKE[/B][/COLOR] [COLOR yellow][B]--[/B][/COLOR]"
-       version="0.5"
+       version="1.1"
        provider-name="Equipe Neitzke">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -75,7 +75,7 @@
 
 <addon id="plugin.video.NeitzkeCarolineBasilio"
        name="[COLOR yellow][B]--[/B][/COLOR] [COLOR white][B]N[/B][/COLOR][COLOR springgreen][B]EITZKE[/B][/COLOR] [COLOR yellow][B]--[/B][/COLOR] Caroline Basilio"
-       version="1.0"
+       version="1.1"
        provider-name="Equipe Neitzke">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -104,7 +104,7 @@
 
 <addon id="plugin.video.NeitzkeFilipeManske"
        name="[COLOR yellow][B]--[/B][/COLOR] [COLOR white][B]N[/B][/COLOR][COLOR springgreen][B]EITZKE[/B][/COLOR] [COLOR yellow][B]--[/B][/COLOR] Filipe Manske"
-       version="1.0"
+       version="1.1"
        provider-name="Equipe Neitzke">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -133,7 +133,7 @@
 
 <addon id="plugin.video.NeitzkeMarieJosi"
        name="[COLOR yellow][B]--[/B][/COLOR] [COLOR white][B]N[/B][/COLOR][COLOR springgreen][B]EITZKE[/B][/COLOR] [COLOR yellow][B]--[/B][/COLOR] Mari Josi"
-       version="1.0"
+       version="1.1"
        provider-name="Equipe Neitzke">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
