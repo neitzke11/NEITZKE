@@ -1,116 +1,109 @@
-#EXTM3U
-###############################################################  ###########################################################################
-#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 1[/B][/COLOR]  [COLOR lime]««««[/COLOR]
-https://127.0.0.19
-#EXTINF:-1 ,BAND HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758323
-#EXTINF:-1 ,BANDNEWS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758074
-#EXTINF:-1 ,CNN BRASIL HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/772909
-#EXTINF:-1 ,CULTURA [COLOR lime][OFF][/COLOR]
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 ,GLOBONEWS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758071
-#EXTINF:-1 ,GLOBO RBS TV PORTO ALEGRE HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/757962
-#EXTINF:-1 ,RECORDNEWS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758086
-#EXTINF:-1 ,RECORDTV SP HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758329
-#EXTINF:-1 ,REDETV! HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758344
-#EXTINF:-1 ,SBT HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/junior1234/junior1234/758347
-###############################################################  ###########################################################################
-#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR]
-https://127.0.0.19
-#EXTINF:-1 ,BAND RJ HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/52351
-#EXTINF:-1 ,BANDNEWS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18725
-#EXTINF:-1 ,CNN BRASIL HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/47358
-#EXTINF:-1 ,CULTURA HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18505
-#EXTINF:-1 ,GLOBONEWS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18651
-#EXTINF:-1 ,GLOBO RBS TV PORTO ALEGRE HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18419
-#EXTINF:-1 ,RECORDNEWS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18577
-#EXTINF:-1 ,RECORDTV SP HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18575
-#EXTINF:-1 ,REDETV! HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18572
-#EXTINF:-1 ,SBT SP HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/49620
-###############################################################  ###########################################################################
-#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 3[/B][/COLOR]  [COLOR lime]««««[/COLOR]
-https://127.0.0.19
-#EXTINF:-1 ,BAND HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758323
-#EXTINF:-1 ,BANDNEWS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758074
-#EXTINF:-1 ,CNN BRASIL HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/772909
-#EXTINF:-1 ,CULTURA [COLOR lime][OFF][/COLOR]
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 ,GLOBONEWS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758071
-#EXTINF:-1 ,GLOBO RBS TV PORTO ALEGRE HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/757962
-#EXTINF:-1 ,RECORDNEWS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758086
-#EXTINF:-1 ,RECORDTV SP HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758329
-#EXTINF:-1 ,REDETV! HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758344
-#EXTINF:-1 ,SBT HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758347
-###############################################################  ###########################################################################
-#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 4[/B][/COLOR]  [COLOR lime]««««[/COLOR]
-https://127.0.0.19
-#EXTINF:-1 ,BAND HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/68729
-#EXTINF:-1 ,BANDNEWS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69071
-#EXTINF:-1 ,CNN BRASIL HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/72752
-#EXTINF:-1 ,CULTURA [COLOR lime][OFF][/COLOR]
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 ,GLOBONEWS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69081
-#EXTINF:-1 ,GLOBO RBS TV PORTO ALEGRE HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/68948
-#EXTINF:-1 ,RECORDNEWS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69084
-#EXTINF:-1 ,RECORDTV RS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/71817
-#EXTINF:-1 ,REDETV! HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/68762
-#EXTINF:-1 ,SBT HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/68766
-###############################################################  ###########################################################################
-#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 5[/B][/COLOR]  [COLOR lime]««««[/COLOR]
-https://127.0.0.19
-#EXTINF:-1 ,BAND SP HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/205980
-#EXTINF:-1 ,BANDNEWS FHD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145234
-#EXTINF:-1 ,CNN BRASIL HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145229
-#EXTINF:-1 ,CULTURA SD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145531
-#EXTINF:-1 ,GLOBONEWS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145149
-#EXTINF:-1 ,GLOBO RBS TV PORTO ALEGRE FHD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/206033
-#EXTINF:-1 ,RECORDNEWS SD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145497
-#EXTINF:-1 ,RECORDTV SP FHD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/206081
-#EXTINF:-1 ,REDETV! HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145183
-#EXTINF:-1 ,SBT FHD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/206085
+<item>
+<title>BAND</title>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/junior1234/junior1234/758324&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 1$$lsname=SERVIDOR 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/78167984453/snakeplay/18727&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 2$$lsname=SERVIDOR 2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/miguelito/miguelito/758324&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 3$$lsname=SERVIDOR 3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://eyplay.io:80/CLAYTON/123456/18&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 4$$lsname=SERVIDOR 4</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/260120/260120/18727&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 5$$lsname=SERVIDOR 5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BANDNEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/junior1234/junior1234/758074&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 1$$lsname=SERVIDOR 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/78167984453/snakeplay/18725&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 2$$lsname=SERVIDOR 2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/miguelito/miguelito/758074&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 3$$lsname=SERVIDOR 3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://eyplay.io:80/CLAYTON/123456/21&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 4$$lsname=SERVIDOR 4</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/260120/260120/18725&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 5$$lsname=SERVIDOR 5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CNN BRASIL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/junior1234/junior1234/772909&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 1$$lsname=SERVIDOR 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/78167984453/snakeplay/47358&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 2$$lsname=SERVIDOR 2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/miguelito/miguelito/772909&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 3$$lsname=SERVIDOR 3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://eyplay.io:80/CLAYTON/123456/14075&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 4$$lsname=SERVIDOR 4</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/260120/260120/47358&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 5$$lsname=SERVIDOR 5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CULTURA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/junior1234/junior1234/758389&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 1$$lsname=SERVIDOR 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/78167984453/snakeplay/18505&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 2$$lsname=SERVIDOR 2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/miguelito/miguelito/758389&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 3$$lsname=SERVIDOR 3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://eyplay.io:80/CLAYTON/123456/31474&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 4$$lsname=SERVIDOR 4</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/260120/260120/18505&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 5$$lsname=SERVIDOR 5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>GLOBO RBS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/junior1234/junior1234/757962&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 1$$lsname=SERVIDOR 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/78167984453/snakeplay/52420&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 2$$lsname=SERVIDOR 2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/miguelito/miguelito/757962&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 3$$lsname=SERVIDOR 3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://eyplay.io:80/CLAYTON/123456/214&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 4$$lsname=SERVIDOR 4</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/260120/260120/52420&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 5$$lsname=SERVIDOR 5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>GLOBO SP</title>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/junior1234/junior1234/837047&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 1$$lsname=SERVIDOR 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/78167984453/snakeplay/18410&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 2$$lsname=SERVIDOR 2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/miguelito/miguelito/837047&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 3$$lsname=SERVIDOR 3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://eyplay.io:80/CLAYTON/123456/223&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 4$$lsname=SERVIDOR 4</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/260120/260120/18410&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 5$$lsname=SERVIDOR 5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>GLOBONEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/junior1234/junior1234/758071&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 1$$lsname=SERVIDOR 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/78167984453/snakeplay/18651&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 2$$lsname=SERVIDOR 2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/miguelito/miguelito/758071&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 3$$lsname=SERVIDOR 3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://eyplay.io:80/CLAYTON/123456/203&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 4$$lsname=SERVIDOR 4</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/260120/260120/18651&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 5$$lsname=SERVIDOR 5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>RECORDNEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/junior1234/junior1234/758086&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 1$$lsname=SERVIDOR 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/78167984453/snakeplay/18577&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 2$$lsname=SERVIDOR 2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/miguelito/miguelito/758086&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 3$$lsname=SERVIDOR 3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://eyplay.io:80/CLAYTON/123456/365&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 4$$lsname=SERVIDOR 4</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/260120/260120/18577&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 5$$lsname=SERVIDOR 5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>RECORDTV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/junior1234/junior1234/758329&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 1$$lsname=SERVIDOR 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/78167984453/snakeplay/18575&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 2$$lsname=SERVIDOR 2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/miguelito/miguelito/758329&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 3$$lsname=SERVIDOR 3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://eyplay.io:80/CLAYTON/123456/372&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 4$$lsname=SERVIDOR 4</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/260120/260120/18575&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 5$$lsname=SERVIDOR 5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>REDETV!</title>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/junior1234/junior1234/758344&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 1$$lsname=SERVIDOR 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/78167984453/snakeplay/18572&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 2$$lsname=SERVIDOR 2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/miguelito/miguelito/758344&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 3$$lsname=SERVIDOR 3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://eyplay.io:80/CLAYTON/123456/380&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 4$$lsname=SERVIDOR 4</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/260120/260120/18572&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 5$$lsname=SERVIDOR 5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SBT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/junior1234/junior1234/758347&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 1$$lsname=SERVIDOR 1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/78167984453/snakeplay/49620&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 2$$lsname=SERVIDOR 2</link>
+<link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/miguelito/miguelito/758347&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 3$$lsname=SERVIDOR 3</link>
+<link>plugin://plugin.video.f4mTester/?url=http://eyplay.io:80/CLAYTON/123456/383&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 4$$lsname=SERVIDOR 4</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/260120/260120/49620&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 5$$lsname=SERVIDOR 5</link>
+<thumbnail></thumbnail>
+</item>
