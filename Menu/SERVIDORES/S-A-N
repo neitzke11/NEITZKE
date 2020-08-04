@@ -4,7 +4,7 @@
 <link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/78167984453/snakeplay/18727;streamtype=TSDOWNLOADER&amp;name=NPLAY 2$$lsname=SERVIDOR 2</link>
 <link>plugin://plugin.video.f4mTester/?url=http://vipeiptv.com:25461/miguelito/miguelito/758324;streamtype=TSDOWNLOADER&amp;name=NPLAY 3$$lsname=SERVIDOR 3</link>
 <link>plugin://plugin.video.f4mTester/?url=http://eyplay.io:80/CLAYTON/123456/18&amp;streamtype=TSDOWNLOADER&name=NPLAY 4$$lsname=SERVIDOR 4</link>
-<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/260120/260120/18727&amp;streamtype=TSDOWNLOADER&amp;name=NPLAY 5$$lsname=SERVIDOR 5</link>
+<link>plugin://plugin.video.f4mTester/?url=http://psrv.io:80/260120/260120/18727;streamtype=TSDOWNLOADER&amp;name=NPLAY 5$$lsname=SERVIDOR 5</link>
 <thumbnail></thumbnail>
 </item>
 
