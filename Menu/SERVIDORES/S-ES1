@@ -6,6 +6,8 @@ https://127.0.0.11
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758260
 #EXTINF:-1 ,COMBATE HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758224
+#EXTINF:-1 ,DAZN
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758271
 #EXTINF:-1 ,ESPN HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758235
 #EXTINF:-1 ,ESPN 2 HD
@@ -14,10 +16,6 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758230
 #EXTINF:-1 ,ESPN EXTRA HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758233
-#EXTINF:-1 ,DAZN
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758271
-#EXTINF:-1 ,EI PLUS SD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758239
 #EXTINF:-1 ,ESPORTE INTERATIVO HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758240
 #EXTINF:-1 ,FOX SPORTS HD
@@ -51,6 +49,8 @@ https://127.0.0.11
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18723
 #EXTINF:-1 ,COMBATE HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18707
+#EXTINF:-1 ,DAZN (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,ESPN HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18673
 #EXTINF:-1 ,ESPN 2 HD
@@ -59,11 +59,7 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18676
 #EXTINF:-1 ,ESPN EXTRA HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18674
-#EXTINF:-1 ,DAZN
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/26195
-#EXTINF:-1, EI PLUS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/22978
-#EXTINF:-1 ,ESPORTE INTERATIVO [COLOR lime][OFF][/COLOR]
+#EXTINF:-1 ,ESPORTE INTERATIVO (OFF)
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,FOX SPORTS HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18659
@@ -86,16 +82,61 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 #EXTINF:-1 ,SPORTV HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18558
 #EXTINF:-1 ,SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18763
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18761
 #EXTINF:-1 ,SPORTV 3 HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18559
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 3[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.11
 #EXTINF:-1 ,BANDSPORTS HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/24
+#EXTINF:-1 ,COMBATE HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/77
+#EXTINF:-1 ,DAZN
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/93
+#EXTINF:-1 ,ESPN HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/153
+#EXTINF:-1 ,ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/145
+#EXTINF:-1 ,ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/148
+#EXTINF:-1 ,ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/150
+#EXTINF:-1 ,ESPORTE INTERATIVO (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 ,FOX SPORTS HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/180
+#EXTINF:-1 ,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/177
+#EXTINF:-1 ,PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/358
+#EXTINF:-1 ,PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/340
+#EXTINF:-1 ,PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/343
+#EXTINF:-1 ,PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/346
+#EXTINF:-1 ,PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/349
+#EXTINF:-1 ,PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/352
+#EXTINF:-1 ,PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/355
+#EXTINF:-1 ,SPORTV HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/399
+#EXTINF:-1 ,SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/393
+#EXTINF:-1 ,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/396
+###############################################################  ###########################################################################
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 4[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+https://127.0.0.11
+#EXTINF:-1 ,BANDSPORTS HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758260
 #EXTINF:-1 ,COMBATE HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758224
+#EXTINF:-1 ,DAZN
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758271
 #EXTINF:-1 ,ESPN HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758235
 #EXTINF:-1 ,ESPN 2 HD
@@ -104,10 +145,6 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758230
 #EXTINF:-1 ,ESPN EXTRA HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758233
-#EXTINF:-1 ,DAZN
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758271
-#EXTINF:-1 ,EI PLUS SD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758239
 #EXTINF:-1 ,ESPORTE INTERATIVO HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758240
 #EXTINF:-1 ,FOX SPORTS HD
@@ -135,92 +172,45 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 #EXTINF:-1 ,SPORTV 3 HD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758254
 ###############################################################  ###########################################################################
-#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 4[/B][/COLOR]  [COLOR lime]««««[/COLOR]
-https://127.0.0.11
-#EXTINF:-1 ,BANDSPORTS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69109
-#EXTINF:-1 ,COMBATE HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69113
-#EXTINF:-1 ,ESPN HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69124
-#EXTINF:-1 ,ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69116
-#EXTINF:-1 ,ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69119
-#EXTINF:-1 ,ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69121
-#EXTINF:-1 ,DAZN [COLOR lime][OFF][/COLOR]
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 ,EI PLUS [COLOR lime][OFF][/COLOR]
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 ,ESPORTE INTERATIVO [COLOR lime][OFF][/COLOR]
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 ,FOX SPORTS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69126
-#EXTINF:-1 ,FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69128
-#EXTINF:-1 ,PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69106
-#EXTINF:-1 ,PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69087
-#EXTINF:-1 ,PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69090
-#EXTINF:-1 ,PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69093
-#EXTINF:-1 ,PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69096
-#EXTINF:-1 ,PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69099
-#EXTINF:-1 ,PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69102
-#EXTINF:-1 ,SPORTV HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69145
-#EXTINF:-1 ,SPORTV 2 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69139
-#EXTINF:-1 ,SPORTV 3 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://node7.homelinux.com:80/arnaldo/123456/69142
-###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 5[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.11
 #EXTINF:-1 ,BANDSPORTS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145119
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18723
 #EXTINF:-1 ,COMBATE HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145124
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18707
+#EXTINF:-1 ,DAZN (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,ESPN HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145139
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18673
 #EXTINF:-1 ,ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145137
-#EXTINF:-1 ,ESPN BRASIL FHD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/205454
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18678
+#EXTINF:-1 ,ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18676
 #EXTINF:-1 ,ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145140
-#EXTINF:-1 ,DAZN [COLOR lime][OFF][/COLOR]
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 ,EI PLUS [COLOR lime][OFF][/COLOR]
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 ,ESPORTE INTERATIVO [COLOR lime][OFF][/COLOR]
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18674
+#EXTINF:-1 ,ESPORTE INTERATIVO (OFF)
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,FOX SPORTS HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145147
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18659
 #EXTINF:-1 ,FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145146
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18657
 #EXTINF:-1 ,PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145181
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18582
 #EXTINF:-1 ,PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145175
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18594
 #EXTINF:-1 ,PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145176
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18592
 #EXTINF:-1 ,PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145177
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18590
 #EXTINF:-1 ,PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145178
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18588
 #EXTINF:-1 ,PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145179
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18586
 #EXTINF:-1 ,PREMIERE 7 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145180
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18584
 #EXTINF:-1 ,SPORTV HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145187
-#EXTINF:-1 ,SPORTV 2 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145185
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18558
+#EXTINF:-1 ,SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18761
 #EXTINF:-1 ,SPORTV 3 HD
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://cdnbr.site:2082/Afonso/afonso1/145186
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18559
