@@ -2,135 +2,135 @@
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 1[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.11
-#EXTINF:-1 ,ANIMAL PLANET HD
+#EXTINF:-1 ,ANIMAL PLANET
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758308
-#EXTINF:-1 ,DISCOVERY CHANNEL HD
+#EXTINF:-1 ,DISCOVERY CHANNEL
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758284
-#EXTINF:-1 ,DISCOVERY HOME & HEALTH HD
+#EXTINF:-1 ,DISCOVERY HOME & HEALTH
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758287
-#EXTINF:-1 ,DISCOVERY SCIENCE HD
+#EXTINF:-1 ,DISCOVERY SCIENCE
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758293
-#EXTINF:-1 ,DISCOVERY THEATER HD
+#EXTINF:-1 ,DISCOVERY THEATER
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758296
-#EXTINF:-1 ,DISCOVERY TURBO HD
+#EXTINF:-1 ,DISCOVERY TURBO
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758299
-#EXTINF:-1 ,DISCOVERY WORLD HD
+#EXTINF:-1 ,DISCOVERY WORLD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758302
-#EXTINF:-1 ,HGTV FHD
+#EXTINF:-1 ,HGTV
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758405
-#EXTINF:-1 ,HISTORY CHANNEL HD
+#EXTINF:-1 ,HISTORY CHANNEL
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758317
-#EXTINF:-1 ,HISTORY 2 HD
+#EXTINF:-1 ,HISTORY 2
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758320
-#EXTINF:-1 ,NAT GEO WILD HD
+#EXTINF:-1 ,NAT GEO WILD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758314
-#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/sami123/sami123/758311
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.11
-#EXTINF:-1 ,ANIMAL PLANET HD
+#EXTINF:-1 ,ANIMAL PLANET
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18734
-#EXTINF:-1 ,DISCOVERY CHANNEL HD
+#EXTINF:-1 ,DISCOVERY CHANNEL
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18701
-#EXTINF:-1 ,DISCOVERY HOME & HEALTH HD
+#EXTINF:-1 ,DISCOVERY HOME & HEALTH
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18697
-#EXTINF:-1 ,DISCOVERY SCIENCE HD
+#EXTINF:-1 ,DISCOVERY SCIENCE
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18693
-#EXTINF:-1 ,DISCOVERY THEATER HD
+#EXTINF:-1 ,DISCOVERY THEATER
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18691
-#EXTINF:-1 ,DISCOVERY TURBO HD
+#EXTINF:-1 ,DISCOVERY TURBO
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18689
-#EXTINF:-1 ,DISCOVERY WORLD HD
+#EXTINF:-1 ,DISCOVERY WORLD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18687
-#EXTINF:-1 ,HGTV HD
+#EXTINF:-1 ,HGTV
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18699
-#EXTINF:-1 ,HISTORY CHANNEL HD
+#EXTINF:-1 ,HISTORY CHANNEL
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18631
-#EXTINF:-1 ,HISTORY 2 HD
+#EXTINF:-1 ,HISTORY 2
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18643
-#EXTINF:-1 ,NAT GEO WILD HD
+#EXTINF:-1 ,NAT GEO WILD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18606
-#EXTINF:-1 ,NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18811
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 3[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.11
-#EXTINF:-1 ,ANIMAL PLANET HD
+#EXTINF:-1 ,ANIMAL PLANET
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/6
-#EXTINF:-1 ,DISCOVERY CHANNEL HD
+#EXTINF:-1 ,DISCOVERY CHANNEL
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/96
-#EXTINF:-1 ,DISCOVERY HOME & HEALTH HD
+#EXTINF:-1 ,DISCOVERY HOME & HEALTH
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/102
-#EXTINF:-1 ,DISCOVERY SCIENCE HD
+#EXTINF:-1 ,DISCOVERY SCIENCE
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/108
-#EXTINF:-1 ,DISCOVERY THEATER HD
+#EXTINF:-1 ,DISCOVERY THEATER
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/111
-#EXTINF:-1 ,DISCOVERY TURBO HD
+#EXTINF:-1 ,DISCOVERY TURBO
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/114
-#EXTINF:-1 ,DISCOVERY WORLD HD
+#EXTINF:-1 ,DISCOVERY WORLD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/117
-#EXTINF:-1 ,HGTV FHD
+#EXTINF:-1 ,HGTV
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/99
-#EXTINF:-1 ,HISTORY CHANNEL HD
+#EXTINF:-1 ,HISTORY CHANNEL
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/289
-#EXTINF:-1 ,HISTORY 2 HD
+#EXTINF:-1 ,HISTORY 2
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/262
 #EXTINF:-1 ,NAT GEO WILD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/322
-#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/CLAYTON/123456/316
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 4[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.11
-#EXTINF:-1 ,ANIMAL PLANET HD
+#EXTINF:-1 ,ANIMAL PLANET
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758308
-#EXTINF:-1 ,DISCOVERY CHANNEL HD
+#EXTINF:-1 ,DISCOVERY CHANNEL
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758284
-#EXTINF:-1 ,DISCOVERY HOME & HEALTH HD
+#EXTINF:-1 ,DISCOVERY HOME & HEALTH
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758287
-#EXTINF:-1 ,DISCOVERY SCIENCE HD
+#EXTINF:-1 ,DISCOVERY SCIENCE
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758293
-#EXTINF:-1 ,DISCOVERY THEATER HD
+#EXTINF:-1 ,DISCOVERY THEATER
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758296
-#EXTINF:-1 ,DISCOVERY TURBO HD
+#EXTINF:-1 ,DISCOVERY TURBO
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758299
-#EXTINF:-1 ,DISCOVERY WORLD HD
+#EXTINF:-1 ,DISCOVERY WORLD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758302
-#EXTINF:-1 ,HGTV FHD
+#EXTINF:-1 ,HGTV
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758405
-#EXTINF:-1 ,HISTORY CHANNEL HD
+#EXTINF:-1 ,HISTORY CHANNEL
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758317
-#EXTINF:-1 ,HISTORY 2 HD
+#EXTINF:-1 ,HISTORY 2
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758320
-#EXTINF:-1 ,NAT GEO WILD HD
+#EXTINF:-1 ,NAT GEO WILD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758314
-#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/758311
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 5[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.11
-#EXTINF:-1 ,ANIMAL PLANET HD
+#EXTINF:-1 ,ANIMAL PLANET
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18734
-#EXTINF:-1 ,DISCOVERY CHANNEL HD
+#EXTINF:-1 ,DISCOVERY CHANNEL
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18701
-#EXTINF:-1 ,DISCOVERY HOME & HEALTH HD
+#EXTINF:-1 ,DISCOVERY HOME & HEALTH
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18697
-#EXTINF:-1 ,DISCOVERY SCIENCE HD
+#EXTINF:-1 ,DISCOVERY SCIENCE
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18693
-#EXTINF:-1 ,DISCOVERY THEATER HD
+#EXTINF:-1 ,DISCOVERY THEATER
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18691
-#EXTINF:-1 ,DISCOVERY TURBO HD
+#EXTINF:-1 ,DISCOVERY TURBO
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18689
-#EXTINF:-1 ,DISCOVERY WORLD HD
+#EXTINF:-1 ,DISCOVERY WORLD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18687
-#EXTINF:-1 ,HGTV HD
+#EXTINF:-1 ,HGTV
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18699
-#EXTINF:-1 ,HISTORY CHANNEL HD
+#EXTINF:-1 ,HISTORY CHANNEL
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18631
-#EXTINF:-1 ,HISTORY 2 HD
+#EXTINF:-1 ,HISTORY 2
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18643
-#EXTINF:-1 ,NAT GEO WILD HD
+#EXTINF:-1 ,NAT GEO WILD
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18606
-#EXTINF:-1 ,NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18811
