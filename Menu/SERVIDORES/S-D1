@@ -134,3 +134,30 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18606
 #EXTINF:-1 ,NATIONAL GEOGRAPHIC
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18811
+###############################################################  ###########################################################################
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 6[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+https://127.0.0.11
+#EXTINF:-1 ,ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1980
+#EXTINF:-1 ,DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1973
+#EXTINF:-1 ,DISCOVERY HOME & HEALTH
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1972
+#EXTINF:-1 ,DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1891
+#EXTINF:-1 ,DISCOVERY THEATER
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1971
+#EXTINF:-1 ,DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1970
+#EXTINF:-1 ,DISCOVERY WORLD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1969
+#EXTINF:-1 ,HGTV
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/3285
+#EXTINF:-1 ,HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1947
+#EXTINF:-1 ,HISTORY 2
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1953
+#EXTINF:-1 ,NAT GEO WILD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1943
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1942

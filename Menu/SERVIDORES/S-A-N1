@@ -27,7 +27,7 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
-#EXTINF:-1 ,BAND SP
+#EXTINF:-1 ,BAND
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18727
 #EXTINF:-1 ,BANDNEWS
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/78167984453/snakeplay/18725
@@ -102,7 +102,7 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 5[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
-#EXTINF:-1 ,BAND SP
+#EXTINF:-1 ,BAND
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18727
 #EXTINF:-1 ,BANDNEWS
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18725
@@ -124,3 +124,28 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18572
 #EXTINF:-1 ,SBT
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/49620
+###############################################################  ###########################################################################
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 6[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+https://127.0.0.19
+#EXTINF:-1 ,BAND
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/9787
+#EXTINF:-1 ,BANDNEWS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/3334
+#EXTINF:-1 ,CNN BRASIL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/12623
+#EXTINF:-1 ,CULTURA
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/5275
+#EXTINF:-1 ,GLOBO RBS TV
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/3311
+#EXTINF:-1 ,GLOBO SP
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1873
+#EXTINF:-1 ,GLOBONEWS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1154
+#EXTINF:-1 ,RECORDNEWS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/3092
+#EXTINF:-1 ,RECORDTV SP
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/10967
+#EXTINF:-1 ,REDETV!
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1933
+#EXTINF:-1 ,SBT
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1932

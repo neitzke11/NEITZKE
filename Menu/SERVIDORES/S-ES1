@@ -214,3 +214,46 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18761
 #EXTINF:-1 ,SPORTV 3
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/18559
+###############################################################  ###########################################################################
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 6[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+https://127.0.0.11
+#EXTINF:-1 ,BANDSPORTS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1977
+#EXTINF:-1 ,COMBATE
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1974
+#EXTINF:-1 ,DAZN (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 ,ESPN
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1966
+#EXTINF:-1 ,ESPN 2
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1964
+#EXTINF:-1 ,ESPN BRASIL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1965
+#EXTINF:-1 ,ESPN EXTRA (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 ,ESPORTE INTERATIVO (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 ,FOX SPORTS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1958
+#EXTINF:-1 ,FOX SPORTS 2
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1957
+#EXTINF:-1 ,PREMIERE CLUBES
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/3108
+#EXTINF:-1 ,PREMIERE 2
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1938
+#EXTINF:-1 ,PREMIERE 3
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1937
+#EXTINF:-1 ,PREMIERE 4
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1936
+#EXTINF:-1 ,PREMIERE 5
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1935
+#EXTINF:-1 ,PREMIERE 6
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1934
+#EXTINF:-1 ,PREMIERE 7
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1933
+#EXTINF:-1 ,SPORTV
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1928
+#EXTINF:-1 ,SPORTV 2
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1930
+#EXTINF:-1 ,SPORTV 3
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1929

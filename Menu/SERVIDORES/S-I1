@@ -164,3 +164,36 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/49376
 #EXTINF:-1 ,ZOOMOO   
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/260120/260120/28199
+###############################################################  ###########################################################################
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 6[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+https://127.0.0.19
+#EXTINF:-1 ,BABY TV
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/5285
+#EXTINF:-1 ,BOOMERANG
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/3461
+#EXTINF:-1 ,CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/141
+#EXTINF:-1 ,DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1150
+#EXTINF:-1 ,DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1151
+#EXTINF:-1 ,DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/5271
+#EXTINF:-1 ,DISNEY XD
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/5270
+#EXTINF:-1 ,GLOOB
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1155
+#EXTINF:-1 ,GLOOBINHO (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 ,NAT GEO KIDS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/3050
+#EXTINF:-1 ,NICKELODEON
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1162
+#EXTINF:-1 ,NICK JR. 
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/3463
+#EXTINF:-1 ,TV RÁ-TIM-BUM
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/3465
+#EXTINF:-1 ,TOONCAST 
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/5250
+#EXTINF:-1 ,ZOOMOO   
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/5245
