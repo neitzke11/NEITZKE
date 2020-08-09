@@ -1,0 +1,76 @@
+<channels>
+<channel>
+<name>[COLOR lawngreen][B]●[/COLOR] ABERTOS E NOTÍCIAS[/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://github.com/neitzke11/NEITZKE/raw/master/Menu/SERVIDORES/S-A-N1</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>[COLOR lawngreen][B]●[/COLOR] DOCUMENTÁRIOS[/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://github.com/neitzke11/NEITZKE/raw/master/Menu/SERVIDORES/S-D1</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>[COLOR red][B]●[/COLOR] ENTRETERIMENTO[/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://github.com/neitzke11/NEITZKE/raw/master/Menu/SERVIDORES/S-EN1</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>[COLOR red][B]●[/COLOR] ESPORTES[/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://github.com/neitzke11/NEITZKE/raw/master/Menu/SERVIDORES/S-ES1</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+
+
+<channels>
+<channel>
+<name>[COLOR red][B]●[/COLOR] FILMES E SÉRIES[/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://github.com/neitzke11/NEITZKE/raw/master/Menu/SERVIDORES/S-F-S1</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR red][B]●[/COLOR] INFANTIL[/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://github.com/neitzke11/NEITZKE/raw/master/Menu/SERVIDORES/S-I1</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+
+
+<channels>
+<channel>
+<name>[COLOR lawngreen][B]●[/COLOR] ADULTO[/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://github.com/neitzke11/NEITZKE/raw/master/Menu/SERVIDORES/S-X1</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
