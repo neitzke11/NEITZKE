@@ -4,9 +4,7 @@
 <name>1º TEMPORADA</name>********************************************************************************
 <info></info>
 </subitem>
-###############################################################  ###########################################################################
-#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 1[/B][/COLOR]  [COLOR lime]««««[/COLOR]
-https://127.0.0.19
+
 #EXTINF:-1 ,BABY TV
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/758035
 #EXTINF:-1 ,BOOMERANG
@@ -43,9 +41,7 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 <name>2º TEMPORADA</name>********************************************************************************
 <info></info>
 </subitem>
-###############################################################  ###########################################################################
-#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR]
-https://127.0.0.19
+
 #EXTINF:-1 ,BABY TV
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/roberto/roberto123/18729
 #EXTINF:-1 ,BOOMERANG
