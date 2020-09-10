@@ -1,8 +1,8 @@
-#EXTM3U
+
 <channels>
 <channel>
 <name>1º TEMPORADA</name>********************************************************************************
-<info></info>
+
 
 
 #EXTINF:-1 ,BABY TV
@@ -39,7 +39,7 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 
 <channel>
 <name>2º TEMPORADA</name>********************************************************************************
-<info></info>
+
 
 
 #EXTINF:-1 ,BABY TV
