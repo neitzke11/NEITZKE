@@ -1,9 +1,10 @@
-
 <channels>
 <channel>
 <name>1º TEMPORADA</name>********************************************************************************
+<info></info>
+</subitem>
 
-
+#EXTM3U
 
 #EXTINF:-1 ,BABY TV
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/758035
@@ -35,12 +36,13 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/758050
 #EXTINF:-1 ,ZOOMOO
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/852169
-</channel>
 
+<channels>
 <channel>
-<name>2º TEMPORADA</name>********************************************************************************
-
-
+<name>1º TEMPORADA</name>********************************************************************************
+<info></info>
+</subitem>
+#EXTM3U
 
 #EXTINF:-1 ,BABY TV
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/roberto/roberto123/18729
@@ -73,5 +75,3 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 #EXTINF:-1 ,ZOOMOO
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/roberto/roberto123/28199
 ###############################################################  ###########################################################################
-</channel>
-</channels>
