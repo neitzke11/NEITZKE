@@ -3,27 +3,33 @@
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 1[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
 #EXTINF:-1 ,BAND
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/758324
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/856509
 #EXTINF:-1 ,BANDNEWS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/758074
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/856485
+#EXTINF:-1 ,CANAL DO BOI (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 ,CANAL RURAL (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,CNN BRASIL
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/772909
-#EXTINF:-1 ,CULTURA
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/758389
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/856490
+#EXTINF:-1 ,CULTURA (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,GLOBO RBS TV
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/855641
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/856412
 #EXTINF:-1 ,GLOBO SP
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/855654
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/856428
 #EXTINF:-1 ,GLOBONEWS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/758071
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/856395
 #EXTINF:-1 ,RECORDNEWS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/758086
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/856505
 #EXTINF:-1 ,RECORDTV SP
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/758329
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/856523
 #EXTINF:-1 ,REDETV!
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/758344
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/856525
 #EXTINF:-1 ,SBT
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/758347
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/856529
+#EXTINF:-1 ,TERRA VIVA (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 2[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
@@ -31,6 +37,10 @@ https://127.0.0.19
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/roberto/roberto123/18727
 #EXTINF:-1 ,BANDNEWS
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/roberto/roberto123/18725
+#EXTINF:-1 ,CANAL DO BOI
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/roberto/roberto123/47323
+#EXTINF:-1 ,CANAL RURAL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/roberto/roberto123/47322
 #EXTINF:-1 ,CNN BRASIL
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/roberto/roberto123/47358
 #EXTINF:-1 ,CULTURA
@@ -49,63 +59,50 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/roberto/roberto123/18572
 #EXTINF:-1 ,SBT
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/roberto/roberto123/49620
+#EXTINF:-1 ,TERRA VIVA
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/roberto/roberto123/18540
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 3[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
 #EXTINF:-1 ,BAND
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/Emilton/123456/18
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/856509
 #EXTINF:-1 ,BANDNEWS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/Emilton/123456/21
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/856485
+#EXTINF:-1 ,CANAL DO BOI (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 ,CANAL RURAL (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,CNN BRASIL
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/Emilton/123456/14075
-#EXTINF:-1 ,CULTURA
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/Emilton/123456/31474
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/856490
+#EXTINF:-1 ,CULTURA (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 ,GLOBO RBS TV
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/Emilton/123456/214
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/856412
 #EXTINF:-1 ,GLOBO SP
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/Emilton/123456/223
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/856428
 #EXTINF:-1 ,GLOBONEWS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/Emilton/123456/203
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/856395
 #EXTINF:-1 ,RECORDNEWS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/Emilton/123456/365
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/856505
 #EXTINF:-1 ,RECORDTV SP
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/Emilton/123456/372
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/856523
 #EXTINF:-1 ,REDETV!
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/Emilton/123456/380
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/856525
 #EXTINF:-1 ,SBT
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://eyplay.io:80/Emilton/123456/383
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/856529
+#EXTINF:-1 ,TERRA VIVA (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 4[/B][/COLOR]  [COLOR lime]««««[/COLOR]
-https://127.0.0.19
-#EXTINF:-1 ,BAND
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/758324
-#EXTINF:-1 ,BANDNEWS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/758074
-#EXTINF:-1 ,CNN BRASIL
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/772909
-#EXTINF:-1 ,CULTURA
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/758389
-#EXTINF:-1 ,GLOBO RBS TV
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/855641
-#EXTINF:-1 ,GLOBO SP
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/855654
-#EXTINF:-1 ,GLOBONEWS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/758071
-#EXTINF:-1 ,RECORDNEWS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/758086
-#EXTINF:-1 ,RECORDTV SP
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/758329
-#EXTINF:-1 ,REDETV!
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/758344
-#EXTINF:-1 ,SBT
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/wilian1234/1020304050/758347
-###############################################################  ###########################################################################
-#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 5[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
 #EXTINF:-1 ,BAND
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18727
 #EXTINF:-1 ,BANDNEWS
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18725
+#EXTINF:-1 ,CANAL DO BOI
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/47323
+#EXTINF:-1 ,CANAL RURAL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/47322
 #EXTINF:-1 ,CNN BRASIL
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/47358
 #EXTINF:-1 ,CULTURA
@@ -124,28 +121,67 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18572
 #EXTINF:-1 ,SBT
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/49620
+#EXTINF:-1 ,TERRA VIVA
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18540
+###############################################################  ###########################################################################
+#EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 5[/B][/COLOR]  [COLOR lime]««««[/COLOR]
+https://127.0.0.19
+#EXTINF:-1 ,BAND
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/Devanir2/Devanir2/856509
+#EXTINF:-1 ,BANDNEWS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/Devanir2/Devanir2/856485
+#EXTINF:-1 ,CANAL DO BOI (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 ,CANAL RURAL (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 ,CNN BRASIL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/Devanir2/Devanir2/856490
+#EXTINF:-1 ,CULTURA (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 ,GLOBO RBS TV
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/Devanir2/Devanir2/856412
+#EXTINF:-1 ,GLOBO SP
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/Devanir2/Devanir2/856428
+#EXTINF:-1 ,GLOBONEWS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/Devanir2/Devanir2/856395
+#EXTINF:-1 ,RECORDNEWS
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/Devanir2/Devanir2/856505
+#EXTINF:-1 ,RECORDTV SP
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/Devanir2/Devanir2/856523
+#EXTINF:-1 ,REDETV!
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/Devanir2/Devanir2/856525
+#EXTINF:-1 ,SBT
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/Devanir2/Devanir2/856529
+#EXTINF:-1 ,TERRA VIVA (OFF)
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 ###############################################################  ###########################################################################
 #EXTINF:-1 ,[COLOR lime]»»»»[/COLOR]  [COLOR gold][B]SERVIDOR 6[/B][/COLOR]  [COLOR lime]««««[/COLOR]
 https://127.0.0.19
 #EXTINF:-1 ,BAND
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/9787
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/Marcus1/123456/18727
 #EXTINF:-1 ,BANDNEWS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/3334
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/Marcus1/123456/18725
+#EXTINF:-1 ,CANAL DO BOI
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/Marcus1/123456/47323
+#EXTINF:-1 ,CANAL RURAL
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/Marcus1/123456/47322
 #EXTINF:-1 ,CNN BRASIL
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/12623
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/Marcus1/123456/47358
 #EXTINF:-1 ,CULTURA
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/5275
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/Marcus1/123456/18752
 #EXTINF:-1 ,GLOBO RBS TV
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/3311
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/Marcus1/123456/52420
 #EXTINF:-1 ,GLOBO SP
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1873
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/Marcus1/123456/18410
 #EXTINF:-1 ,GLOBONEWS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1154
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/Marcus1/123456/18651
 #EXTINF:-1 ,RECORDNEWS
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/3092
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/Marcus1/123456/18577
 #EXTINF:-1 ,RECORDTV SP
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/10967
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/Marcus1/123456/18575
 #EXTINF:-1 ,REDETV!
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1933
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/Marcus1/123456/18572
 #EXTINF:-1 ,SBT
-plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://svrhost.club/XCRK74A1J/OARUYSCFL/1932
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/Marcus1/123456/49620
+#EXTINF:-1 ,TERRA VIVA
+plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/Marcus1/123456/18540
