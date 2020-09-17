@@ -29,7 +29,7 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 #EXTINF:-1 ,SBT
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/856845
 #EXTINF:-1 ,SBT RS (YouTube)
-plugin://plugin.video.youtube/play/?video_id=WVGysoxLq_4
+plugin://plugin.video.youtube/play/?video_id=WVGysoxLq_4&feature=youtu.be
 #EXTINF:-1 ,TERRA VIVA (OFF)
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 ###############################################################  ###########################################################################
