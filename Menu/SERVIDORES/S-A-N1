@@ -28,8 +28,6 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/856525
 #EXTINF:-1 ,SBT
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/6194581611ALIRIO/6194581611ALIRIO/856845
-#EXTINF:-1 ,SBT RS (YouTube)
-plugin://plugin.video.youtube/play/?video_id=xD-9m8EFq0Y&feature=youtu.be
 #EXTINF:-1 ,TERRA VIVA (OFF)
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=
 ###############################################################  ###########################################################################
@@ -61,8 +59,6 @@ plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=ht
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/roberto/roberto123/18572
 #EXTINF:-1 ,SBT
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/roberto/roberto123/49620
-#EXTINF:-1 ,SBT RS (YouTube)
-plugin://plugin.video.youtube/play/?video_id=xD-9m8EFq0Y&feature=youtu.be
 #EXTINF:-1 ,TERRA VIVA
 plugin://plugin.video.f4mTester/?name=NEITZKE&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/roberto/roberto123/18540
 ###############################################################  ###########################################################################
