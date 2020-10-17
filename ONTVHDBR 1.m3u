@@ -1,0 +1,747 @@
+#EXTM3U
+#EXTINF:-1 ,A FAZENDA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/87677
+#EXTINF:-1 ,A FAZENDA HD*
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/87678
+#EXTINF:-1 ,A&E HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/76578
+#EXTINF:-1 ,A&E HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78336
+#EXTINF:-1 ,A&E HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40808
+#EXTINF:-1 ,ABC  HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/76570
+#EXTINF:-1 ,AMC HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65844
+#EXTINF:-1 ,AMC HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78235
+#EXTINF:-1 ,AMC HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40807
+#EXTINF:-1 ,ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78236
+#EXTINF:-1 ,ANIMAL PLANET HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40806
+#EXTINF:-1 ,ARTE 1 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78237
+#EXTINF:-1 ,ARTE 1 HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40805
+#EXTINF:-1 ,AXN HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65849
+#EXTINF:-1 ,AXN HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78238
+#EXTINF:-1 ,AXN HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40804
+#EXTINF:-1 ,BABY TV HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40803
+#EXTINF:-1 ,BAND CAMPINAS HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40802
+#EXTINF:-1 ,BAND HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/70855
+#EXTINF:-1 ,BAND HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78342
+#EXTINF:-1 ,BAND HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/70856
+#EXTINF:-1 ,BAND NEWS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78239
+#EXTINF:-1 ,BAND NEWS HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40801
+#EXTINF:-1 ,BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40800
+#EXTINF:-1 ,BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78240
+#EXTINF:-1 ,BAND SPORTS HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39806
+#EXTINF:-1 ,BEIN 8 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/76577
+#EXTINF:-1 ,BIS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78241
+#EXTINF:-1 ,BIS HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40799
+#EXTINF:-1 ,BOA VONTADE TV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40576
+#EXTINF:-1 ,BOOMBERANG HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/41346
+#EXTINF:-1 ,BOOMERANG HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65952
+#EXTINF:-1 ,BOOMERANG HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78242
+#EXTINF:-1 ,BOOMERANG HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40798
+#EXTINF:-1 ,CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78248
+#EXTINF:-1 ,CANAL SONY HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40728
+#EXTINF:-1 ,CANAL SONY HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78243
+#EXTINF:-1 ,CANÇÃO NOVA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/66037
+#EXTINF:-1 ,CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78244
+#EXTINF:-1 ,CARTOON NETWORK HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40793
+#EXTINF:-1 ,CINEMAX HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78245
+#EXTINF:-1 ,CINEMAX HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40792
+#EXTINF:-1 ,CNN BRASIL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/70877
+#EXTINF:-1 ,COMBATE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78246
+#EXTINF:-1 ,COMBATE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40791
+#EXTINF:-1 ,COMBATE HD ALTERNATIVO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/13530
+#EXTINF:-1 ,COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78247
+#EXTINF:-1 ,COPA CATARINENSE 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65420
+#EXTINF:-1 ,COPA CATARINENSE 3 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/70860
+#EXTINF:-1 ,COPA CATARINENSE 4 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/70862
+#EXTINF:-1 ,COPA CATARINENSE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65418
+#EXTINF:-1 ,COPA CATARINENSE HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/70834
+#EXTINF:-1 ,CULTURA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78339
+#EXTINF:-1 ,CULTURA HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40790
+#EXTINF:-1 ,CURTA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78249
+#EXTINF:-1 ,CURTA! HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40797
+#EXTINF:-1 ,DAZN HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/53622
+#EXTINF:-1 ,DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65993
+#EXTINF:-1 ,DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78251
+#EXTINF:-1 ,DISCOVERY CHANNEL HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40789
+#EXTINF:-1 ,DISCOVERY CIVILIZATION HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/13525
+#EXTINF:-1 ,DISCOVERY H&H HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78250
+#EXTINF:-1 ,DISCOVERY HOME & HEALTH HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40788
+#EXTINF:-1 ,DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78255
+#EXTINF:-1 ,DISCOVERY KIDS HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/41347
+#EXTINF:-1 ,DISCOVERY KIDS HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40787
+#EXTINF:-1 ,DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78252
+#EXTINF:-1 ,DISCOVERY SCIENCE HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40786
+#EXTINF:-1 ,DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78253
+#EXTINF:-1 ,DISCOVERY THEATER HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40785
+#EXTINF:-1 ,DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78254
+#EXTINF:-1 ,DISCOVERY TURBO HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39808
+#EXTINF:-1 ,DISCOVERY TURBO HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40784
+#EXTINF:-1 ,DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/32169
+#EXTINF:-1 ,DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78256
+#EXTINF:-1 ,DISCOVERY WORLD HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40783
+#EXTINF:-1 ,DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78257
+#EXTINF:-1 ,DISNEY CHANNEL HD 2
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/31995
+#EXTINF:-1 ,DISNEY CHANNEL HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40782
+#EXTINF:-1 ,DISNEY JR HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/41349
+#EXTINF:-1 ,DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78260
+#EXTINF:-1 ,DISNEY JUNIOR HD ALTERNATIVO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39888
+#EXTINF:-1 ,DISNEY JUNIOR HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40781
+#EXTINF:-1 ,DISNEY JUNIOR HD⁴
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/31994
+#EXTINF:-1 ,DISNEY XD HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/31993
+#EXTINF:-1 ,DISNEY XD HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/76573
+#EXTINF:-1 ,DISNEY XD HD ALTERNATIVO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39887
+#EXTINF:-1 ,DISNEY XD HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40780
+#EXTINF:-1 ,DOG TV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40814
+#EXTINF:-1 ,E! HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78258
+#EXTINF:-1 ,E! HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40779
+#EXTINF:-1 ,EI PLUS 1 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/67130
+#EXTINF:-1 ,EI PLUS 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/41126
+#EXTINF:-1 ,EI PLUS 3 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/41117
+#EXTINF:-1 ,EI PLUS 4 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/87688
+#EXTINF:-1 ,EI PLUS 5 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/87690
+#EXTINF:-1 ,EI PLUS 6 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/87692
+#EXTINF:-1 ,EI PLUS 7 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/87694
+#EXTINF:-1 ,EI PLUS 8 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/87696
+#EXTINF:-1 ,ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/32008
+#EXTINF:-1 ,ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78338
+#EXTINF:-1 ,ESPN 2 HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/41343
+#EXTINF:-1 ,ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40776
+#EXTINF:-1 ,ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78343
+#EXTINF:-1 ,ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40820
+#EXTINF:-1 ,ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/32006
+#EXTINF:-1 ,ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78337
+#EXTINF:-1 ,ESPN HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40777
+#EXTINF:-1 ,ESPN HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40775
+#EXTINF:-1 ,ESPN HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78334
+#EXTINF:-1 ,FASHION TV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65998
+#EXTINF:-1 ,FILM & ARTS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78261
+#EXTINF:-1 ,FISH TV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78259
+#EXTINF:-1 ,FISH TV HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40774
+#EXTINF:-1 ,FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65975
+#EXTINF:-1 ,FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78262
+#EXTINF:-1 ,FOOD NETWORK HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40773
+#EXTINF:-1 ,FOX COMEDY HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65870
+#EXTINF:-1 ,FOX CRIME HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65867
+#EXTINF:-1 ,FOX HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65864
+#EXTINF:-1 ,FOX HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/76582
+#EXTINF:-1 ,FOX HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78335
+#EXTINF:-1 ,FOX HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40772
+#EXTINF:-1 ,FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65873
+#EXTINF:-1 ,FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78263
+#EXTINF:-1 ,FOX LIFE HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40771
+#EXTINF:-1 ,FOX MOVIES HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65838
+#EXTINF:-1 ,FOX PREMIUM 1 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78264
+#EXTINF:-1 ,FOX PREMIUM 1 HD.2
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/32164
+#EXTINF:-1 ,FOX PREMIUM 1 HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40687
+#EXTINF:-1 ,FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78265
+#EXTINF:-1 ,FOX PREMIUM 2 HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/41344
+#EXTINF:-1 ,FOX PREMIUM 2 HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40686
+#EXTINF:-1 ,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40770
+#EXTINF:-1 ,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78267
+#EXTINF:-1 ,FOX SPORTS 2 HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39848
+#EXTINF:-1 ,FOX SPORTS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40769
+#EXTINF:-1 ,FOX SPORTS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78266
+#EXTINF:-1 ,FOX SPORTS HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39845
+#EXTINF:-1 ,FUEL TV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/66004
+#EXTINF:-1 ,FUTURA HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40796
+#EXTINF:-1 ,FX HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78268
+#EXTINF:-1 ,FX HD ALTERNATIVO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/13508
+#EXTINF:-1 ,FX HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40768
+#EXTINF:-1 ,GINX HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/66012
+#EXTINF:-1 ,GLOBO ACRE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/72042
+#EXTINF:-1 ,GLOBO AMAZONAS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65435
+#EXTINF:-1 ,GLOBO BAHIA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65429
+#EXTINF:-1 ,GLOBO BELEM HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65453
+#EXTINF:-1 ,GLOBO BOA VISTA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65441
+#EXTINF:-1 ,GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65455
+#EXTINF:-1 ,GLOBO CEARA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65423
+#EXTINF:-1 ,GLOBO CUIABA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/72027
+#EXTINF:-1 ,GLOBO CURITIBA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65431
+#EXTINF:-1 ,GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/32012
+#EXTINF:-1 ,GLOBO FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65449
+#EXTINF:-1 ,GLOBO FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/64909
+#EXTINF:-1 ,GLOBO FORTALEZA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40816
+#EXTINF:-1 ,GLOBO GAZETA SUL HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39758
+#EXTINF:-1 ,GLOBO GOIANIA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65445
+#EXTINF:-1 ,GLOBO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78340
+#EXTINF:-1 ,GLOBO MACAPA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65433
+#EXTINF:-1 ,GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40817
+#EXTINF:-1 ,GLOBO MINAS HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/41338
+#EXTINF:-1 ,GLOBO NATAL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65437
+#EXTINF:-1 ,GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78333
+#EXTINF:-1 ,GLOBO NEWS HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39762
+#EXTINF:-1 ,GLOBO NEWS HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40767
+#EXTINF:-1 ,GLOBO PORTO ALEGRE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/64910
+#EXTINF:-1 ,GLOBO PORTO VELHO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65447
+#EXTINF:-1 ,GLOBO RECIFE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65443
+#EXTINF:-1 ,GLOBO RIO CLARO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65439
+#EXTINF:-1 ,GLOBO RIO GRANDE DO SUL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65427
+#EXTINF:-1 ,GLOBO RJ HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/13507
+#EXTINF:-1 ,GLOBO RJ HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/70672
+#EXTINF:-1 ,GLOBO RJ HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39760
+#EXTINF:-1 ,GLOBO SALVADOR HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/82526
+#EXTINF:-1 ,GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/13506
+#EXTINF:-1 ,GLOBO SP HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39843
+#EXTINF:-1 ,GLOBO TV MIRANTE HD (MA)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/72040
+#EXTINF:-1 ,GLOBO TV MORENA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/87698
+#EXTINF:-1 ,GLOBO TV VERDES MARES HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/72035
+#EXTINF:-1 ,GLOBO VERDES MARES HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/41339
+#EXTINF:-1 ,GLOBO VITORIA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65451
+#EXTINF:-1 ,GLOOB HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78269
+#EXTINF:-1 ,GLOOB HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/41348
+#EXTINF:-1 ,GLOOB HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40766
+#EXTINF:-1 ,GLOOBINHO HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40696
+#EXTINF:-1 ,GNT HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78270
+#EXTINF:-1 ,GNT HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40765
+#EXTINF:-1 ,H2 HD ALTERNATIVO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/13496
+#EXTINF:-1 ,H2 HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40764
+#EXTINF:-1 ,HBO 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40763
+#EXTINF:-1 ,HBO 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78278
+#EXTINF:-1 ,HBO 2 HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39840
+#EXTINF:-1 ,HBO EXTREME HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40753
+#EXTINF:-1 ,HBO EXTREME HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39779
+#EXTINF:-1 ,HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40762
+#EXTINF:-1 ,HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78272
+#EXTINF:-1 ,HBO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40761
+#EXTINF:-1 ,HBO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78273
+#EXTINF:-1 ,HBO HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39842
+#EXTINF:-1 ,HBO MUNDI HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40754
+#EXTINF:-1 ,HBO MUNDI HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78274
+#EXTINF:-1 ,HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40760
+#EXTINF:-1 ,HBO POP HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40752
+#EXTINF:-1 ,HBO POP HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78275
+#EXTINF:-1 ,HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40759
+#EXTINF:-1 ,HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78276
+#EXTINF:-1 ,HBO XTREME HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78277
+#EXTINF:-1 ,HBO+ HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78271
+#EXTINF:-1 ,HGTV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78279
+#EXTINF:-1 ,HISTORY 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78341
+#EXTINF:-1 ,HISTORY CHANNEL HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40758
+#EXTINF:-1 ,HISTORY HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78283
+#EXTINF:-1 ,HISTORY HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/41359
+#EXTINF:-1 ,HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65835
+#EXTINF:-1 ,ID HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78281
+#EXTINF:-1 ,ID INVESTIGATION DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65994
+#EXTINF:-1 ,INVESTIGAÇÃO DISCOVERY HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40757
+#EXTINF:-1 ,LIFETIME HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78282
+#EXTINF:-1 ,LIFETIME HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40756
+#EXTINF:-1 ,LIKE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78344
+#EXTINF:-1 ,LOVE NATURE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78280
+#EXTINF:-1 ,MAIS GLOBOSAT HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78284
+#EXTINF:-1 ,MAIS GLOBOSAT HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40755
+#EXTINF:-1 ,MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78285
+#EXTINF:-1 ,MEGAPIX HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40751
+#EXTINF:-1 ,MTV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78286
+#EXTINF:-1 ,MTV HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40750
+#EXTINF:-1 ,MTV LIVE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/66024
+#EXTINF:-1 ,MTV LIVE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78287
+#EXTINF:-1 ,MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78293
+#EXTINF:-1 ,MULTISHOW HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39780
+#EXTINF:-1 ,MULTISHOW HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40749
+#EXTINF:-1 ,MUSIC BOX BRAZIL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78288
+#EXTINF:-1 ,MUSIC BOX HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/66025
+#EXTINF:-1 ,NATGEO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78291
+#EXTINF:-1 ,NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78289
+#EXTINF:-1 ,NATGEO KIDS HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40748
+#EXTINF:-1 ,NATGEO WILD HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78290
+#EXTINF:-1 ,NATGEO WILD HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40747
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65988
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40746
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC WILD HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65991
+#EXTINF:-1 ,NICK JR HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40744
+#EXTINF:-1 ,NICKELODEON HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40743
+#EXTINF:-1 ,OFF HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78292
+#EXTINF:-1 ,OFF HD ALTERNATIVO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/13476
+#EXTINF:-1 ,OFF HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40795
+#EXTINF:-1 ,PAI ETERNO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78332
+#EXTINF:-1 ,PARAMOUNT CHANNEL HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40742
+#EXTINF:-1 ,PARAMOUNT HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78294
+#EXTINF:-1 ,PLAYBOY HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39810
+#EXTINF:-1 ,PLAYKIDS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/32170
+#EXTINF:-1 ,PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40740
+#EXTINF:-1 ,PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78295
+#EXTINF:-1 ,PREMIERE 2 HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39813
+#EXTINF:-1 ,PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40739
+#EXTINF:-1 ,PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78296
+#EXTINF:-1 ,PREMIERE 3 HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39812
+#EXTINF:-1 ,PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40738
+#EXTINF:-1 ,PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78297
+#EXTINF:-1 ,PREMIERE 4 HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39818
+#EXTINF:-1 ,PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40737
+#EXTINF:-1 ,PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78298
+#EXTINF:-1 ,PREMIERE 5 HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/41350
+#EXTINF:-1 ,PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40736
+#EXTINF:-1 ,PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78299
+#EXTINF:-1 ,PREMIERE 6 HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/41351
+#EXTINF:-1 ,PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40735
+#EXTINF:-1 ,PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78300
+#EXTINF:-1 ,PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40741
+#EXTINF:-1 ,PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78301
+#EXTINF:-1 ,PREMIERE CLUBES HD ALTERNATIVO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/32159
+#EXTINF:-1 ,PREMIERE FUTEBOL CLUBE HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39819
+#EXTINF:-1 ,PRIME BOX BRAZIL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78302
+#EXTINF:-1 ,PRIME BOX BRAZIL HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40734
+#EXTINF:-1 ,RA-TIM-BUM HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40733
+#EXTINF:-1 ,RECORD BAHIA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/66690
+#EXTINF:-1 ,RECORD HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40732
+#EXTINF:-1 ,RECORD HD ALTERNATIVO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39881
+#EXTINF:-1 ,RECORD HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/32003
+#EXTINF:-1 ,RECORD MANAUS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/74651
+#EXTINF:-1 ,RECORD MINAS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/32001
+#EXTINF:-1 ,RECORD RS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/31997
+#EXTINF:-1 ,RECORD SP HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/31996
+#EXTINF:-1 ,RECORD TV HD ALTERNATIVO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/13438
+#EXTINF:-1 ,RED BUL TV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/66011
+#EXTINF:-1 ,REDE TV HD ALTERNATIVO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/13463
+#EXTINF:-1 ,REDE VIDA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/88531
+#EXTINF:-1 ,REDETV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78303
+#EXTINF:-1 ,REDETV HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40730
+#EXTINF:-1 ,SBT HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78305
+#EXTINF:-1 ,SBT HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39809
+#EXTINF:-1 ,SBT HD TV PIONEIRA ALTERNATIVO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/13432
+#EXTINF:-1 ,SBT HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40729
+#EXTINF:-1 ,SBT HD³
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/42118
+#EXTINF:-1 ,SBT MARANHAO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/66659
+#EXTINF:-1 ,SBT PERNAMBUCO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/32146
+#EXTINF:-1 ,SEXY HOT HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39828
+#EXTINF:-1 ,SPACE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78306
+#EXTINF:-1 ,SPACE HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40727
+#EXTINF:-1 ,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40725
+#EXTINF:-1 ,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78307
+#EXTINF:-1 ,SPORTV 2 HD ALTERNATIVO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/13458
+#EXTINF:-1 ,SPORTV 2 HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39823
+#EXTINF:-1 ,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40724
+#EXTINF:-1 ,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78308
+#EXTINF:-1 ,SPORTV 3 HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39822
+#EXTINF:-1 ,SPORTV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40726
+#EXTINF:-1 ,SPORTV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78310
+#EXTINF:-1 ,SPORTV HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39824
+#EXTINF:-1 ,STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78309
+#EXTINF:-1 ,STUDIO UNIVERSAL HD ALTERNATIVO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/13455
+#EXTINF:-1 ,STUDIO UNIVERSAL HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40723
+#EXTINF:-1 ,SYFY HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65858
+#EXTINF:-1 ,SYFY HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78311
+#EXTINF:-1 ,SYFY HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40722
+#EXTINF:-1 ,TBS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78312
+#EXTINF:-1 ,TBS HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40721
+#EXTINF:-1 ,TCM HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40720
+#EXTINF:-1 ,TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78313
+#EXTINF:-1 ,TELECINE ACTION HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39837
+#EXTINF:-1 ,TELECINE ACTION HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40719
+#EXTINF:-1 ,TELECINE CULT HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78314
+#EXTINF:-1 ,TELECINE CULT HD ALTERNATIVO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/13450
+#EXTINF:-1 ,TELECINE CULT HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40718
+#EXTINF:-1 ,TELECINE FUN HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78315
+#EXTINF:-1 ,TELECINE FUN HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39835
+#EXTINF:-1 ,TELECINE FUN HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40717
+#EXTINF:-1 ,TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78316
+#EXTINF:-1 ,TELECINE PIPOCA HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39833
+#EXTINF:-1 ,TELECINE PIPOCA HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40716
+#EXTINF:-1 ,TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78317
+#EXTINF:-1 ,TELECINE PREMIUM HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40715
+#EXTINF:-1 ,TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78318
+#EXTINF:-1 ,TELECINE TOUCH HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39829
+#EXTINF:-1 ,TELECINE TOUCH HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40714
+#EXTINF:-1 ,TLC HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40713
+#EXTINF:-1 ,TLC HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78319
+#EXTINF:-1 ,TLC HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/39764
+#EXTINF:-1 ,TNT HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78320
+#EXTINF:-1 ,TNT HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40712
+#EXTINF:-1 ,TNT SÉRIES HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78321
+#EXTINF:-1 ,TNT SERIES HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40711
+#EXTINF:-1 ,TOONCAST HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40710
+#EXTINF:-1 ,TRAVEL BOX BRAZIL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78324
+#EXTINF:-1 ,TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65977
+#EXTINF:-1 ,TRU TV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/76532
+#EXTINF:-1 ,TV APARECIDA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40709
+#EXTINF:-1 ,TV BRASIL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78322
+#EXTINF:-1 ,TV GAZETA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/16867
+#EXTINF:-1 ,TV GLOBO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65963
+#EXTINF:-1 ,TV GUARULHOS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/57594
+#EXTINF:-1 ,TV NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78323
+#EXTINF:-1 ,TV RATIMBUM HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78325
+#EXTINF:-1 ,TV RECORD HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/65966
+#EXTINF:-1 ,TV UNIVERSAL 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40555
+#EXTINF:-1 ,TV VITORIA ES HD H265
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/41332
+#EXTINF:-1 ,UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78326
+#EXTINF:-1 ,UNIVERSAL CHANNEL HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40708
+#EXTINF:-1 ,VH1 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78327
+#EXTINF:-1 ,VH1 HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40707
+#EXTINF:-1 ,VIVA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78328
+#EXTINF:-1 ,VIVA HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40706
+#EXTINF:-1 ,WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78329
+#EXTINF:-1 ,WARNER CHANNEL HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40705
+#EXTINF:-1 ,WOOHOO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78330
+#EXTINF:-1 ,WOOHOO HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40794
+#EXTINF:-1 ,WWE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/66013
+#EXTINF:-1 ,ZOOMOO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/78331
+#EXTINF:-1 ,ZOOMOO HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://cdn.ontvhdbr.co:80/Germana/12345/40704
