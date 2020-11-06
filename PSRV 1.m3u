@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Premier Mosaico FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/59174
 #EXTINF:-1 ,A&E HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18738
 #EXTINF:-1 ,AMC HD
