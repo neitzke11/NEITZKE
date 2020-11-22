@@ -1,0 +1,389 @@
+#EXTM3U
+#EXTINF:-1 ,A&E HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18738
+#EXTINF:-1 ,AMC HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18736
+#EXTINF:-1 ,Animal Planet HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18734
+#EXTINF:-1 ,Arte 1 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/27884
+#EXTINF:-1 ,AXN HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18730
+#EXTINF:-1 ,BabyTV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/49379
+#EXTINF:-1 ,Band Goiânia HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/56284
+#EXTINF:-1 ,Band RS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/56296
+#EXTINF:-1 ,Band Sergipe HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/22476
+#EXTINF:-1 ,Band SP HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18727
+#EXTINF:-1 ,BandNews HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18725
+#EXTINF:-1 ,BandSports HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18723
+#EXTINF:-1 ,Bis HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18721
+#EXTINF:-1 ,Boomerang HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18718
+#EXTINF:-1 ,Canal Brasil HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18716
+#EXTINF:-1 ,Cancao Nova HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/48700
+#EXTINF:-1 ,Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18711
+#EXTINF:-1 ,Chef TV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/49378
+#EXTINF:-1 ,Cinemax HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18709
+#EXTINF:-1 ,CNN Brasil HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/47358
+#EXTINF:-1 ,Combate HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18707
+#EXTINF:-1 ,Comedy Central HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18705
+#EXTINF:-1 ,CONMEBOL 1 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/54613
+#EXTINF:-1 ,CONMEBOL 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/54614
+#EXTINF:-1 ,CONMEBOL 3 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/56290
+#EXTINF:-1 ,CONMEBOL 4 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/56291
+#EXTINF:-1,DAZN 01
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/54586
+#EXTINF:-1,DAZN 01 [ALTER]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/54584
+#EXTINF:-1,DAZN 02
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/54587
+#EXTINF:-1,DAZN 02[ALTER]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/54585
+#EXTINF:-1,DAZN 03
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/54588
+#EXTINF:-1,DAZN 04
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/54589
+#EXTINF:-1,DAZN 05
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/54590
+#EXTINF:-1 ,Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18701
+#EXTINF:-1 ,Discovery H&H HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18697
+#EXTINF:-1 ,Discovery Kids HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/22325
+#EXTINF:-1 ,Discovery Science HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18693
+#EXTINF:-1 ,Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18691
+#EXTINF:-1 ,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18689
+#EXTINF:-1 ,Discovery World HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18687
+#EXTINF:-1 ,Disney Channel HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/57420
+#EXTINF:-1 ,Disney HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18685
+#EXTINF:-1 ,Disney Junior HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18509
+#EXTINF:-1 ,Disney XD HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/49285
+#EXTINF:-1 ,Dog TV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/28000
+#EXTINF:-1 ,DW ALEMANHA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/26429
+#EXTINF:-1 ,E! HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18681
+#EXTINF:-1 ,EI Plus 1 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/22978
+#EXTINF:-1 ,ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18678
+#EXTINF:-1 ,ESPN Brasil HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18676
+#EXTINF:-1 ,ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18674
+#EXTINF:-1 ,ESPN HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18673
+#EXTINF:-1 ,Fashion TV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/49293
+#EXTINF:-1 ,Fish TV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18671
+#EXTINF:-1 ,Food Network HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18669
+#EXTINF:-1 ,Fox HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18667
+#EXTINF:-1 ,Fox Life HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18665
+#EXTINF:-1 ,Fox Premium 1 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18663
+#EXTINF:-1 ,Fox Premium 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18661
+#EXTINF:-1 ,Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18657
+#EXTINF:-1 ,Fox Sports HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18659
+#EXTINF:-1 ,FX HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18653
+#EXTINF:-1 ,Globo Bahia Salvador HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/61616
+#EXTINF:-1 ,Globo Brasilia HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18434
+#EXTINF:-1 ,GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/28078
+#EXTINF:-1 ,Globo EPTV Ribeirao Preto HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18430
+#EXTINF:-1 ,Globo EPTV Ribeirão Preto HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18522
+#EXTINF:-1 ,Globo EPTV Sul de Minas HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/52432
+#EXTINF:-1 ,Globo InterTV Alto Litoral HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/52418
+#EXTINF:-1 ,Globo Mato Grosso HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/28393
+#EXTINF:-1 ,Globo Minas HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18425
+#EXTINF:-1 ,Globo News HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18651
+#EXTINF:-1 ,Globo Nordeste HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/52419
+#EXTINF:-1 ,Globo NSC TV Florianopolis HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18421
+#EXTINF:-1 ,Globo NSC TV Florianopolis HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/49361
+#EXTINF:-1 ,Globo RBS TV Pelotas HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/52420
+#EXTINF:-1 ,Globo RBS TV Porto Alegre HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18419
+#EXTINF:-1 ,Globo RJ HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18416
+#EXTINF:-1 ,Globo RPC Curitiba HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18413
+#EXTINF:-1 ,Globo RPC Parana HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/49372
+#EXTINF:-1 ,Globo SP HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18410
+#EXTINF:-1 ,Globo TV Asa Branca HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/49362
+#EXTINF:-1 ,Globo TV Bahia HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/52421
+#EXTINF:-1 ,Globo TV Cabo Branco HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/52422
+#EXTINF:-1 ,Globo TV Cabo Frio HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18332
+#EXTINF:-1 ,Globo TV Diario Fortaleza HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18490
+#EXTINF:-1 ,Globo TV Gazeta Sul ES HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18360
+#EXTINF:-1 ,Globo TV Gazeta Vitória HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/52423
+#EXTINF:-1 ,Globo TV Mirante Sao Luis HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18370
+#EXTINF:-1 ,Globo TV Morena Ponta Pora HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/49373
+#EXTINF:-1 ,Globo TV Rio Sul HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18330
+#EXTINF:-1 ,Globo TV Salvador Bahia HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18405
+#EXTINF:-1 ,Globo TV Santa Cruz HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18327
+#EXTINF:-1 ,Globo TV Sergipe HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18380
+#EXTINF:-1 ,Globo TV TEM S. J. do Rio Preto HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18400
+#EXTINF:-1 ,Globo TV Vanguarda S. J. dos Campos HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/56299
+#EXTINF:-1 ,Globo TV Verdes Mares Fortaleza HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/28395
+#EXTINF:-1 ,Gloob HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18649
+#EXTINF:-1 ,GNT HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18645
+#EXTINF:-1 ,H2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18643
+#EXTINF:-1 ,HBO 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18640
+#EXTINF:-1 ,HBO Family HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18638
+#EXTINF:-1 ,HBO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18637
+#EXTINF:-1 ,HBO Mundi HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18623
+#EXTINF:-1 ,HBO Plus HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18635
+#EXTINF:-1 ,HBO POP HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/45148
+#EXTINF:-1 ,HBO Signature HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18633
+#EXTINF:-1 ,HBO XTREME HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/45144
+#EXTINF:-1 ,HGTV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18699
+#EXTINF:-1 ,History Channel HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18631
+#EXTINF:-1 ,ID: Investigacao Discovery HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/49283
+#EXTINF:-1 ,Lifetime HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18627
+#EXTINF:-1 ,Mais GloboSat HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18625
+#EXTINF:-1 ,Max Prime HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18621
+#EXTINF:-1 ,Megapix HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18617
+#EXTINF:-1 ,MIAMI TV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/26430
+#EXTINF:-1 ,MTV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18615
+#EXTINF:-1 ,MTV Live HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18507
+#EXTINF:-1 ,Multishow HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18613
+#EXTINF:-1 ,Music Box Brasil HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18611
+#EXTINF:-1 ,NatGeo Kids HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18607
+#EXTINF:-1 ,NatGeo Wild HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18606
+#EXTINF:-1 ,National Geographic HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/56282
+#EXTINF:-1 ,NHK WORLD HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/26435
+#EXTINF:-1 ,Nick Jr HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18602
+#EXTINF:-1 ,Nickelodeon HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18600
+#EXTINF:-1 ,OFF HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18598
+#EXTINF:-1 ,Paramount Channel HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18596
+#EXTINF:-1 ,Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18594
+#EXTINF:-1 ,Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18592
+#EXTINF:-1 ,Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18590
+#EXTINF:-1 ,Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18588
+#EXTINF:-1 ,Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18586
+#EXTINF:-1 ,Premiere 7 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18584
+#EXTINF:-1 ,Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18582
+#EXTINF:-1 ,Record News HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18577
+#EXTINF:-1 ,RecordTV BA Cabralia  HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18496
+#EXTINF:-1 ,RecordTV BA Salvador HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/50772
+#EXTINF:-1 ,RecordTV Campinas HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/52425
+#EXTINF:-1 ,RecordTV DF HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18494
+#EXTINF:-1 ,RecordTV Goiânia HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/56283
+#EXTINF:-1 ,RecordTV Interior BA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/49626
+#EXTINF:-1 ,RecordTV MG HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18501
+#EXTINF:-1 ,RecordTV PR HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/22471
+#EXTINF:-1 ,RecordTV Rio HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18503
+#EXTINF:-1 ,RecordTV RS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18492
+#EXTINF:-1 ,RecordTV Sao Jose Rio Preto HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/29021
+#EXTINF:-1 ,RecordTV Sergipe HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/22474
+#EXTINF:-1 ,RecordTV SP HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18575
+#EXTINF:-1 ,RecordTV VITORIA ES HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/45159
+#EXTINF:-1 ,Rede Minas HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/56287
+#EXTINF:-1 ,Rede Vida HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18504
+#EXTINF:-1 ,RedeTV! HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18572
+#EXTINF:-1 ,SBT (PE) Caruaru HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/48702
+#EXTINF:-1 ,SBT Goiânia (Serra Dourada) HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/56285
+#EXTINF:-1 ,SBT HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18569
+#EXTINF:-1 ,SBT RJ HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/22458
+#EXTINF:-1 ,SBT RS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/56295
+#EXTINF:-1 ,SBT SP HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/49620
+#EXTINF:-1 ,SBT TV Cidade Verde Piaui HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/54605
+#EXTINF:-1 ,Shop Time HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/28404
+#EXTINF:-1 ,Smithsonian HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/56286
+#EXTINF:-1 ,Sony HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18714
+#EXTINF:-1 ,Space HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18564
+#EXTINF:-1 ,SporTV 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18561
+#EXTINF:-1 ,SporTV 3 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18559
+#EXTINF:-1 ,SporTV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18558
+#EXTINF:-1 ,Studio Universal HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18556
+#EXTINF:-1 ,Syfy HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18566
+#EXTINF:-1 ,TBS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18554
+#EXTINF:-1 ,Telecine Action HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18551
+#EXTINF:-1 ,Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18549
+#EXTINF:-1 ,Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18547
+#EXTINF:-1 ,Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18545
+#EXTINF:-1 ,Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18543
+#EXTINF:-1 ,Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18541
+#EXTINF:-1 ,TLC HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18538
+#EXTINF:-1 ,TNT HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18536
+#EXTINF:-1 ,TNT Series HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18534
+#EXTINF:-1 ,Tooncast HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/49376
+#EXTINF:-1 ,TV Anhanguera HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/28062
+#EXTINF:-1 ,TV Aparecida HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/49259
+#EXTINF:-1 ,Tv Aperiper HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/22473
+#EXTINF:-1 ,Tv Aratu SBT Bahia HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/28059
+#EXTINF:-1 ,TV Cultura HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18505
+#EXTINF:-1 ,TV Gazeta SP HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18526
+#EXTINF:-1 ,TV Nova Era HD [Temporario]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/50812
+#EXTINF:-1 ,TV Novo Tempo HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/48646
+#EXTINF:-1 ,TV Ra-Tim-Bum HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18524
+#EXTINF:-1 ,Universal Channel HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18520
+#EXTINF:-1 ,VH1 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18518
+#EXTINF:-1 ,Viva HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18515
+#EXTINF:-1 ,Warner Channel HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/18513
+#EXTINF:-1 ,Woohoo HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/cbzAmdwn1HHCcJ/6353756156/49631

@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Premier Mosaico FHD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/59174
 #EXTINF:-1 ,A&E HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18738
 #EXTINF:-1 ,AMC HD
@@ -81,6 +79,8 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18689
 #EXTINF:-1 ,Discovery World HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18687
+#EXTINF:-1 ,Disney Channel HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/57420
 #EXTINF:-1 ,Disney HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18685
 #EXTINF:-1 ,Disney Junior HD
@@ -89,6 +89,8 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/49285
 #EXTINF:-1 ,Dog TV HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28000
+#EXTINF:-1 ,DW ALEMANHA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/26429
 #EXTINF:-1 ,E! HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18681
 #EXTINF:-1 ,EI Plus 1 HD
@@ -121,6 +123,8 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18659
 #EXTINF:-1 ,FX HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18653
+#EXTINF:-1 ,Globo Bahia Salvador HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/61616
 #EXTINF:-1 ,Globo Brasilia HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18434
 #EXTINF:-1 ,GLOBO EPTV CAMPINAS HD
@@ -225,6 +229,8 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18621
 #EXTINF:-1 ,Megapix HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18617
+#EXTINF:-1 ,MIAMI TV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/26430
 #EXTINF:-1 ,MTV HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18615
 #EXTINF:-1 ,MTV Live HD
@@ -239,6 +245,8 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18606
 #EXTINF:-1 ,National Geographic HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/56282
+#EXTINF:-1 ,NHK WORLD HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/26435
 #EXTINF:-1 ,Nick Jr HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18602
 #EXTINF:-1 ,Nickelodeon HD
@@ -261,8 +269,6 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18584
 #EXTINF:-1 ,Premiere Clubes HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18582
-#EXTINF:-1 ,PROFIT RO HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/28040
 #EXTINF:-1 ,Record News HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18577
 #EXTINF:-1 ,RecordTV BA Cabralia  HD

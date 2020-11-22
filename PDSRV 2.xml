@@ -10,8 +10,6 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 #EXTINF:-1 ,AMC HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/7691
 #EXTINF:-1 ,AMC HD²
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/20890
-#EXTINF:-1 ,AMC HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/60933
 #EXTINF:-1 ,ANIMAL PLANET HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/6142
@@ -49,22 +47,16 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/24924
 #EXTINF:-1 ,BANDA CAMPINAS HD ²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/60866
-#EXTINF:-1 ,BANDA HD DUAL²
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/62829
 #EXTINF:-1 ,BANDA HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/60862
 #EXTINF:-1 ,BANDA SP HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/60865
-#EXTINF:-1 ,BIS HD DUAL²
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/62838
 #EXTINF:-1 ,BIS HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/6881
 #EXTINF:-1 ,BIS HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61159
 #EXTINF:-1 ,BOOMERANG HD ²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61102
-#EXTINF:-1 ,BOOMERANG HD DUAL²
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/62840
 #EXTINF:-1 ,CANAL BRASIL HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61412
 #EXTINF:-1 ,CANAL FUTURA HD¹
@@ -79,7 +71,7 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61104
 #EXTINF:-1 ,Cine Sky¹ 2 HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/59967
-#EXTINF:-1 ,Cine Sky³  1 HD
+#EXTINF:-1 ,Cine Sky³ 1 HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/59966
 #EXTINF:-1 ,Cine Sky³ 3 HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/59968
@@ -107,9 +99,21 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61106
 #EXTINF:-1 ,COMEDY CENTRAL HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/10292
+#EXTINF:-1,CONMEBOL 1¹
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/68348
+#EXTINF:-1,CONMEBOL 1²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/68350
+#EXTINF:-1,CONMEBOL 2¹
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/68349
+#EXTINF:-1,CONMEBOL 2²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/68351
+#EXTINF:-1,CONMEBOL 3²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/68352
+#EXTINF:-1,MOSAICO CONMEBOL
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/68353
 #EXTINF:-1 ,Curta! HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61192
-#EXTINF:-1 ,DAZN HD ¹ 1
+#EXTINF:-1 ,DAZN HD¹ 1
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/30422
 #EXTINF:-1 ,DAZN HD¹ 2
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/33638
@@ -133,8 +137,6 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61087
 #EXTINF:-1 ,DISCOVERY SCIENCE HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/7861
-#EXTINF:-1 ,DISCOVERY THEATER HD (LEGENDADO)
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/47748
 #EXTINF:-1 ,DISCOVERY THEATER HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/6130
 #EXTINF:-1 ,DISCOVERY THEATER HD²
@@ -189,7 +191,7 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/6127
 #EXTINF:-1 ,FILM & ARTS HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/60963
-#EXTINF:-1 ,Fonte TV GO HD
+#EXTINF:-1 ,Fonte TV GO HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/60921
 #EXTINF:-1 ,FOOD NETWORK HD ²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61163
@@ -221,6 +223,8 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/6118
 #EXTINF:-1 ,FOX SPORTS HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/63139
+#EXTINF:-1 ,FUTEBOL HD¹
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/70391
 #EXTINF:-1 ,FX HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/6116
 #EXTINF:-1 ,FX HD²
@@ -287,8 +291,6 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/60837
 #EXTINF:-1 ,Globo RPC TV HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/60840
-#EXTINF:-1 ,GLOBO SALVADOR HD³
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/68208
 #EXTINF:-1 ,GLOBO SP HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/7529
 #EXTINF:-1 ,GLOBO SP HD²
@@ -371,8 +373,6 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/6104
 #EXTINF:-1 ,ID - INVESTIGACAO DISCOVERY HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/6869
-#EXTINF:-1 ,ID DISCOVERY HD¹ DUAL
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61236
 #EXTINF:-1 ,InterTv Cabo Frio  HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/34531
 #EXTINF:-1 ,LIFETIME HD¹
@@ -429,50 +429,34 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/60992
 #EXTINF:-1 ,PLAY KIDS HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/32164
-#EXTINF:-1 ,PREMIERE 2 HD DUAL²
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/62436
 #EXTINF:-1 ,PREMIERE 2 HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/6093
 #EXTINF:-1 ,PREMIERE 2 HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61047
 #EXTINF:-1 ,PREMIERE 3 HD ²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61049
-#EXTINF:-1 ,PREMIERE 3 HD DUAL²
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/62440
 #EXTINF:-1 ,PREMIERE 3 HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/6092
 #EXTINF:-1 ,PREMIERE 4 HD ²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61051
-#EXTINF:-1 ,PREMIERE 4 HD DUAL²
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/62619
 #EXTINF:-1 ,PREMIERE 4 HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/6091
 #EXTINF:-1 ,PREMIERE 5 HD ²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61053
-#EXTINF:-1 ,PREMIERE 5 HD DUAL²
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/62819
 #EXTINF:-1 ,PREMIERE 5 HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/6090
 #EXTINF:-1 ,PREMIERE 6 HD ²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61055
-#EXTINF:-1 ,PREMIERE 6 HD DUAL²
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/62822
 #EXTINF:-1 ,PREMIERE 6 HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/10259
 #EXTINF:-1 ,PREMIERE 7 HD ²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61057
-#EXTINF:-1 ,PREMIERE 7 HD DUAL²
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/62824
 #EXTINF:-1 ,PREMIERE 7 HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/10258
 #EXTINF:-1 ,PREMIERE CLUBES  HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/6089
-#EXTINF:-1 ,PREMIERE CLUBES HD DUAL²
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/62414
 #EXTINF:-1 ,PREMIERE CLUBES HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61045
-#EXTINF:-1 ,PRIME BOX BRAZIL HD DUAL²
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/62827
 #EXTINF:-1 ,PRIME BOX BRAZIL HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/62826
 #EXTINF:-1 ,RAI INTERNACIONAL HD¹
@@ -487,7 +471,7 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/62397
 #EXTINF:-1 ,RECORD CAMPINAS HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/33277
-#EXTINF:-1 ,RECORD DF HD
+#EXTINF:-1 ,RECORD DF HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/60870
 #EXTINF:-1 ,RECORD HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/7836
@@ -515,10 +499,10 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61320
 #EXTINF:-1 ,RECORD RJ HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/60875
-#EXTINF:-1 ,RECORD RS HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/60903
 #EXTINF:-1 ,RECORD RS HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/25017
+#EXTINF:-1 ,RECORD RS HD²
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/60903
 #EXTINF:-1 ,RECORD RS HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/62400
 #EXTINF:-1 ,RECORD SANTA CATARINA HD¹
@@ -531,7 +515,7 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/24751
 #EXTINF:-1 ,RECORD TV BELEM HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/30426
-#EXTINF:-1 ,RECORD TV GO HD
+#EXTINF:-1 ,RECORD TV GO HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/60902
 #EXTINF:-1 ,RECORD TV GOIANIA HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/30708
@@ -573,8 +557,6 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/60994
 #EXTINF:-1 ,SPACE HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/6085
-#EXTINF:-1 ,SPACE HD³
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/60996
 #EXTINF:-1 ,SPORTV 2 HD ²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61062
 #EXTINF:-1 ,SPORTV 2 HD¹
@@ -591,8 +573,6 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/7874
 #EXTINF:-1 ,STUDIO UNIVERSAL HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/60998
-#EXTINF:-1 ,SYFY HD (LEGENDADO)
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/47758
 #EXTINF:-1 ,SYFY HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/7795
 #EXTINF:-1 ,SYFY HD²
@@ -709,17 +689,5 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61024
 #EXTINF:-1 ,WOOHOO HD¹
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61068
-#EXTINF:-1 ,XXX PRIVATE  HD¹
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/35614
-#EXTINF:-1 ,XXX: SEXTREME HD ²
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61344
-#EXTINF:-1 ,XXX: VENUS HD ²
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61347
-#EXTINF:-1 ,XXX:SEXY HOT HD ²
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61366
-#EXTINF:-1 ,ZOOMO HD³
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/47764
-#EXTINF:-1 ,ZOOMOO  HD DUAL²
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61253
 #EXTINF:-1 ,ZOOMOO HD ²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/Billyboy/Billyboy/61133
