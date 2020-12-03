@@ -43,13 +43,25 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18707
 #EXTINF:-1 ,Comedy Central HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/18705
-#EXTINF:-1 ,CONMEBOL 1 HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/54613
-#EXTINF:-1 ,CONMEBOL 2 HD
+#EXTINF:-1,CONMEBOL 1 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/54611
+#EXTINF:-1,CONMEBOL 1 SD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/54607
+#EXTINF:-1,CONMEBOL 2 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/54612
+#EXTINF:-1,CONMEBOL 2 HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/54614
-#EXTINF:-1 ,CONMEBOL 3 HD
+#EXTINF:-1,CONMEBOL 2 SD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/54608
+#EXTINF:-1,CONMEBOL 3 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/56293
+#EXTINF:-1,CONMEBOL 3 HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/56290
-#EXTINF:-1 ,CONMEBOL 4 HD
+#EXTINF:-1,CONMEBOL 3 SD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/54609
+#EXTINF:-1,CONMEBOL 4 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/56292
+#EXTINF:-1,CONMEBOL 4 HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/56291
 #EXTINF:-1,DAZN 01
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://psrv.io:80/kdvn8f2BDtF9A/4396055543/54586
