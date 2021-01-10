@@ -1,0 +1,355 @@
+#EXTM3U
+#EXTINF:-1, A&E
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/113
+#EXTINF:-1, AMC
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/223
+#EXTINF:-1, ANIMAL PLANET
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/114
+#EXTINF:-1, ARTE 1
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/115
+#EXTINF:-1, AXN
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/116
+#EXTINF:-1, BABY TV
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/117
+#EXTINF:-1, BAND
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/224
+#EXTINF:-1, BAND NEWS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/118
+#EXTINF:-1, BAND SPORTS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/119
+#EXTINF:-1, BIS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/120
+#EXTINF:-1, BOOMERANG
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/121
+#EXTINF:-1, BRASILEIRINHAS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/61
+#EXTINF:-1, CANAL BRASIL
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/122
+#EXTINF:-1, CANAL SONY
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/123
+#EXTINF:-1, CANÇÃO NOVA
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/65
+#EXTINF:-1, CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/124
+#EXTINF:-1, CINE SKY 01
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/48
+#EXTINF:-1, CINE SKY 02
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/49
+#EXTINF:-1, CINE SKY 03
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/50
+#EXTINF:-1, CINE SKY 04
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/51
+#EXTINF:-1, CINE SKY 05
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/52
+#EXTINF:-1, CINE SKY 06
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/53
+#EXTINF:-1, CINE SKY 07
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/54
+#EXTINF:-1, CINE SKY 08
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/55
+#EXTINF:-1, CINE SKY 09
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/56
+#EXTINF:-1, CINE SKY 10
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/57
+#EXTINF:-1, CINEMAX
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/125
+#EXTINF:-1, CNN BRASIL
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/225
+#EXTINF:-1, COMBATE
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/126
+#EXTINF:-1, COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/127
+#EXTINF:-1, CULTURA
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/128
+#EXTINF:-1, CURTA
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/129
+#EXTINF:-1, DAZN
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/226
+#EXTINF:-1, DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/130
+#EXTINF:-1, DISCOVERY HOME & HEALTH
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/131
+#EXTINF:-1, DISCOVERY ID
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/132
+#EXTINF:-1, DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/133
+#EXTINF:-1, DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/134
+#EXTINF:-1, DISCOVERY THEATER
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/135
+#EXTINF:-1, DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/136
+#EXTINF:-1, DISCOVERY WORLD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/137
+#EXTINF:-1, DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/138
+#EXTINF:-1, DISNEY JR
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/139
+#EXTINF:-1, DISNEY XD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/140
+#EXTINF:-1, E!
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/141
+#EXTINF:-1, ESPN
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/142
+#EXTINF:-1, ESPN 2
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/143
+#EXTINF:-1, ,ESPN BRASIL
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/144
+#EXTINF:-1, ESPN EXTRA
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/145
+#EXTINF:-1, FASHION-CE-HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/82
+#EXTINF:-1, FILMS & ARTS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/227
+#EXTINF:-1, FISH TV
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/146
+#EXTINF:-1, FOOD NETWORK
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/147
+#EXTINF:-1, FOX
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/148
+#EXTINF:-1, FOX LIFE
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/149
+#EXTINF:-1, FOX PREMIUM 1
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/150
+#EXTINF:-1, FOX PREMIUM 2
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/151
+#EXTINF:-1, FOX SPORTS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/152
+#EXTINF:-1, FOX SPORTS 2
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/153
+#EXTINF:-1, FUTURA
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/228
+#EXTINF:-1, FX
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/229
+#EXTINF:-1, GAZETA
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/230
+#EXTINF:-1, GLOBO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/231
+#EXTINF:-1, GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/3
+#EXTINF:-1, GLOBO CEARA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/4
+#EXTINF:-1, GLOBO FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/5
+#EXTINF:-1, GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/6
+#EXTINF:-1, GLOBO NATAL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/7
+#EXTINF:-1, GLOBO NEWS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/232
+#EXTINF:-1, GLOBO REDE AMAZÔNICA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/11
+#EXTINF:-1, GLOBO RIO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/13
+#EXTINF:-1, GLOBO RPC CURITIBA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/14
+#EXTINF:-1, GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/15
+#EXTINF:-1, GLOBO TV ANHANGUERA GOIANIA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/16
+#EXTINF:-1, GLOBO TV BAHIA HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/17
+#EXTINF:-1, GLOBO TV LIBERAL BELEM HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/18
+#EXTINF:-1, 
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/19
+#EXTINF:-1, GLOOB
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/154
+#EXTINF:-1, GLOOBINHO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/215
+#EXTINF:-1, GNT
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/155
+#EXTINF:-1, HBO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/156
+#EXTINF:-1, HBO 2
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/157
+#EXTINF:-1, HBO FAMILY
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/158
+#EXTINF:-1, HBO MUNDI
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/159
+#EXTINF:-1, HBO PLUS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/160
+#EXTINF:-1, HBO POP
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/161
+#EXTINF:-1, HBO SIGNATURE
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/162
+#EXTINF:-1, HBO XTREME
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/163
+#EXTINF:-1, HGTV
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/164
+#EXTINF:-1, HISTORY
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/165
+#EXTINF:-1, HISTORY 2
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/166
+#EXTINF:-1, IDEAL TV
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/64
+#EXTINF:-1, LIFE TIME
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/167
+#EXTINF:-1, LIKE
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/233
+#EXTINF:-1, MAIS GLOBOSAT
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/235
+#EXTINF:-1, MEGAPIX
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/168
+#EXTINF:-1, MTV
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/169
+#EXTINF:-1, MTV LIVE
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/236
+#EXTINF:-1, MULTISHOW
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/170
+#EXTINF:-1, MUSIC BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/171
+#EXTINF:-1, NAT GEO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/172
+#EXTINF:-1, NAT GEO KIDS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/173
+#EXTINF:-1, NAT GEO WILD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/174
+#EXTINF:-1, NICK
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/175
+#EXTINF:-1, NICK JR
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/176
+#EXTINF:-1, OFF
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/177
+#EXTINF:-1, PARAMOUNT
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/178
+#EXTINF:-1, PLAY KIDS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/216
+#EXTINF:-1, PREMIERE 2
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/179
+#EXTINF:-1, PREMIERE 3
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/180
+#EXTINF:-1, PREMIERE 4
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/181
+#EXTINF:-1, PREMIERE 5
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/182
+#EXTINF:-1, PREMIERE 6
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/183
+#EXTINF:-1, PREMIERE 7
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/237
+#EXTINF:-1, PREMIERE CLUBES
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/184
+#EXTINF:-1, PRIME BOX BRAZIL
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/185
+#EXTINF:-1, RECORD BAHIA
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/23
+#EXTINF:-1, RECORD BRASILIA
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/25
+#EXTINF:-1, RECORD GOIAS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/26
+#EXTINF:-1, RECORD MANAUS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/22
+#EXTINF:-1, RECORD MG
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/32
+#EXTINF:-1, RECORD MINAS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/27
+#EXTINF:-1, RECORD NEWS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/28
+#EXTINF:-1, RECORD PARA
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/30
+#EXTINF:-1, RECORD RIO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/31
+#EXTINF:-1, RECORD SP
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/33
+#EXTINF:-1, REDE TV
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/69
+#EXTINF:-1, REDE VIDA
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/218
+#EXTINF:-1, SBT
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/238
+#EXTINF:-1, SEX HOT
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/58
+#EXTINF:-1, SEX PRIVE
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/59
+#EXTINF:-1, SMITHSONIAN
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/239
+#EXTINF:-1, SPACE
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/187
+#EXTINF:-1, SPORTV
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/188
+#EXTINF:-1, SPORTV 2
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/189
+#EXTINF:-1, SPORTV 3
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/190
+#EXTINF:-1, STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/191
+#EXTINF:-1, SYFY
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/192
+#EXTINF:-1, TBS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/193
+#EXTINF:-1, TELECINE ACTION
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/194
+#EXTINF:-1, TELECINE CULT
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/195
+#EXTINF:-1, TELECINE FUN
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/196
+#EXTINF:-1, TELECINE PIPOCA
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/197
+#EXTINF:-1, TELECINE PREMIUM
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/198
+#EXTINF:-1, TELECINE TOUCH
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/199
+#EXTINF:-1, TLC
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/200
+#EXTINF:-1, TNT
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/201
+#EXTINF:-1, TNT SERIES
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/202
+#EXTINF:-1, TOONCAST
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/203
+#EXTINF:-1, TRANNY
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/60
+#EXTINF:-1, TRAVELBOX
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/240
+#EXTINF:-1, TV ALEPE
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/72
+#EXTINF:-1, TV BRASIL
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/241
+#EXTINF:-1, TV CIDADE-CARIRI CE
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/94
+#EXTINF:-1, TV CLUBE
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/73
+#EXTINF:-1, TV CULTURA
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/74
+#EXTINF:-1, TV DIARIO-CARIRI CE
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/95
+#EXTINF:-1, TV EVANGELIZAR
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/91
+#EXTINF:-1, TV FAMILIA
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/68
+#EXTINF:-1, TV GLOBO NE
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/75
+#EXTINF:-1, TV JORNAL
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/76
+#EXTINF:-1, TV NOVA NORDESTE
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/62
+#EXTINF:-1, TV NOVO TEMPO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/242
+#EXTINF:-1, TV PAI ETERNO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/103
+#EXTINF:-1, TV RA TIM BUM
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/204
+#EXTINF:-1, TV TRIBUNA
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/77
+#EXTINF:-1, TV UNIVERSITARIA
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/78
+#EXTINF:-1, TV-A-CRITICA-CE-HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/87
+#EXTINF:-1, TV-JANGADEIRO-CE-HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/90
+#EXTINF:-1, TVM -CE-HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/93
+#EXTINF:-1, TV-UNIAO-CE-HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/92
+#EXTINF:-1, UNIVERSAL TV
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/205
+#EXTINF:-1, VH1
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/206
+#EXTINF:-1, VIVA
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/207
+#EXTINF:-1, WARNER CHANNEL
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/208
+#EXTINF:-1, WOOHOO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/243
+#EXTINF:-1, ZOOMOO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/244
