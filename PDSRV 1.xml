@@ -4,7 +4,7 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 #EXTINF:-1 ,A FAZENDA 12 HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/eliel2020/eliel2020/68167
 #EXTINF:-1 ,A&E HD¹
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=SIMPLE&amp;url=http://pdsrv.io:80/eliel2020/eliel2020/8139
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/eliel2020/eliel2020/8139
 #EXTINF:-1 ,A&E HD²
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pdsrv.io:80/eliel2020/eliel2020/60935
 #EXTINF:-1 ,AMC HD¹
