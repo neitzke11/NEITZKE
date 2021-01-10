@@ -1,5 +1,16 @@
 <channels>
 <channel>
+<name>TESTE[COLOR springgreen][B]  1[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/f4mtester02/e58750f896403a0af6bddf86660b163de0748f4b/README.md</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
 <name>CANAIS SERVIDOR[COLOR springgreen][B] PSRV 1[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/neitzke11/NEITZKE/raw/master/PSRV%201.xml</externallink>
