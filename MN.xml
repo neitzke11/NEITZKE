@@ -10,6 +10,16 @@
 
 <channels>
 <channel>
+<name>CANAIS SERVIDOR[COLOR springgreen][B] TV FOGOHD[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/tv-fogohd/Menu/master/Rc</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>CANAIS SERVIDOR[COLOR springgreen][B] REC2.DISTV.NET 1[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/neitzke11/NEITZKE/raw/master/REC2%201.xml</externallink>
