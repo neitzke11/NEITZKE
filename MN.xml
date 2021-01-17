@@ -10,7 +10,7 @@
 
 <channels>
 <channel>
-<name>CANAIS SERVIDOR[COLOR yellow][B] PFSV.IO[/B][/COLOR]</name>
+<name>CANAIS SERVIDOR[COLOR yellow][B] PFSV.IO 1[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/neitzke11/NEITZKE/raw/master/PFSV1.xml</externallink>
 <fanart></fanart>
@@ -20,9 +20,9 @@
 
 <channels>
 <channel>
-<name>CANAIS SERVIDOR[COLOR springgreen][B] REC2.DISTV.NET 2[/B][/COLOR]</name>
+<name>CANAIS SERVIDOR[COLOR yellow][B] PFSV.IO 2[/B][/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://github.com/neitzke11/NEITZKE/raw/master/REC2%202.xml</externallink>
+<externallink>https://github.com/neitzke11/NEITZKE/raw/master/PFSV2.xml</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>CANAIS SERVIDOR[COLOR springgreen][B] REC2.DISTV.NET 3[/B][/COLOR]</name>
+<name>CANAIS SERVIDOR[COLOR yellow][B] PFSV.IO 3[/B][/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://github.com/neitzke11/NEITZKE/raw/master/REC2%203.xml</externallink>
 <fanart></fanart>
