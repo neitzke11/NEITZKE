@@ -1,355 +1,515 @@
 #EXTM3U
-#EXTINF:-1, A&E
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/113
-#EXTINF:-1, AMC
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/223
-#EXTINF:-1, ANIMAL PLANET
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/114
-#EXTINF:-1, ARTE 1
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/115
-#EXTINF:-1, AXN
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/116
-#EXTINF:-1, BABY TV
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/117
-#EXTINF:-1, BAND
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/224
-#EXTINF:-1, BAND NEWS
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/118
-#EXTINF:-1, BAND SPORTS
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/119
-#EXTINF:-1, BIS
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/120
-#EXTINF:-1, BOOMERANG
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/121
-#EXTINF:-1, BRASILEIRINHAS
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/61
-#EXTINF:-1, CANAL BRASIL
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/122
-#EXTINF:-1, CANAL SONY
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/123
-#EXTINF:-1, CANÇÃO NOVA
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/65
-#EXTINF:-1, CARTOON NETWORK
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/124
-#EXTINF:-1, CINE SKY 01
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/48
-#EXTINF:-1, CINE SKY 02
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/49
-#EXTINF:-1, CINE SKY 03
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/50
-#EXTINF:-1, CINE SKY 04
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/51
-#EXTINF:-1, CINE SKY 05
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/52
-#EXTINF:-1, CINE SKY 06
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/53
-#EXTINF:-1, CINE SKY 07
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/54
-#EXTINF:-1, CINE SKY 08
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/55
-#EXTINF:-1, CINE SKY 09
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/56
-#EXTINF:-1, CINE SKY 10
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/57
-#EXTINF:-1, CINEMAX
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/125
-#EXTINF:-1, CNN BRASIL
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/225
-#EXTINF:-1, COMBATE
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/126
-#EXTINF:-1, COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/127
-#EXTINF:-1, CULTURA
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/128
-#EXTINF:-1, CURTA
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/129
-#EXTINF:-1, DAZN
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/226
-#EXTINF:-1, DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/130
-#EXTINF:-1, DISCOVERY HOME & HEALTH
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/131
-#EXTINF:-1, DISCOVERY ID
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/132
-#EXTINF:-1, DISCOVERY KIDS
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/133
-#EXTINF:-1, DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/134
-#EXTINF:-1, DISCOVERY THEATER
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/135
-#EXTINF:-1, DISCOVERY TURBO
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/136
-#EXTINF:-1, DISCOVERY WORLD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/137
-#EXTINF:-1, DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/138
-#EXTINF:-1, DISNEY JR
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/139
-#EXTINF:-1, DISNEY XD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/140
-#EXTINF:-1, E!
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/141
-#EXTINF:-1, ESPN
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/142
-#EXTINF:-1, ESPN 2
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/143
-#EXTINF:-1, ,ESPN BRASIL
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/144
-#EXTINF:-1, ESPN EXTRA
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/145
-#EXTINF:-1, FASHION-CE-HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/82
-#EXTINF:-1, FILMS & ARTS
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/227
-#EXTINF:-1, FISH TV
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/146
-#EXTINF:-1, FOOD NETWORK
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/147
-#EXTINF:-1, FOX
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/148
-#EXTINF:-1, FOX LIFE
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/149
-#EXTINF:-1, FOX PREMIUM 1
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/150
-#EXTINF:-1, FOX PREMIUM 2
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/151
-#EXTINF:-1, FOX SPORTS
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/152
-#EXTINF:-1, FOX SPORTS 2
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/153
-#EXTINF:-1, FUTURA
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/228
-#EXTINF:-1, FX
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/229
-#EXTINF:-1, GAZETA
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/230
-#EXTINF:-1, GLOBO
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/231
-#EXTINF:-1, GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/3
-#EXTINF:-1, GLOBO CEARA HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/4
-#EXTINF:-1, GLOBO FLORIANOPOLIS HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/5
-#EXTINF:-1, GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/6
-#EXTINF:-1, GLOBO NATAL HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/7
-#EXTINF:-1, GLOBO NEWS
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/232
-#EXTINF:-1, GLOBO REDE AMAZÔNICA HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/11
-#EXTINF:-1, GLOBO RIO HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/13
-#EXTINF:-1, GLOBO RPC CURITIBA HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/14
-#EXTINF:-1, GLOBO SP HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/15
-#EXTINF:-1, GLOBO TV ANHANGUERA GOIANIA HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/16
-#EXTINF:-1, GLOBO TV BAHIA HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/17
-#EXTINF:-1, GLOBO TV LIBERAL BELEM HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/18
-#EXTINF:-1, 
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/19
-#EXTINF:-1, GLOOB
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/154
-#EXTINF:-1, GLOOBINHO
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/215
-#EXTINF:-1, GNT
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/155
-#EXTINF:-1, HBO
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/156
-#EXTINF:-1, HBO 2
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/157
-#EXTINF:-1, HBO FAMILY
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/158
-#EXTINF:-1, HBO MUNDI
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/159
-#EXTINF:-1, HBO PLUS
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/160
-#EXTINF:-1, HBO POP
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/161
-#EXTINF:-1, HBO SIGNATURE
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/162
-#EXTINF:-1, HBO XTREME
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/163
-#EXTINF:-1, HGTV
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/164
-#EXTINF:-1, HISTORY
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/165
-#EXTINF:-1, HISTORY 2
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/166
-#EXTINF:-1, IDEAL TV
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/64
-#EXTINF:-1, LIFE TIME
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/167
-#EXTINF:-1, LIKE
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/233
-#EXTINF:-1, MAIS GLOBOSAT
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/235
-#EXTINF:-1, MEGAPIX
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/168
-#EXTINF:-1, MTV
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/169
-#EXTINF:-1, MTV LIVE
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/236
-#EXTINF:-1, MULTISHOW
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/170
-#EXTINF:-1, MUSIC BOX BRAZIL
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/171
-#EXTINF:-1, NAT GEO
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/172
-#EXTINF:-1, NAT GEO KIDS
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/173
-#EXTINF:-1, NAT GEO WILD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/174
-#EXTINF:-1, NICK
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/175
-#EXTINF:-1, NICK JR
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/176
-#EXTINF:-1, OFF
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/177
-#EXTINF:-1, PARAMOUNT
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/178
-#EXTINF:-1, PLAY KIDS
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/216
-#EXTINF:-1, PREMIERE 2
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/179
-#EXTINF:-1, PREMIERE 3
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/180
-#EXTINF:-1, PREMIERE 4
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/181
-#EXTINF:-1, PREMIERE 5
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/182
-#EXTINF:-1, PREMIERE 6
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/183
-#EXTINF:-1, PREMIERE 7
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/237
-#EXTINF:-1, PREMIERE CLUBES
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/184
-#EXTINF:-1, PRIME BOX BRAZIL
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/185
-#EXTINF:-1, RECORD BAHIA
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/23
-#EXTINF:-1, RECORD BRASILIA
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/25
-#EXTINF:-1, RECORD GOIAS
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/26
-#EXTINF:-1, RECORD MANAUS
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/22
-#EXTINF:-1, RECORD MG
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/32
-#EXTINF:-1, RECORD MINAS
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/27
-#EXTINF:-1, RECORD NEWS
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/28
-#EXTINF:-1, RECORD PARA
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/30
-#EXTINF:-1, RECORD RIO
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/31
-#EXTINF:-1, RECORD SP
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/33
-#EXTINF:-1, REDE TV
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/69
-#EXTINF:-1, REDE VIDA
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/218
-#EXTINF:-1, SBT
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/238
-#EXTINF:-1, SEX HOT
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/58
-#EXTINF:-1, SEX PRIVE
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/59
-#EXTINF:-1, SMITHSONIAN
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/239
-#EXTINF:-1, SPACE
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/187
-#EXTINF:-1, SPORTV
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/188
-#EXTINF:-1, SPORTV 2
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/189
-#EXTINF:-1, SPORTV 3
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/190
-#EXTINF:-1, STUDIO UNIVERSAL
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/191
-#EXTINF:-1, SYFY
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/192
-#EXTINF:-1, TBS
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/193
-#EXTINF:-1, TELECINE ACTION
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/194
-#EXTINF:-1, TELECINE CULT
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/195
-#EXTINF:-1, TELECINE FUN
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/196
-#EXTINF:-1, TELECINE PIPOCA
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/197
-#EXTINF:-1, TELECINE PREMIUM
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/198
-#EXTINF:-1, TELECINE TOUCH
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/199
-#EXTINF:-1, TLC
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/200
-#EXTINF:-1, TNT
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/201
-#EXTINF:-1, TNT SERIES
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/202
-#EXTINF:-1, TOONCAST
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/203
-#EXTINF:-1, TRANNY
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/60
-#EXTINF:-1, TRAVELBOX
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/240
-#EXTINF:-1, TV ALEPE
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/72
-#EXTINF:-1, TV BRASIL
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/241
-#EXTINF:-1, TV CIDADE-CARIRI CE
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/94
-#EXTINF:-1, TV CLUBE
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/73
-#EXTINF:-1, TV CULTURA
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/74
-#EXTINF:-1, TV DIARIO-CARIRI CE
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/95
-#EXTINF:-1, TV EVANGELIZAR
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/91
-#EXTINF:-1, TV FAMILIA
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/68
-#EXTINF:-1, TV GLOBO NE
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/75
-#EXTINF:-1, TV JORNAL
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/76
-#EXTINF:-1, TV NOVA NORDESTE
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/62
-#EXTINF:-1, TV NOVO TEMPO
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/242
-#EXTINF:-1, TV PAI ETERNO
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/103
-#EXTINF:-1, TV RA TIM BUM
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/204
-#EXTINF:-1, TV TRIBUNA
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/77
-#EXTINF:-1, TV UNIVERSITARIA
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/78
-#EXTINF:-1, TV-A-CRITICA-CE-HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/87
-#EXTINF:-1, TV-JANGADEIRO-CE-HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/90
-#EXTINF:-1, TVM -CE-HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/93
-#EXTINF:-1, TV-UNIAO-CE-HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/92
-#EXTINF:-1, UNIVERSAL TV
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/205
-#EXTINF:-1, VH1
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/206
-#EXTINF:-1, VIVA
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/207
-#EXTINF:-1, WARNER CHANNEL
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/208
-#EXTINF:-1, WOOHOO
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/243
-#EXTINF:-1, ZOOMOO
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://rec2.distv.net:80/abraao/123456/244
+#EXTINF:-1,A&E FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/293
+#EXTINF:-1,A&E FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30227
+#EXTINF:-1,AMC FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/294
+#EXTINF:-1,AMC FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30228
+#EXTINF:-1,Animal Planet FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/164
+#EXTINF:-1,Animal Planet FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30248
+#EXTINF:-1,Arte 1 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/165
+#EXTINF:-1,Arte 1 FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30249
+#EXTINF:-1,AXN FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/295
+#EXTINF:-1,AXN FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30206
+#EXTINF:-1,AXN FHD[LEG]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/49101
+#EXTINF:-1,BAND FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30181
+#EXTINF:-1,Band News FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/510
+#EXTINF:-1,Band News FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30195
+#EXTINF:-1,Band SP FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/44
+#EXTINF:-1,Band Sport FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/247
+#EXTINF:-1,Band Sports FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30275
+#EXTINF:-1,BIS  FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30177
+#EXTINF:-1,BIS FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/5
+#EXTINF:-1,Boa Vontade FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/546
+#EXTINF:-1,Boa Vontade FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30295
+#EXTINF:-1,BooMerang FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/125
+#EXTINF:-1,Boomerang FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30267
+#EXTINF:-1,Canal Brasil FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/298
+#EXTINF:-1,Canal Brasil FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30233
+#EXTINF:-1,Canal do Boi FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/50877
+#EXTINF:-1,Cancao Nova FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/49112
+#EXTINF:-1,Cartoon Network FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/126
+#EXTINF:-1,Cartoon Network FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30268
+#EXTINF:-1,CINE SKY 01 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/50858
+#EXTINF:-1,CINE SKY 06 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/50862
+#EXTINF:-1,CINE SKY 20 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/50859
+#EXTINF:-1,CINE SKY 21 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/50860
+#EXTINF:-1,CineMax FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/275
+#EXTINF:-1,CineMax FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30215
+#EXTINF:-1,CNN Brasil FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/513
+#EXTINF:-1,CNN Brasil FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30198
+#EXTINF:-1,Combate FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/249
+#EXTINF:-1,Combate FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30276
+#EXTINF:-1,Comedy Central FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/97
+#EXTINF:-1,Comedy Central FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30191
+#EXTINF:-1,Conmebol 01 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/49102
+#EXTINF:-1,Conmebol 02 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/49103
+#EXTINF:-1,Conmebol 03 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/49104
+#EXTINF:-1,Conmebol 04 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/49105
+#EXTINF:-1,Curta! FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/98
+#EXTINF:-1,Curta! FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30192
+#EXTINF:-1,Discovery Channel FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/166
+#EXTINF:-1,Discovery Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30260
+#EXTINF:-1,Discovery Home & Health FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/168
+#EXTINF:-1,Discovery Home&Health FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30254
+#EXTINF:-1,Discovery Kids FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/127
+#EXTINF:-1,Discovery Science FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/169
+#EXTINF:-1,Discovery Science FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30255
+#EXTINF:-1,Discovery Theater FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/170
+#EXTINF:-1,Discovery Theater FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30256
+#EXTINF:-1,Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/171
+#EXTINF:-1,Discovery Turbo FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30257
+#EXTINF:-1,Discovery World FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/172
+#EXTINF:-1,Discovery World FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30258
+#EXTINF:-1,Disney Channel FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/135
+#EXTINF:-1,Disney Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30270
+#EXTINF:-1,Disney Jr FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/134
+#EXTINF:-1,Disney Jr FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30271
+#EXTINF:-1,Disney XD FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/49126
+#EXTINF:-1,Disney XD FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30273
+#EXTINF:-1,Dog TV FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/32426
+#EXTINF:-1,E! FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/99
+#EXTINF:-1,E! FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30186
+#EXTINF:-1,ESPN 2 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/254
+#EXTINF:-1,ESPN 2 FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30277
+#EXTINF:-1,ESPN Brasil FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/250
+#EXTINF:-1,ESPN Brasil FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30280
+#EXTINF:-1,ESPN Extra FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/248
+#EXTINF:-1,ESPN Extra FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30278
+#EXTINF:-1,ESPN FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/251
+#EXTINF:-1,ESPN FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30281
+#EXTINF:-1,FashionTV FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/38526
+#EXTINF:-1,FashionTV FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30184
+#EXTINF:-1,Fish Tv FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/100
+#EXTINF:-1,Fish Tv FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30185
+#EXTINF:-1,Food Network FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/101
+#EXTINF:-1,Food Network FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30193
+#EXTINF:-1,Fox FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/292
+#EXTINF:-1,Fox FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30207
+#EXTINF:-1,Fox Life FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/276
+#EXTINF:-1,Fox Life FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30208
+#EXTINF:-1,Fox Premium 1 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/277
+#EXTINF:-1,Fox Premium 1 FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30209
+#EXTINF:-1,Fox Premium 2 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/278
+#EXTINF:-1,Fox Premium 2 FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30210
+#EXTINF:-1,Fox Sport 2 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/252
+#EXTINF:-1,Fox Sports 2 FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30282
+#EXTINF:-1,Fox Sports FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/255
+#EXTINF:-1,Fox Sports FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30283
+#EXTINF:-1,Futura  FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30182
+#EXTINF:-1,Futura FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/43
+#EXTINF:-1,FX FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/279
+#EXTINF:-1,FX FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30211
+#EXTINF:-1,Globo News FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/512
+#EXTINF:-1,Globo News FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30196
+#EXTINF:-1,Globo Porto Alegre FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30202
+#EXTINF:-1,Globo RBS Porto Alegre FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/365
+#EXTINF:-1,Globo RBS Tv Pelotas FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/379
+#EXTINF:-1,Globo RBS TV Santa Maria FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/43855
+#EXTINF:-1,Globo SP FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/354
+#EXTINF:-1,Globo SP FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30205
+#EXTINF:-1,Gloob FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/136
+#EXTINF:-1,Gloob FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30266
+#EXTINF:-1,Gloobinho FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/128
+#EXTINF:-1,Gloobinho FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30274
+#EXTINF:-1,GNT FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/102
+#EXTINF:-1,GNT FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30187
+#EXTINF:-1,HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/470
+#EXTINF:-1,HBO 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30234
+#EXTINF:-1,HBO Family FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/464
+#EXTINF:-1,HBO Family FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30235
+#EXTINF:-1,HBO FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/471
+#EXTINF:-1,HBO FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30236
+#EXTINF:-1,HBO Mundi FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/467
+#EXTINF:-1,HBO Mundi FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30239
+#EXTINF:-1,HBO Plus FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/465
+#EXTINF:-1,HBO Plus FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30237
+#EXTINF:-1,HBO POP FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/469
+#EXTINF:-1,HBO Pop FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30241
+#EXTINF:-1,HBO Signature FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/466
+#EXTINF:-1,HBO Signature FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30238
+#EXTINF:-1,HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/468
+#EXTINF:-1,HBO Xtreme FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30240
+#EXTINF:-1,HGTV FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/167
+#EXTINF:-1,HGTV FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30253
+#EXTINF:-1,History Channel 2 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/173
+#EXTINF:-1,History Channel 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30262
+#EXTINF:-1,History Channel FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/174
+#EXTINF:-1,History Channel FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30250
+#EXTINF:-1,Investigacao Discovery Channel FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30259
+#EXTINF:-1,Investigacao Discovery FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/175
+#EXTINF:-1,Life Time FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/280
+#EXTINF:-1,Life Time FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30217
+#EXTINF:-1,Loading FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/58245
+#EXTINF:-1,Love Natural FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/50835
+#EXTINF:-1,Mais GloboSat FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/103
+#EXTINF:-1,Mais GloboSat FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30194
+#EXTINF:-1,MegaPix FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/281
+#EXTINF:-1,MegaPix FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30218
+#EXTINF:-1,MTV  FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30175
+#EXTINF:-1,MTV FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/1
+#EXTINF:-1,MTV Live FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/2
+#EXTINF:-1,MTV Live FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30172
+#EXTINF:-1,Multishow FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/3
+#EXTINF:-1,MultShow FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30173
+#EXTINF:-1,Music BOX BRASIL FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/4
+#EXTINF:-1,MUSIC BOX BRAZIL  FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30176
+#EXTINF:-1,NatGeo Kids FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/129
+#EXTINF:-1,NatGeo KIDS FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30272
+#EXTINF:-1,National Geografic FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30251
+#EXTINF:-1,National Geografic Wild FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30252
+#EXTINF:-1,National Geographic FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/176
+#EXTINF:-1,National Geographic Wild FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/177
+#EXTINF:-1,Nick JR FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/130
+#EXTINF:-1,Nick JR FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30263
+#EXTINF:-1,Nickelodeon FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/131
+#EXTINF:-1,Nickelodeon FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30264
+#EXTINF:-1,Novo Tempo FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/56180
+#EXTINF:-1,Novo Tempo FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30294
+#EXTINF:-1,OFF FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/253
+#EXTINF:-1,OFF FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30279
+#EXTINF:-1,Paramount Channel FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/296
+#EXTINF:-1,Paramount Channel FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30213
+#EXTINF:-1,PlayKids FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/137
+#EXTINF:-1,Premiere 2 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/525
+#EXTINF:-1,Premiere 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30284
+#EXTINF:-1,Premiere 3  FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30285
+#EXTINF:-1,Premiere 3 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/526
+#EXTINF:-1,Premiere 4 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/527
+#EXTINF:-1,Premiere 4 FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30288
+#EXTINF:-1,Premiere 5 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/528
+#EXTINF:-1,Premiere 5 FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30286
+#EXTINF:-1,Premiere 6 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/529
+#EXTINF:-1,Premiere 6 FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30289
+#EXTINF:-1,Premiere 7 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/530
+#EXTINF:-1,Premiere 7 FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30290
+#EXTINF:-1,Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/524
+#EXTINF:-1,Premiere Clubes FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30287
+#EXTINF:-1,Prime Box Brasil FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/104
+#EXTINF:-1,Prime Box Brasil FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30190
+#EXTINF:-1,Record News FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/511
+#EXTINF:-1,Record News FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30197
+#EXTINF:-1,RecordTV RJ FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/50880
+#EXTINF:-1,RecordTV SP FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/45
+#EXTINF:-1,RecordTv SP FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30178
+#EXTINF:-1,Rede Vida FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/545
+#EXTINF:-1,Rede Vida FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30296
+#EXTINF:-1,RedeTV! FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/48
+#EXTINF:-1,RedeTv! FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30180
+#EXTINF:-1,SBT FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30179
+#EXTINF:-1,SBT RJ FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/50875
+#EXTINF:-1,SBT SP FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/46
+#EXTINF:-1,Smithsonian Channel FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/178
+#EXTINF:-1,Smithsonian FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30261
+#EXTINF:-1,Sony Channel  FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30216
+#EXTINF:-1,Sony Channel FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/274
+#EXTINF:-1,Space FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/282
+#EXTINF:-1,Space FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30214
+#EXTINF:-1,Space FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30220
+#EXTINF:-1,SporTV 2 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/553
+#EXTINF:-1,SporTV 2 FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30291
+#EXTINF:-1,SporTV 3 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/554
+#EXTINF:-1,SporTV 3 FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30292
+#EXTINF:-1,SporTV FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/555
+#EXTINF:-1,SporTV FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30293
+#EXTINF:-1,Studio Universal FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/283
+#EXTINF:-1,Studio Universal FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30221
+#EXTINF:-1,SYFY FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/284
+#EXTINF:-1,SYFY FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30222
+#EXTINF:-1,TBS FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/285
+#EXTINF:-1,TBS FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30223
+#EXTINF:-1,Telecine Action FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/562
+#EXTINF:-1,Telecine Action FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30242
+#EXTINF:-1,Telecine Cult FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/567
+#EXTINF:-1,Telecine Cult FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30243
+#EXTINF:-1,Telecine Fun FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/563
+#EXTINF:-1,Telecine Fun FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30244
+#EXTINF:-1,Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/564
+#EXTINF:-1,Telecine Pipoca FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30245
+#EXTINF:-1,Telecine Premium FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/565
+#EXTINF:-1,Telecine Premium FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30246
+#EXTINF:-1,Telecine Touch FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/566
+#EXTINF:-1,Telecine Touch FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30247
+#EXTINF:-1,TLC FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/286
+#EXTINF:-1,TLC FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30229
+#EXTINF:-1,TNT FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/287
+#EXTINF:-1,TNT FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30224
+#EXTINF:-1,TNT Series FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/288
+#EXTINF:-1,TNT Series FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30225
+#EXTINF:-1,Tooncast FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/48756
+#EXTINF:-1,Trace Brazuca FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/50878
+#EXTINF:-1,Travel Box Brasil FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/50882
+#EXTINF:-1,Travel Box Brasil FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30188
+#EXTINF:-1,TruTV FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/289
+#EXTINF:-1,TruTV FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30232
+#EXTINF:-1,TV Aparecida FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30297
+#EXTINF:-1,TV Cultura FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/47
+#EXTINF:-1,TV Cultura FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30183
+#EXTINF:-1,TV Gazeta SP FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/49
+#EXTINF:-1,Tv Gazeta SP FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30189
+#EXTINF:-1,TV RA-TIM-BUM FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/132
+#EXTINF:-1,Universal Channel FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/290
+#EXTINF:-1,Universal Channel FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30230
+#EXTINF:-1,VH1 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/291
+#EXTINF:-1,VH1 FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30231
+#EXTINF:-1,Viva FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/105
+#EXTINF:-1,VIVA FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30298
+#EXTINF:-1,Warner Channel FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/297
+#EXTINF:-1,Warner Channel FHD[H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30226
+#EXTINF:-1,WOOHOO  FHD [H265]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/30174
+#EXTINF:-1,WOOHOO FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/19404415/1581/133
