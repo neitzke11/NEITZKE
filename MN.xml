@@ -57,3 +57,13 @@
 <info></info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>filmes</name>
+<thumbnail></thumbnail>
+<externallink>https://github.com/neitzke11/NEITZKE/raw/master/filmes.xml</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
