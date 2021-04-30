@@ -95,18 +95,62 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/30191
 #EXTINF:-1,Comedy Central HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/106
-#EXTINF:-1,Conmebol 01
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/49106
-#EXTINF:-1,Conmebol 01 FHD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/49102
-#EXTINF:-1,Conmebol 02 [ALTER]
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/49107
-#EXTINF:-1,Conmebol 02 FHD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/49103
-#EXTINF:-1,Conmebol 03 FHD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/49104
-#EXTINF:-1,Conmebol 04 FHD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/49105
+#EXTINF:-1,Conmebol TV 1 HD [A]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65561
+#EXTINF:-1,Conmebol TV 2 HD [A]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65562
+#EXTINF:-1,Conmebol TV 3 HD [A]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65563
+#EXTINF:-1,Conmebol TV 4 HD [A]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65564
+#EXTINF:-1,Conmebol TV 1 FHD [B]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65565
+#EXTINF:-1,Conmebol  TV 2 FHD [B]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65566
+#EXTINF:-1,Conmebol TV 3 FHD [B]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65567
+#EXTINF:-1,Conmebol TV 4 FHD [B]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65568
+#EXTINF:-1,Conmebol TV 1 HD [B]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65569
+#EXTINF:-1,Conmebol TV 2 HD [B]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65570
+#EXTINF:-1,Conmebol TV 3 HD [B]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65571
+#EXTINF:-1,Conmebol TV 4 HD [B]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65572
+#EXTINF:-1,Conmebol TV 1 FHD [C]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65573
+#EXTINF:-1,Conmebol TV 2 FHD [C]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65574
+#EXTINF:-1,Conmebol TV 3 FHD [C]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65575
+#EXTINF:-1,Conmebol TV 4 FHD [C]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65576
+#EXTINF:-1,Conmebol TV 1 HD [C]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65577
+#EXTINF:-1,Conmebol TV 2 HD [C]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65578
+#EXTINF:-1,Conmebol TV 3 HD [C]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65579
+#EXTINF:-1,Conmebol TV 4 HD [C]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65580
+#EXTINF:-1,Conmebol TV 1 SD [C]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65581
+#EXTINF:-1,Conmebol TV 2 SD [C]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65582
+#EXTINF:-1,Conmebol TV 3 SD [C]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65583
+#EXTINF:-1,Conmebol TV 4 SD [C]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65584
+#EXTINF:-1,Conmebol TV 01 HD [D]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65585
+#EXTINF:-1,Conmebol TV 02 HD [D]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65586
+#EXTINF:-1,Conmebol TV 03 HD [D]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65587
+#EXTINF:-1,Conmebol TV 4 HD [D]
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/65588
 #EXTINF:-1,Curta! FHD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/23136533/3672/98
 #EXTINF:-1,Curta! FHD [H265]
