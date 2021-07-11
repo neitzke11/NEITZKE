@@ -1,0 +1,529 @@
+#EXTM3U
+#EXTINF:-1,A&E
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37130
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36929
+#EXTINF:-1,Agro+
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/76251
+#EXTINF:-1,Agro+ HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/76250
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/41087
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36928
+#EXTINF:-1,Animal Planet
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37128
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36992
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37132
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36991
+#EXTINF:-1,Band
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37127
+#EXTINF:-1,Band HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36990
+#EXTINF:-1,Band RS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63681
+#EXTINF:-1,Band SP
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/68522
+#EXTINF:-1,Band SP HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/41530
+#EXTINF:-1,BandNews
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37126
+#EXTINF:-1,BandNews HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/42411
+#EXTINF:-1,BandSports
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37125
+#EXTINF:-1,BandSports HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36989
+#EXTINF:-1,BIS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37131
+#EXTINF:-1,BIS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36988
+#EXTINF:-1,Boomerang
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37123
+#EXTINF:-1,Boomerang HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63627
+#EXTINF:-1,Canal Brasil
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37122
+#EXTINF:-1,Canal Brasil HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63636
+#EXTINF:-1,Canal do Boi
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/50645
+#EXTINF:-1,Canal do Boi HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/68528
+#EXTINF:-1,Canal Rural
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63217
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37121
+#EXTINF:-1,Cartoon Network HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36927
+#EXTINF:-1,Chef TV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63400
+#EXTINF:-1,Cinemax
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37120
+#EXTINF:-1,Cinemax HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36926
+#EXTINF:-1,CNN BRASIL
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/65040
+#EXTINF:-1,CNN BRASIL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/65039
+#EXTINF:-1,Combate
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37119
+#EXTINF:-1,Combate HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36986
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37118
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36925
+#EXTINF:-1,CONMEBOL 01 (G)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/74079
+#EXTINF:-1,CONMEBOL 01 (J)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/75600
+#EXTINF:-1,CONMEBOL 01 (P)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/74044
+#EXTINF:-1,CONMEBOL 01 (S)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/74105
+#EXTINF:-1,CONMEBOL 02 (G)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/74080
+#EXTINF:-1,CONMEBOL 02 (J)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/75601
+#EXTINF:-1,CONMEBOL 02 (P)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/74076
+#EXTINF:-1,CONMEBOL 02 (S)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/74106
+#EXTINF:-1,CONMEBOL 03 (G)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/74103
+#EXTINF:-1,CONMEBOL 03 (J)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/75602
+#EXTINF:-1,CONMEBOL 03 (P)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/74077
+#EXTINF:-1,CONMEBOL 04 (G)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/74104
+#EXTINF:-1,CONMEBOL 04 (J)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/75603
+#EXTINF:-1,CONMEBOL 04 (P)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/74078
+#EXTINF:-1,Cultura
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/40073
+#EXTINF:-1,Cultura HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/61961
+#EXTINF:-1,Curta!
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37117
+#EXTINF:-1,Curta! HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63646
+#EXTINF:-1,DAZN 01 HD (A)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63112
+#EXTINF:-1,DAZN 01 HD (B)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/72972
+#EXTINF:-1,DAZN 02 HD (A)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63113
+#EXTINF:-1,DAZN 02 HD (B)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/72973
+#EXTINF:-1,DAZN 03 HD (A)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63115
+#EXTINF:-1,DAZN 03 HD (B)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/72974
+#EXTINF:-1,DAZN 04 HD (A)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63116
+#EXTINF:-1,DAZN 04 HD (B)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/72975
+#EXTINF:-1,DAZN 05 HD (B)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/72976
+#EXTINF:-1,DAZN 06 HD (B)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/72977
+#EXTINF:-1,DAZN 1 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/58130
+#EXTINF:-1,DAZN 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/58433
+#EXTINF:-1,Discovery Channel
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37116
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36985
+#EXTINF:-1,Discovery Home & Health
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36984
+#EXTINF:-1,Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37115
+#EXTINF:-1,Discovery Science
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/51002
+#EXTINF:-1,Discovery Science HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36922
+#EXTINF:-1,Discovery Theater HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36983
+#EXTINF:-1,Discovery Turbo
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37112
+#EXTINF:-1,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36982
+#EXTINF:-1,Discovery World
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/64498
+#EXTINF:-1,Discovery World HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36981
+#EXTINF:-1,Disney Channel
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37111
+#EXTINF:-1,Disney Channel
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/64786
+#EXTINF:-1,Disney Channel HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36921
+#EXTINF:-1,Disney XD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37109
+#EXTINF:-1,Disney XD HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/50717
+#EXTINF:-1,E!
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37108
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36920
+#EXTINF:-1,ESPN
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37105
+#EXTINF:-1,ESPN 2
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/62745
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36976
+#EXTINF:-1,ESPN Brasil
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37104
+#EXTINF:-1,ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/73051
+#EXTINF:-1,ESPN Extra
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/41977
+#EXTINF:-1,ESPN Extra HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/42910
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36977
+#EXTINF:-1,Eurochannel
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/75174
+#EXTINF:-1,Eurochannel HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/75173
+#EXTINF:-1,Film&Arts
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/41374
+#EXTINF:-1,Film&Arts HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/68536
+#EXTINF:-1,Food Network
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37102
+#EXTINF:-1,Food Network HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36919
+#EXTINF:-1,FoxSports
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37099
+#EXTINF:-1,FoxSports HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36970
+#EXTINF:-1,FoxSports 2
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37098
+#EXTINF:-1,FoxSports 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36971
+#EXTINF:-1,Futura
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/40074
+#EXTINF:-1,Futura HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/68530
+#EXTINF:-1,FX
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37097
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36969
+#EXTINF:-1,Globo SP
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37090
+#EXTINF:-1,Globo SP HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37361
+#EXTINF:-1,GloboNews
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37093
+#EXTINF:-1,GloboNews HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36917
+#EXTINF:-1,Gloob
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37089
+#EXTINF:-1,Gloob HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36915
+#EXTINF:-1,GNT
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37088
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36967
+#EXTINF:-1,HBO
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/65114
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36964
+#EXTINF:-1,HBO 2
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37086
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36966
+#EXTINF:-1,HBO Family
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37085
+#EXTINF:-1,HBO Family HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36965
+#EXTINF:-1,HBO Mundi
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37076
+#EXTINF:-1,HBO Mundi HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36913
+#EXTINF:-1,HBO Plus
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37084
+#EXTINF:-1,HBO Plus HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36963
+#EXTINF:-1,HBO POP
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37073
+#EXTINF:-1,HBO POP HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36911
+#EXTINF:-1,HBO Signature
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37082
+#EXTINF:-1,HBO Signature HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36962
+#EXTINF:-1,HBO Xtreme
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37075
+#EXTINF:-1,HBO Xtreme HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36912
+#EXTINF:-1,HGTV
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63272
+#EXTINF:-1,HGTV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36924
+#EXTINF:-1,History
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37081
+#EXTINF:-1,History HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36960
+#EXTINF:-1,History 2
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/42915
+#EXTINF:-1,History 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36961
+#EXTINF:-1,ID: Investigação Discovery
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37114
+#EXTINF:-1,ID: Investigação Discovery HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36959
+#EXTINF:-1,Lifetime
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37077
+#EXTINF:-1,Lifetime HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36914
+#EXTINF:-1,Loading
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/76606
+#EXTINF:-1,Loading HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/76607
+#EXTINF:-1,Mais GloboSat
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63629
+#EXTINF:-1,Mais GloboSat HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/73453
+#EXTINF:-1,Megapix
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37072
+#EXTINF:-1,Megapix HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36958
+#EXTINF:-1,MTV
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37071
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36910
+#EXTINF:-1,Multishow
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37070
+#EXTINF:-1,Multishow HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36957
+#EXTINF:-1,Music Box Brazil
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37069
+#EXTINF:-1,Music Box Brazil HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63651
+#EXTINF:-1,National Geographic
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37068
+#EXTINF:-1,National Geographic HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36956
+#EXTINF:-1,National Geographic Wild
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37066
+#EXTINF:-1,National Geographic Wild HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36955
+#EXTINF:-1,Nick
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37064
+#EXTINF:-1,Nick HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36907
+#EXTINF:-1,Off
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37063
+#EXTINF:-1,Off HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36954
+#EXTINF:-1,Paramount Channel
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37062
+#EXTINF:-1,Paramount Channel HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36953
+#EXTINF:-1,PlayTV
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63410
+#EXTINF:-1,PlayTV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63411
+#EXTINF:-1,Polishop TV
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/61690
+#EXTINF:-1,Premiere Clubes
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37016
+#EXTINF:-1,Premiere Clubes HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36948
+#EXTINF:-1,Premiere 2
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37060
+#EXTINF:-1,Premiere 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36952
+#EXTINF:-1,Premiere 3
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37059
+#EXTINF:-1,Premiere 3 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36951
+#EXTINF:-1,Premiere 4
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37058
+#EXTINF:-1,Premiere 4 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36950
+#EXTINF:-1,Premiere 5
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37057
+#EXTINF:-1,Premiere 5 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36949
+#EXTINF:-1,Premiere 6
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37056
+#EXTINF:-1,Premiere 6 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36906
+#EXTINF:-1,Premiere 7
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37017
+#EXTINF:-1,Premiere 7 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36905
+#EXTINF:-1,Premiere 8
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/54120
+#EXTINF:-1,Premiere 8 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/64657
+#EXTINF:-1,Prime Box Brazil
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37053
+#EXTINF:-1,Prime Box Brazil HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/68532
+#EXTINF:-1,RBS TV Pelotas
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/52543
+#EXTINF:-1,RBS TV Pelotas HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/52542
+#EXTINF:-1,RBS TV Porto Alegre
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/42959
+#EXTINF:-1,RBS TV Porto Alegre HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/40252
+#EXTINF:-1,Record News
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/41529
+#EXTINF:-1,Record News HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37050
+#EXTINF:-1,RecordTV
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37051
+#EXTINF:-1,RecordTV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36947
+#EXTINF:-1,RecordTV RS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/62090
+#EXTINF:-1,RecordTV RS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/62987
+#EXTINF:-1,Rede Brasil
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37013
+#EXTINF:-1,RedeTV!
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37012
+#EXTINF:-1,RedeTV! HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36946
+#EXTINF:-1,SBT
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37048
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36945
+#EXTINF:-1,SBT RS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/61889
+#EXTINF:-1,SBT SP
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/61970
+#EXTINF:-1,Sony Channel
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37007
+#EXTINF:-1,Sony Channel HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36987
+#EXTINF:-1,Space
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37046
+#EXTINF:-1,Space HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36944
+#EXTINF:-1,SporTV
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37256
+#EXTINF:-1,SporTV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37255
+#EXTINF:-1,SporTV 2
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37044
+#EXTINF:-1,SporTV 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36943
+#EXTINF:-1,SporTV 3
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37006
+#EXTINF:-1,SporTV 3 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36942
+#EXTINF:-1,Star Channel
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37101
+#EXTINF:-1,Star Channel HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36972
+#EXTINF:-1,Star Hits
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37335
+#EXTINF:-1,Star Hits HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36974
+#EXTINF:-1,Star Hits 2
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37336
+#EXTINF:-1,Star Hits 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36973
+#EXTINF:-1,Star Life
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37100
+#EXTINF:-1,Star Life HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36918
+#EXTINF:-1,Studio Universal
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37043
+#EXTINF:-1,Studio Universal HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36904
+#EXTINF:-1,Syfy
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37042
+#EXTINF:-1,Syfy HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36903
+#EXTINF:-1,TBS
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37041
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36940
+#EXTINF:-1,TCM
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37037
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63644
+#EXTINF:-1,Telecine Action
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37040
+#EXTINF:-1,Telecine Action HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36939
+#EXTINF:-1,Telecine Cult
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37039
+#EXTINF:-1,Telecine Cult HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36901
+#EXTINF:-1,Telecine Fun
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37005
+#EXTINF:-1,Telecine Fun HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36938
+#EXTINF:-1,Telecine Pipoca
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37038
+#EXTINF:-1,Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36937
+#EXTINF:-1,Telecine Premium
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36994
+#EXTINF:-1,Telecine Premium HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36936
+#EXTINF:-1,Telecine Touch
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36995
+#EXTINF:-1,Telecine Touch HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36935
+#EXTINF:-1,Terra Viva
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37004
+#EXTINF:-1,TLC
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37036
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36902
+#EXTINF:-1,TNT
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37035
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36934
+#EXTINF:-1,TNT Séries
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37034
+#EXTINF:-1,TNT Séries HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36933
+#EXTINF:-1,Tooncast
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37033
+#EXTINF:-1,Tooncast HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63647
+#EXTINF:-1,Travel Box Brazil
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/68526
+#EXTINF:-1,Travel Box Brazil HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/68525
+#EXTINF:-1,TruTV
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37032
+#EXTINF:-1,TruTV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/63649
+#EXTINF:-1,TV Pampa (Rede TV RS)
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/76262
+#EXTINF:-1,Universal TV
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37027
+#EXTINF:-1,Universal TV HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36932
+#EXTINF:-1,VH1 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36900
+#EXTINF:-1,Viva
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36997
+#EXTINF:-1,Viva HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36931
+#EXTINF:-1,Warner Channel
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36996
+#EXTINF:-1,Warner Channel HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36930
+#EXTINF:-1,Woohoo
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/37025
+#EXTINF:-1,Woohoo HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/Euhzmq9WpK/factoryiptv/36899
