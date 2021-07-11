@@ -75,8 +75,8 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/044297076/7140/275
 #EXTINF:-1,CineMax FHD[H265]
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/044297076/7140/30215
-#EXTINF:-1,CineMax HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/044297076/7140/303
+#EXTINF:-1,CineMax SD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/044297076/7140/328
 #EXTINF:-1,CNN Brasil FHD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/044297076/7140/513
 #EXTINF:-1,CNN Brasil FHD[H265]

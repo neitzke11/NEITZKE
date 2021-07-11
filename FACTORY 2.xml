@@ -499,10 +499,6 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/C37F0dSYxs/factoryiptv/37033
 #EXTINF:-1,Tooncast HD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/C37F0dSYxs/factoryiptv/63647
-#EXTINF:-1,Trace Brazuca
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/C37F0dSYxs/factoryiptv/76249
-#EXTINF:-1,Trace Brazuca HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/C37F0dSYxs/factoryiptv/76248
 #EXTINF:-1,Travel Box Brazil
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://tv.factoryiptv.com:80/C37F0dSYxs/factoryiptv/68526
 #EXTINF:-1,Travel Box Brazil HD

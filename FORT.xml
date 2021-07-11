@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,BR: BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://fortv.cc:8080/christina/christina/79105
+#EXTINF:-1,BR: ESPN HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://fortv.cc:8080/christina/christina/43490
+#EXTINF:-1,BR: GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://fortv.cc:8080/christina/christina/79104
+#EXTINF:-1,BR: GLOBO SP
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://fortv.cc:8080/christina/christina/21020
+#EXTINF:-1,BR: HBO 2 FHD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://fortv.cc:8080/christina/christina/21017
+#EXTINF:-1,BR: HBO HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://fortv.cc:8080/christina/christina/21016
+#EXTINF:-1,BR: HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://fortv.cc:8080/christina/christina/21015
+#EXTINF:-1,BR: HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://fortv.cc:8080/christina/christina/21014
+#EXTINF:-1,BR: RECORD RJ HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://fortv.cc:8080/christina/christina/16200
+#EXTINF:-1,BR: SBT HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://fortv.cc:8080/christina/christina/20978
+#EXTINF:-1,BR: SPORTV
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://fortv.cc:8080/christina/christina/43492
+#EXTINF:-1,BR: SPORTV 2 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://fortv.cc:8080/christina/christina/43491
+#EXTINF:-1,BR: SPORTV 3 HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://fortv.cc:8080/christina/christina/43493
+#EXTINF:-1,BR: STAR CHANNEL
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://fortv.cc:8080/christina/christina/43494
+#EXTINF:-1,BR: TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://fortv.cc:8080/christina/christina/21021
+#EXTINF:-1,BR: TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://fortv.cc:8080/christina/christina/21022
+#EXTINF:-1,BR: TNT HD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://fortv.cc:8080/christina/christina/21024

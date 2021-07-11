@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,CBF TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://playlists.mycujoo.football/sa/ckox4ya0opo900gbqxcclkys4/720p/playlist.m3u8
 #EXTINF:-1,A&E FHD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/33732940/14864/293
 #EXTINF:-1,A&E FHD[H265]
@@ -77,8 +75,8 @@ plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/33732940/14864/275
 #EXTINF:-1,CineMax FHD[H265]
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/33732940/14864/30215
-#EXTINF:-1,CineMax HD
-plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/33732940/14864/303
+#EXTINF:-1,CineMax SD
+plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/33732940/14864/328
 #EXTINF:-1,CNN Brasil FHD
 plugin://plugin.video.f4mTester/?name=NPLAY&streamtype=TSDOWNLOADER&amp;url=http://pfsv.io:80/33732940/14864/513
 #EXTINF:-1,CNN Brasil FHD[H265]
