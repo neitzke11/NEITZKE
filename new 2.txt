@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1,(500) Dias com Ela (2009)
-https://5.orezraey.workers.dev/0:/Filmes/A/A%20Clockwork%20Orange%20(1971)/A%20Clockwork%20Orange%20(1971)%20[BD1080p].mp4?a=view
-#EXTINF:-1,(500) Dias com Ela (2009)2
-https://5.orezraey.workers.dev/0:/Filmes/A/A%20Clockwork%20Orange%20(1971)/A%20Clockwork%20Orange%20(1971)%20[BD1080p].mp4
